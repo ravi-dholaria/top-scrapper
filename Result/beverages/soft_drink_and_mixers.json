@@ -1,0 +1,3332 @@
+[
+    {
+        "Product_Name": "(OTOP) Tongtin Madi Sparkling Kombucha Original Flavor 330ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//MADI-MadiSparklingKombuchaOriginalFlavor330ml-8857120592050-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8857120592050",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "MADI"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/otop-tongtin-madi-sparkling-kombucha-original-flavor-330ml-8857120592050",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Zuza Sparkling Calamansi Flavour Drink 240ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TONGTIN-TongtinZuzaSparklingCalamansiFlavourDrink240ml-8851906883950-1?$JPEG$"
+        ],
+        "Quantity": "240ml",
+        "Barcode_Number": "8851906883950",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Beverages",
+            "ZUZA"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/zuza-sparkling-calamansi-flavour-drink-240ml-8851906883950",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Zuza Sparkling Lychee Flavour Drink 240 ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//TONGTIN-TongtinZuzaSparklingLycheeFlavourDrink240ml-8851906883936-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8851906883936",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Beverages",
+            "ZUZA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/zuza-sparkling-lychee-flavour-drink-240-ml-8851906883936",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Bee Sis Craft Soda Sparkling Drink with Rose Tea and Honey 265ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//BESIS-TongtinBeeSisCraftSodaSparklingDrinkwithRoseTeaandHoney265ml-8857128605004-1?$JPEG$"
+        ],
+        "Quantity": "265ml",
+        "Barcode_Number": "8857128605004",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "BE SIS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/bee-sis-craft-soda-sparkling-drink-with-rose-tea-and-honey-265ml-8857128605004",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Bee Sis Craft Soda Sparkling Drink with RoseTeaandHoneyPeachFlavor 265ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//BESIS-TongtinBeeSisCraftSodaSparklingDrinkwithRoseTeaandHoneyPeachFlavor265ml-8857128605011-1?$JPEG$"
+        ],
+        "Quantity": "265ml",
+        "Barcode_Number": "8857128605011",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "BE SIS"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/bee-sis-craft-soda-sparkling-drink-with-roseteaandhoneypeachflavor-265ml-8857128605011",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Madi Sparkling Kombucha Malt Flavor 330ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//MADI-MadiSparklingKombuchaMaltFlavor330ml-8857120592043-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8857120592043",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "MADI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/madi-sparkling-kombucha-malt-flavor-330ml-8857120592043",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Singha Soda 325cc. Pack 24",
+        "Product_Images": [
+            "https://assets.tops.co.th//SINGHA-SinghaSoda325ccPack24-8850999220024-1"
+        ],
+        "Quantity": "325cc",
+        "Barcode_Number": "8850999220024",
+        "Product_Detail": null,
+        "Price": "190",
+        "Labels": [
+            "Shop by Brands /// Singha /// Singha Soda",
+            "SINGHA"
+        ],
+        "Stock": "211",
+        "URL": "https://www.tops.co.th/en/singha-soda-325cc-pack-24-8850999220024",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke No Sugar Can 325ml. Pack 24",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeNoSugarCan325mlPack24-8851959232071-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959232071",
+        "Product_Detail": null,
+        "Price": "332",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "42",
+        "URL": "https://www.tops.co.th/en/coke-no-sugar-can-325ml-pack-24-8851959232071",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Cola Carbonated Drinks 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiColaCarbonatedDrinks325mlPack6-8858998571277-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8858998571277",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "49",
+        "URL": "https://www.tops.co.th/en/pepsi-cola-carbonated-drinks-325ml-pack-6-8858998571277",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Zero Sugar 325ml. Can Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiNoSugar325mlCanPack6-8858998571284-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8858998571284",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "58",
+        "URL": "https://www.tops.co.th/en/pepsi-zero-sugar-325ml-can-pack-6-8858998571284",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-Coke325mlPack6-8851959632017-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632017",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "421",
+        "URL": "https://www.tops.co.th/en/coke-325ml-pack-6-8851959632017",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke No Sugar Can 325ml. Pack 5 Free 1",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeNoSugarCan325mlPack5Free1-8851959632079-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632079",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "260",
+        "URL": "https://www.tops.co.th/en/coke-no-sugar-can-325ml-pack-5-free-1-8851959632079",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Singha Soda Water 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SINGHA-SinghaSodaWater325mlPack6-8850999000084-1"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8850999000084",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Thankyou-Singha-2025-jan /// Beverages",
+            "SINGHA"
+        ],
+        "Stock": "268",
+        "URL": "https://www.tops.co.th/en/singha-soda-water-325ml-pack-6-8850999000084",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-Coke15ltr-8851959143018-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959143018",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "101",
+        "URL": "https://www.tops.co.th/en/coke-15ltr-8851959143018",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke 325ml. Pack 24",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-Coke325mlPack24-8851959232019-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959232019",
+        "Product_Detail": null,
+        "Price": "332",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/coke-325ml-pack-24-8851959232019",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Lipton Sparkling Lemon No Sugar 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//LIPTON-LiptonSparklingLemonNoSugar325mlPack6-8858998575091-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8858998575091",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "LIPTON"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/lipton-sparkling-lemon-no-sugar-325ml-pack-6-8858998575091",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke Light 325ml. Pack 24",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeLight325mlPack24-8851959232057-1"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959232057",
+        "Product_Detail": null,
+        "Price": "332",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/coke-light-325ml-pack-24-8851959232057",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Zero Sugar 245ml. Pack6",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiCarbonatedDrinkColaFlavorNoSugar245mlPack6-8858998571161-1?$JPEG$"
+        ],
+        "Quantity": "245ml",
+        "Barcode_Number": "8858998571161",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "PEPSI"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/pepsi-zero-sugar-245ml-pack6-8858998571161",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke Light 325ml. Pack 5 Free 1",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeLight325mlPack5Free1-8851959632055-1"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632055",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "118",
+        "URL": "https://www.tops.co.th/en/coke-light-325ml-pack-5-free-1-8851959632055",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Soda Water 330cc.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesSodaWater330cc-8851959132647-1"
+        ],
+        "Quantity": "330cc",
+        "Barcode_Number": "8851959132647",
+        "Product_Detail": null,
+        "Price": "17",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "SCHWEPPES"
+        ],
+        "Stock": "240",
+        "URL": "https://www.tops.co.th/en/schweppes-soda-water-330cc-8851959132647",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "7Up Lemon Soda No Sugar 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//7UP-7UpLemonSodaNoSugar325mlPack6-8858998573165-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8858998573165",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// 7UP",
+            "7UP"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/7up-lemon-soda-no-sugar-325ml-pack-6-8858998573165",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Grape Pop Flavored 325ml.Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaGrapePopFlavored325mlPack6-8851959632192-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632192",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/fanta-grape-pop-flavored-325mlpack-6-8851959632192",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke 1.95ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-Coke195ltr-8851959129012-1?$JPEG$"
+        ],
+        "Quantity": "1.95l",
+        "Barcode_Number": "8851959129012",
+        "Product_Detail": null,
+        "Price": "36",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/coke-195ltr-8851959129012",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi 1.45ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-Pepsi145ltr-8858998581061-1?$JPEG$"
+        ],
+        "Quantity": "1.45l",
+        "Barcode_Number": "8858998581061",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "84",
+        "URL": "https://www.tops.co.th/en/pepsi-145ltr-8858998581061",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Zero Sugar 1.45ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiNoSugar145ltr-8858998581177-1?$JPEG$"
+        ],
+        "Quantity": "1.45l",
+        "Barcode_Number": "8858998581177",
+        "Product_Detail": null,
+        "Price": "28",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/pepsi-zero-sugar-145ltr-8858998581177",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke Original 180ml. Pack 8",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeOriginal180mlPack8-8851959002896-1"
+        ],
+        "Quantity": "180ml",
+        "Barcode_Number": "8851959002896",
+        "Product_Detail": null,
+        "Price": "86",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "98",
+        "URL": "https://www.tops.co.th/en/coke-original-180ml-pack-8-8851959002896",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke No Sugar 1.95ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeNoSugar195ltr-8851959129074-1?$JPEG$"
+        ],
+        "Quantity": "1.95l",
+        "Barcode_Number": "8851959129074",
+        "Product_Detail": null,
+        "Price": "36",
+        "Labels": [
+            "Healthiful /// Health Specific /// Low in Sugar",
+            "COKE"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/coke-no-sugar-195ltr-8851959129074",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Tonic Water 330cc Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesTonicWater330ccPack6-8851959632659-1"
+        ],
+        "Quantity": "330cc",
+        "Barcode_Number": "8851959632659",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "SCHWEPPES"
+        ],
+        "Stock": "92",
+        "URL": "https://www.tops.co.th/en/schweppes-tonic-water-330cc-pack-6-8851959632659",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Hales Blue Boy  Sala 710cc.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HALESBLUEBOY-HalesBlueBoySala710cc-8850423000093-1"
+        ],
+        "Quantity": "710cc",
+        "Barcode_Number": "8850423000093",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "HALE'S BLUE BOY"
+        ],
+        "Stock": "48",
+        "URL": "https://www.tops.co.th/en/hales-blue-boy-sala-710cc-8850423000093",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke No Sugar 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeNoSugar15ltr-8851959143070-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959143070",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/coke-no-sugar-15ltr-8851959143070",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sprite 325ml. Pack 24",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPRITE-Sprite325mlPack24-8851959232361-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959232361",
+        "Product_Detail": null,
+        "Price": "332",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SPRITE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/sprite-325ml-pack-24-8851959232361",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke 510ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-Coke500ml-8851959141014-1?$JPEG$"
+        ],
+        "Quantity": "510ml",
+        "Barcode_Number": "8851959141014",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "43",
+        "URL": "https://www.tops.co.th/en/coke-510ml-8851959141014",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Green 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaGreen15ltr-8851959143186-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959143186",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/fanta-green-15ltr-8851959143186",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sprite 325ml. Pack6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPRITE-Sprite325mlPack6-8851959632369-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632369",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SPRITE"
+        ],
+        "Stock": "37",
+        "URL": "https://www.tops.co.th/en/sprite-325ml-pack6-8851959632369",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Rock Mountain Soda 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROCKMOUNTAIN-RockMountainSoda325mlPack6-8851994112031-1"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851994112031",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "ROCK MOUNTAIN"
+        ],
+        "Stock": "43",
+        "URL": "https://www.tops.co.th/en/rock-mountain-soda-325ml-pack-6-8851994112031",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sprite 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPRITE-Sprite15ltr-8851959143360-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959143360",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SPRITE"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/sprite-15ltr-8851959143360",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Sparkling Dry Ginger Ale 330cc Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesSparklingDryGingerAle330ccPack6-8851959632666-1"
+        ],
+        "Quantity": "330cc",
+        "Barcode_Number": "8851959632666",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "SCHWEPPES"
+        ],
+        "Stock": "49",
+        "URL": "https://www.tops.co.th/en/schweppes-sparkling-dry-ginger-ale-330cc-pack-6-8851959632666",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Red 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaRed15ltr-8851959143179-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959143179",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "29",
+        "URL": "https://www.tops.co.th/en/fanta-red-15ltr-8851959143179",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke No Sugar 510ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeNoSugar500ml-8851959141076-1?$JPEG$"
+        ],
+        "Quantity": "510ml",
+        "Barcode_Number": "8851959141076",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/coke-no-sugar-510ml-8851959141076",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Lime Soda Zero Sugar 330ml. Pack 5 Free 1",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesLimeSodaZeroSugar330mlPack5Free1-8851959002735-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959002735",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "SCHWEPPES"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/schweppes-lime-soda-zero-sugar-330ml-pack-5-free-1-8851959002735",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Singha Lemon Soda 330ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SINGHA-SinghaLemonSoda330mlPack6-8850999016870-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8850999016870",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Thankyou-Singha-2025-jan /// Beverages",
+            "SINGHA"
+        ],
+        "Stock": "38",
+        "URL": "https://www.tops.co.th/en/singha-lemon-soda-330ml-pack-6-8850999016870",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Lime Soda 330ml. Pack 12",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesLimeSoda330mlPack12-8851959432679-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959432679",
+        "Product_Detail": null,
+        "Price": "178",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SCHWEPPES"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/schweppes-lime-soda-330ml-pack-12-8851959432679",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Lime Soda 330ml. Pack 24",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesLimeSoda330mlPack24-8851959232675-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959232675",
+        "Product_Detail": null,
+        "Price": "292",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SCHWEPPES"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/schweppes-lime-soda-330ml-pack-24-8851959232675",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Orange 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaOrange15ltr-8851959143162-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959143162",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/fanta-orange-15ltr-8851959143162",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Carbonated Drinks Cola Flavour 1.95ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiCarbonatedDrinksColaFlavour195ltr-8858998581214-1?$JPEG$"
+        ],
+        "Quantity": "1.95l",
+        "Barcode_Number": "8858998581214",
+        "Product_Detail": null,
+        "Price": "36",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "29",
+        "URL": "https://www.tops.co.th/en/pepsi-carbonated-drinks-cola-flavour-195ltr-8858998581214",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sprite Sugar Free Carbonated Drink Lemon Lime Flavour 325ml. Pack 5 Free 1",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPRITE-SpriteNoSugar325mlX5Free1-8851959632390-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632390",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "SPRITE"
+        ],
+        "Stock": "53",
+        "URL": "https://www.tops.co.th/en/sprite-sugar-free-carbonated-drink-lemon-lime-flavour-325ml-pack-5-free-1-8851959632390",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Carbonated Drink Cola Flavor No Sugar 1.95ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiCarbonatedDrinkColaFlavorNoSugar195ltr-8858998581818-1?$JPEG$"
+        ],
+        "Quantity": "1.95l",
+        "Barcode_Number": "8858998581818",
+        "Product_Detail": null,
+        "Price": "36",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "PEPSI"
+        ],
+        "Stock": "26",
+        "URL": "https://www.tops.co.th/en/pepsi-carbonated-drink-cola-flavor-no-sugar-195ltr-8858998581818",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Singha Red Lemon Soda No Sugar 330ml. Pack 5 Free 1",
+        "Product_Images": [
+            "https://assets.tops.co.th//SINGHA-SinghaRedLemonSodaNoSugar330mlPack5Free1-8850999019161-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8850999019161",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Thankyou-Singha-2025-jan /// Beverages",
+            "SINGHA"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/singha-red-lemon-soda-no-sugar-330ml-pack-5-free-1-8850999019161",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke 180ml. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-Coke180mlPack4-8851959708019-1"
+        ],
+        "Quantity": "180ml",
+        "Barcode_Number": "8851959708019",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "60",
+        "URL": "https://www.tops.co.th/en/coke-180ml-pack-4-8851959708019",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke 1.5ltr. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-coke15ltrpack4-8851959743010-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959743010",
+        "Product_Detail": null,
+        "Price": "118",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/coke-15ltr-pack-4-8851959743010",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "A&W Rootbeer 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//AW-AWRootbeer325mlPack6-8851959632543-1"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632543",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "A&W"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/aw-rootbeer-325ml-pack-6-8851959632543",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-Pepsi1ltr-8858998581054-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8858998581054",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/pepsi-1ltr-8858998581054",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke Zero Sugar Vanilla 325ml.Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeZeroSugarVanilla325mlPack6-8851959004326-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959004326",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/coke-zero-sugar-vanilla-325mlpack-6-8851959004326",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sarsi 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SARSI-Sarsi250ml-8851952160012-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8851952160012",
+        "Product_Detail": null,
+        "Price": "14",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SARSI"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/sarsi-250ml-8851952160012",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Singha Pink Lemon Soda 330ml. Pack 5Free1",
+        "Product_Images": [
+            "https://assets.tops.co.th//SINGHA-SinghaPinkLemonSoda330mlPack5Free1-8850999023212-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8850999023212",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Thankyou-Singha-2025-jan /// Beverages",
+            "SINGHA"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/singha-pink-lemon-soda-330ml-pack-5free1-8850999023212",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Calpis Lacto Soda Yoghurt Flovour 245ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CALPIS-CalpisLactoSodaYoghurtFlovour245ml-8851123238007-1?$JPEG$"
+        ],
+        "Quantity": "245ml",
+        "Barcode_Number": "8851123238007",
+        "Product_Detail": null,
+        "Price": "16",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "CALPIS"
+        ],
+        "Stock": "34",
+        "URL": "https://www.tops.co.th/en/calpis-lacto-soda-yoghurt-flovour-245ml-8851123238007",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Grape Pop Flavored 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaGrapePopFlavored15ltr-8851959003060-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959003060",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "39",
+        "URL": "https://www.tops.co.th/en/fanta-grape-pop-flavored-15ltr-8851959003060",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Lime Soda 330ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesLimeSoda330mlPack6-8851959632673-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959632673",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SCHWEPPES"
+        ],
+        "Stock": "29",
+        "URL": "https://www.tops.co.th/en/schweppes-lime-soda-330ml-pack-6-8851959632673",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Zero Sugar PET 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiNoSugarPET550ml-8858998581115-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8858998581115",
+        "Product_Detail": null,
+        "Price": "18",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/pepsi-zero-sugar-pet-550ml-8858998581115",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Red 325ml. Pack6",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaRed325mlPack6-8851959632178-1?$PNG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632178",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/fanta-red-325ml-pack6-8851959632178",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Orange 325ml. Pack6",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaOrange325mlPack6-8851959632161-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632161",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "28",
+        "URL": "https://www.tops.co.th/en/fanta-orange-325ml-pack6-8851959632161",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Singha Yuzu Lemon Soda 330ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SINGHA-SinghaYuzuLemonSoda330mlPack6-8850999018522-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8850999018522",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Thankyou-Singha-2025-jan /// Beverages",
+            "SINGHA"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/singha-yuzu-lemon-soda-330ml-pack-6-8850999018522",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "7Up Free 1.45ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//7UP-7UpFree145ltr-8858998583157-1"
+        ],
+        "Quantity": "1.45l",
+        "Barcode_Number": "8858998583157",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "7UP"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/7up-free-145ltr-8858998583157",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Bundaberg Ginger Beer 375ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BUNDABERG-BundabergGingerBeer375ml-0000093238946-1?$JPEG$"
+        ],
+        "Quantity": "375ml",
+        "Barcode_Number": "0000093238946",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "BUNDABERG"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/bundaberg-ginger-beer-375ml-0000093238946",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-Coke1ltr-8851959149010-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851959149010",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/coke-1ltr-8851959149010",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Singha Ume Lemon Soda No Sugar 330ml. Pack 5 Free 1",
+        "Product_Images": [
+            "https://assets.tops.co.th//SINGHA-SinghaUmeLemonSodaNoSugar330mlPack5Free1-8850999021249-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8850999021249",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Thankyou-Singha-2025-jan /// Beverages",
+            "SINGHA"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/singha-ume-lemon-soda-no-sugar-330ml-pack-5-free-1-8850999021249",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sprite Sugar Free Carbonated Drink Lemon Lime Flavour 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPRITE-SpriteSugarFreeCarbonatedDrinkLemonLimeFlavour15ltr-8851959143391-1"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959143391",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "SPRITE"
+        ],
+        "Stock": "33",
+        "URL": "https://www.tops.co.th/en/sprite-sugar-free-carbonated-drink-lemon-lime-flavour-15ltr-8851959143391",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "The Garden Eden Sparkling Drinking Green Apple Flavor with Vitamin C 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THEGARDENEDEN-TheGardenEdenSparklingDrinkingGreenAppleFlavorwithVitaminC330ml-8855796028101-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8855796028101",
+        "Product_Detail": null,
+        "Price": "18",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "THE GARDEN EDEN"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/the-garden-eden-sparkling-drinking-green-apple-flavor-with-vitamin-c-330ml-8855796028101",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fever Tree Mediterranean Tonic Water 200ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FEVERTREE-FeverTreeMediterraneanTonicWater200ml-5060108450508-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "5060108450508",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "FEVER TREE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/fever-tree-mediterranean-tonic-water-200ml-5060108450508",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fever Tree Tonic Water 200ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FEVERTREE-FeverTreeTonicWater200ml-5060108450003-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "5060108450003",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "FEVER TREE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/fever-tree-tonic-water-200ml-5060108450003",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Green 325ml.Pack6",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaGreen325mlPack6-8851959632185-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851959632185",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/fanta-green-325mlpack6-8851959632185",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke Zero Sugar Vanilla 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeZeroSugarVanilla15ltr-8851959004371-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959004371",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/coke-zero-sugar-vanilla-15ltr-8851959004371",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi No Sugar Lime Flavor 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiNoSugarLimeFlavor550ml-8858998581870-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8858998581870",
+        "Product_Detail": null,
+        "Price": "18",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "PEPSI"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/pepsi-no-sugar-lime-flavor-550ml-8858998581870",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "7UP No Sugar 440ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//7UP-7UPNoSugar440ml-8858998583140-1"
+        ],
+        "Quantity": "440ml",
+        "Barcode_Number": "8858998583140",
+        "Product_Detail": null,
+        "Price": "16",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// 7UP",
+            "7UP"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/7up-no-sugar-440ml-8858998583140",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Cola Flavored 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstColaFlavored16ltr-8851952111144-1"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952111144",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/est-cola-flavored-16ltr-8851952111144",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-Pepsi550ml-8858998581047-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8858998581047",
+        "Product_Detail": null,
+        "Price": "18",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "47",
+        "URL": "https://www.tops.co.th/en/pepsi-550ml-8858998581047",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Calpis Lacto Soda Yoghurt Kyoho Grape Flavour 245ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CALPIS-CalpisLactoSodaYoghurtKyohoGrapeFlavour245ml-8859183522814-1?$JPEG$"
+        ],
+        "Quantity": "245ml",
+        "Barcode_Number": "8859183522814",
+        "Product_Detail": null,
+        "Price": "16",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "CALPIS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/calpis-lacto-soda-yoghurt-kyoho-grape-flavour-245ml-8859183522814",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schwappes Zero Sugar Blueberry Lemon Soda 330ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchwappesZeroSugarBlueberryLemonSoda330mlPack6-8851959003718-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959003718",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "SCHWEPPES"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/schwappes-zero-sugar-blueberry-lemon-soda-330ml-pack-6-8851959003718",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Zero Sugar Blood Orange Tubtim 330ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesZeroSugarBloodOrangeTubtim330mlPack6-8851959004296-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959004296",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SCHWEPPES"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/schweppes-zero-sugar-blood-orange-tubtim-330ml-pack-6-8851959004296",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sprite Sugar Free Carbonated Drink Lemon Lime Flavour 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPRITE-SpriteSugarFreeCarbonatedDrinkLemonLimeFlavour500ml-8851959141397-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8851959141397",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SPRITE"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/sprite-sugar-free-carbonated-drink-lemon-lime-flavour-500ml-8851959141397",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Mandarin Yuzu 330ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesMandarinYuzu330mlPack6-8851959004005-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959004005",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SCHWEPPES"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/schweppes-mandarin-yuzu-330ml-pack-6-8851959004005",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Splash Minute Maid Orange 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPLASH-SplashMinuteMaidOrange250ml-8851959122921-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8851959122921",
+        "Product_Detail": null,
+        "Price": "13",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SPLASH"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/splash-minute-maid-orange-250ml-8851959122921",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Coke No Sugar 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COKE-CokeNoSugar1ltr-8851959149072-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851959149072",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "COKE"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/coke-no-sugar-1ltr-8851959149072",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "The Garden Eden Sparkling Drinking Red Apple Flavor with Vitamin C 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THEGARDENEDEN-TheGardenEdenSparklingDrinkingRedAppleFlavorwithVitaminC330ml-8855796028118-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8855796028118",
+        "Product_Detail": null,
+        "Price": "18",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "THE GARDEN EDEN"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/the-garden-eden-sparkling-drinking-red-apple-flavor-with-vitamin-c-330ml-8855796028118",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Hales Blue Boy Cream Soda 710cc.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HALESBLUEBOY-HalesBlueBoyCreamSoda710cc-8850423000086-1"
+        ],
+        "Quantity": "710cc",
+        "Barcode_Number": "8850423000086",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "HALE'S BLUE BOY"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/hales-blue-boy-cream-soda-710cc-8850423000086",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Hales Blue Boy  Jasmime 710cc.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HALESBLUEBOY-HalesBlueBoyJasmime710cc-8850423000017-1"
+        ],
+        "Quantity": "710cc",
+        "Barcode_Number": "8850423000017",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "HALE'S BLUE BOY"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/hales-blue-boy-jasmime-710cc-8850423000017",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sanpellegrino Aranciata Sparkling Orange18Percen 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPELLEGRINO-SanpellegrinoAranciataSparklingOrange18Percen330ml-8002270072932-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8002270072932",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "S.PELLEGRINO"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/sanpellegrino-aranciata-sparkling-orange18percen-330ml-8002270072932",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Singha Pink Lemon Soda 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SINGHA-SinghaPinkLemonSoda330ml-8850999023175-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8850999023175",
+        "Product_Detail": null,
+        "Price": "17",
+        "Labels": [
+            "Promotion /// Thankyou-Singha-2025-jan /// Beverages",
+            "SINGHA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/singha-pink-lemon-soda-330ml-8850999023175",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Calpis Lacto Soda Yoghurt Peach Sakura Flavour 245ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CALPIS-CalpisLactoSodaYoghurtPeachSakuraFlavour245ml-8859183522715-1"
+        ],
+        "Quantity": "245ml",
+        "Barcode_Number": "8859183522715",
+        "Product_Detail": null,
+        "Price": "16",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "CALPIS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/calpis-lacto-soda-yoghurt-peach-sakura-flavour-245ml-8859183522715",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sprite 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPRITE-Sprite500ml-8851959141366-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8851959141366",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SPRITE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/sprite-500ml-8851959141366",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Red Pet 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaRedPet500ml-8851959141175-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8851959141175",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/fanta-red-pet-500ml-8851959141175",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Zero Sugar Electric 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiZeroSugarElectric550ml-8858998583560-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8858998583560",
+        "Product_Detail": null,
+        "Price": "18",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "PEPSI"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/pepsi-zero-sugar-electric-550ml-8858998583560",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "ChiForest Sparkling Water White Peach No Sugar Flavor 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHIFOREST-ChiForestSparklingPeach330ml-6970399920576-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "6970399920576",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "CHI FOREST"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/chiforest-sparkling-water-white-peach-no-sugar-flavor-330ml-6970399920576",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Lipton Za Berry Burst 325ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LIPTON-LiptonZaBerryBurst325ml-8858998585519-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8858998585519",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "LIPTON"
+        ],
+        "Stock": "171",
+        "URL": "https://www.tops.co.th/en/lipton-za-berry-burst-325ml-8858998585519",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Lipton Za Berry Burst 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//LIPTON-LiptonZaBerryBurst325mlPack6-8858998575121-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8858998575121",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "LIPTON"
+        ],
+        "Stock": "28",
+        "URL": "https://www.tops.co.th/en/lipton-za-berry-burst-325ml-pack-6-8858998575121",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Grape Mixed Raspberry Flavored Drink Plus Vitamin B 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstGrapeMixedRaspberryFlavoredDrinkPlusVitaminB325mlPack6-8851952117528-1"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851952117528",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/est-grape-mixed-raspberry-flavored-drink-plus-vitamin-b-325ml-pack-6-8851952117528",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Chi Forest Sparkling Water Grape Delight No Sugar Flavor 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHIFOREST-ChiForestSparklingGrape330ml-6970399925618-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "6970399925618",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "CHI FOREST"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/chi-forest-sparkling-water-grape-delight-no-sugar-flavor-330ml-6970399925618",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Grape Mixed Raspberry Flavored Drink Plus Vitamin B 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstGrapeMixedRaspberryFlavoredDrinkPlusVitaminB16ltr-8851952117146-1"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952117146",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/est-grape-mixed-raspberry-flavored-drink-plus-vitamin-b-16ltr-8851952117146",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Sugar Free Cream Soda Flavored 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstSugarFreeCreamSodaFlavored16ltr-8851952176143-1?$JPEG$"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952176143",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "EST"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/est-sugar-free-cream-soda-flavored-16ltr-8851952176143",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Orange 1.95ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaOrange195ltr-8851959129166-1?$JPEG$"
+        ],
+        "Quantity": "1.95l",
+        "Barcode_Number": "8851959129166",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/fanta-orange-195ltr-8851959129166",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Zero Sugar Blueberry Lemon Soda 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesZeroSugarBlueberryLemonSoda330ml-8851959003701-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959003701",
+        "Product_Detail": null,
+        "Price": "17",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "SCHWEPPES"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/schweppes-zero-sugar-blueberry-lemon-soda-330ml-8851959003701",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Dang Manao Soda 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaCarbonatedDrinkWaiveandLimeFlavor15ltr-8851959001332-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "8851959001332",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/fanta-dang-manao-soda-15ltr-8851959001332",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Schweppes Zero Sugar Blood Orange Tubtim 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SCHWEPPES-SchweppesZeroSugarBloodOrangeTubtim330ml-8851959004272-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8851959004272",
+        "Product_Detail": null,
+        "Price": "17",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SCHWEPPES"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/schweppes-zero-sugar-blood-orange-tubtim-330ml-8851959004272",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Sugar Free Orange Flavored 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstSugarFreeOrangeFlavored16ltr-8851952175146-1?$JPEG$"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952175146",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "EST"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/est-sugar-free-orange-flavored-16ltr-8851952175146",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Kamikaze Lime Flavored 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstKamikazeLimeFlavored16ltr-8851952118143-1"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952118143",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/est-kamikaze-lime-flavored-16ltr-8851952118143",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sanpellegrino Sparkling Lemon 16Percent 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPELLEGRINO-SanpellegrinoSparklingLemon16Percent330ml-8002270072925-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8002270072925",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "S.PELLEGRINO"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/sanpellegrino-sparkling-lemon-16percent-330ml-8002270072925",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Orange 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaOrange1ltr-8851959149164-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851959149164",
+        "Product_Detail": null,
+        "Price": "24",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/fanta-orange-1ltr-8851959149164",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Cola Flavored 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstColaFlavored1ltr-8851952111076-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851952111076",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/est-cola-flavored-1ltr-8851952111076",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sprite Sugar Free Carbonated Drink Lemon Lime Flavour 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPRITE-SpriteSugarFreeCarbonatedDrinkLemonLimeFlavour1ltr-8851959149393-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851959149393",
+        "Product_Detail": null,
+        "Price": "24",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SPRITE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/sprite-sugar-free-carbonated-drink-lemon-lime-flavour-1ltr-8851959149393",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Oishi Chakulza Sparkling Green Tea Kyoho Grape Flavored 320ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OISHI-OishiChakulzaSparklingGreenTeaKyohoGrapeFlavored320ml-8854698016933-1"
+        ],
+        "Quantity": "320ml",
+        "Barcode_Number": "8854698016933",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "OISHI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/oishi-chakulza-sparkling-green-tea-kyoho-grape-flavored-320ml-8854698016933",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Cola Sugar Free 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstColaSugarFree1ltr-8851952112073-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851952112073",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/est-cola-sugar-free-1ltr-8851952112073",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Chupa Chups Sparkling Soda Strawberry Milk Flavor 345ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHUPACHUPS-ChupaChupsSparklingSodaStrawberryMilkFlavor345ml-8801069402451-1"
+        ],
+        "Quantity": "345ml",
+        "Barcode_Number": "8801069402451",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "CHUPA CHUPS"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/chupa-chups-sparkling-soda-strawberry-milk-flavor-345ml-8801069402451",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Planett Rubia And Raspberry Soda 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//PLANETT-PlanettRubiaAndRaspberrySoda325mlPack6-8850228007792-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8850228007792",
+        "Product_Detail": null,
+        "Price": "100",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "PLANETT"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/planett-rubia-and-raspberry-soda-325ml-pack-6-8850228007792",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Planett Rubia And Raspberry Soda 325ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PLANETT-PlanettRubiaRaspberry325ml-8850228007785-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8850228007785",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "PLANETT"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/planett-rubia-and-raspberry-soda-325ml-8850228007785",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Planett Elderflower And Hibiscus Soda 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//PLANETT-PlanettElderflowerAndHibiscusSoda325mlPack6-8850228007778-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8850228007778",
+        "Product_Detail": null,
+        "Price": "100",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "PLANETT"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/planett-elderflower-and-hibiscus-soda-325ml-pack-6-8850228007778",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Planett Elderflower And Hibiscus Soda 325ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PLANETT-PlanettElderflower325ml-8850228007761-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8850228007761",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "PLANETT"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/planett-elderflower-and-hibiscus-soda-325ml-8850228007761",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Sanpellegrino Aranciata Rossa Sparkling Orange 15percent 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPELLEGRINO-SanpellegrinoAranciataRossaSparklingOrange15percent330ml-8002270196904-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8002270196904",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "S.PELLEGRINO"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/sanpellegrino-aranciata-rossa-sparkling-orange-15percent-330ml-8002270196904",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Cola Flavored 515ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstColaFlavored515ml-8851952111236-1"
+        ],
+        "Quantity": "515ml",
+        "Barcode_Number": "8851952111236",
+        "Product_Detail": null,
+        "Price": "16",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/est-cola-flavored-515ml-8851952111236",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Franklin&Sons Classic Indian Tonic Water 200ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FRANKLIN-FranklinSonsClassicIndianTonicWater200ml-5032678004870-1?$JPEG$"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "5032678004870",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FRANKLIN"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/franklinsons-classic-indian-tonic-water-200ml-5032678004870",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Maison Perrier Juice Pineapple Mango 250ml. Pack4",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAISONPERRIER-MaisonPerrierJuicePineappleMango250mlPack4-8445291047648-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8445291047648",
+        "Product_Detail": null,
+        "Price": "256",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "MAISON PERRIER"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/maison-perrier-juice-pineapple-mango-250ml-pack4-8445291047648",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Maison Perrier Juice Pineapple Mango 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAISONPERRIER-MaisonPerrierJuicePineappleMango250ml-8445291047617-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8445291047617",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "MAISON PERRIER"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/maison-perrier-juice-pineapple-mango-250ml-8445291047617",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Bundaberg Root Beer Beverage 375ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BUNDABERG-BundabergRootBeerBeverage375ml-0000093291507-1?$JPEG$"
+        ],
+        "Quantity": "375ml",
+        "Barcode_Number": "0000093291507",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "BUNDABERG"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/bundaberg-root-beer-beverage-375ml-0000093291507",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Franklin&Sons Light Indian Tonic Water 200ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FRANKLIN-FranklinSonsLightIndianTonicWater200ml-5032678004979-1?$JPEG$"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "5032678004979",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FRANKLIN"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/franklinsons-light-indian-tonic-water-200ml-5032678004979",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Carbonated Drink Cola and Lime Flavor 1.45ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiCarbonatedDrinkColaandLimeFlavor145ltr-8858998581498-1?$JPEG$"
+        ],
+        "Quantity": "1.45l",
+        "Barcode_Number": "8858998581498",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/pepsi-carbonated-drink-cola-and-lime-flavor-145ltr-8858998581498",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Salty Lychee Flavored Drink Plus Vitamin B 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstSaltyLycheeFlavoredDrinkPlusVitaminB16ltr-8851952134143-1"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952134143",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/est-salty-lychee-flavored-drink-plus-vitamin-b-16ltr-8851952134143",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Maison Perrier Chic Lemonijto Sparkling Flavoured 250ml Pack4",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAISONPERRIER-MaisonPerrierChicLemonijtoSparklingFlavoured250mlPack4-8445291045859-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8445291045859",
+        "Product_Detail": null,
+        "Price": "315",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "MAISON PERRIER"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/maison-perrier-chic-lemonijto-sparkling-flavoured-250ml-pack4-8445291045859",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Maison Perrier Chic Lemonijto Sparkling Flavoured 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAISONPERRIER-MaisonPerrierChicLemonijtoSparklingFlavoured250ml-8445291045828-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8445291045828",
+        "Product_Detail": null,
+        "Price": "80",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "MAISON PERRIER"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/maison-perrier-chic-lemonijto-sparkling-flavoured-250ml-8445291045828",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Bickfords Lemon Flavoured 750ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BICKFORD-BickfordsLemonFlavoured750ml-9311755200739-1"
+        ],
+        "Quantity": "750ml",
+        "Barcode_Number": "9311755200739",
+        "Product_Detail": null,
+        "Price": "133",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "BICKFORD"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/bickfords-lemon-flavoured-750ml-9311755200739",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Strawberry Flavoured 1.95ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaStrawberryFlavoured195ltr-8851959129173-1?$JPEG$"
+        ],
+        "Quantity": "1.95l",
+        "Barcode_Number": "8851959129173",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/fanta-strawberry-flavoured-195ltr-8851959129173",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi 410ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-Pepsi410ml-8858998581023-1?$JPEG$"
+        ],
+        "Quantity": "410ml",
+        "Barcode_Number": "8858998581023",
+        "Product_Detail": null,
+        "Price": "17",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/pepsi-410ml-8858998581023",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Sugar Free Can 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstSugarFreeCan325mlPack6-8851952112523-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851952112523",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "EST"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/est-sugar-free-can-325ml-pack-6-8851952112523",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Bickfords Lime Juice Flavoured 750ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BICKFORD-BickfordsLimeJuiceFlavoured750ml-9311755000025-1"
+        ],
+        "Quantity": "750ml",
+        "Barcode_Number": "9311755000025",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "BICKFORD"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/bickfords-lime-juice-flavoured-750ml-9311755000025",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Mirinda Strawberry Flavor 245ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//MIRINDA-MirindaStrawberryFlavor245mlPack6-8858998574056-1"
+        ],
+        "Quantity": "245ml",
+        "Barcode_Number": "8858998574056",
+        "Product_Detail": null,
+        "Price": "58",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// MIRINDA",
+            "MIRINDA"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/mirinda-strawberry-flavor-245ml-pack-6-8858998574056",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Chupa Chups Sparkling Soda Grape Flavor 345ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHUPACHUPS-ChupaChupsSparklingSodaGrapeFlavor345ml-8801069402475-1"
+        ],
+        "Quantity": "345ml",
+        "Barcode_Number": "8801069402475",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "CHUPA CHUPS"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/chupa-chups-sparkling-soda-grape-flavor-345ml-8801069402475",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Green 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaGreen1ltr-8851959149188-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851959149188",
+        "Product_Detail": null,
+        "Price": "24",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/fanta-green-1ltr-8851959149188",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Dang Manoa Soda 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaDangManoaSoda500ml-8851959001318-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8851959001318",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/fanta-dang-manoa-soda-500ml-8851959001318",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Zero Sugar 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiZeroSugar1ltr-8858998581122-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8858998581122",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "PEPSI"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/pepsi-zero-sugar-1ltr-8858998581122",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Orange Flavored Drink 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstOrangeFlavoredDrink16ltr-8851952113148-1"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952113148",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/est-orange-flavored-drink-16ltr-8851952113148",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Maison Perrier Chic Rosellini Sparkling Flavoured 250ml. Pack4",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAISONPERRIER-MaisonPerrierChicRoselliniSparklingFlavoured250mlPack4-8445291045897-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8445291045897",
+        "Product_Detail": null,
+        "Price": "315",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "MAISON PERRIER"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/maison-perrier-chic-rosellini-sparkling-flavoured-250ml-pack4-8445291045897",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Maison Perrier Chic Rosellini Sparkling Flavoured 250ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAISONPERRIER-MaisonPerrierChicRoselliniSparklingFlavoured250m-8445291045866-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8445291045866",
+        "Product_Detail": null,
+        "Price": "80",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "MAISON PERRIER"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/maison-perrier-chic-rosellini-sparkling-flavoured-250ml-8445291045866",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Cream Soda Flavored Drink 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstCreamSodaFlavoredDrink16ltr-8851952114145-1"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952114145",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/est-cream-soda-flavored-drink-16ltr-8851952114145",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fentimans Oriental Yuzu Tonic Water 200ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FENTIMANS-FentimansOrientalYuzuTonicWater200ml-5029396001243-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "5029396001243",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FENTIMANS"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/fentimans-oriental-yuzu-tonic-water-200ml-5029396001243",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Cocomansi Coconut And Calamansi 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstCocomansiCoconutAndCalamansi325mlPack6-8851952181529-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851952181529",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/est-cocomansi-coconut-and-calamansi-325ml-pack-6-8851952181529",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Cocomansi Coconut And Calamansi 325ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstCocomansiCoconutAndCalamansi325ml-8851952181307-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8851952181307",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "133",
+        "URL": "https://www.tops.co.th/en/est-cocomansi-coconut-and-calamansi-325ml-8851952181307",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Grape Mixed Raspberry Flavored Drink Plus Vitamin B 515ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstGrapeMixedRaspberryFlavoredDrinkPlusVitaminB515ml-8851952117238-1"
+        ],
+        "Quantity": "515ml",
+        "Barcode_Number": "8851952117238",
+        "Product_Detail": null,
+        "Price": "16",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/est-grape-mixed-raspberry-flavored-drink-plus-vitamin-b-515ml-8851952117238",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Franklin&Sons Pink Grapefruit 200ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//FRANKLIN-FranklinSonsPinkGrapefruit200m-5032678011304-1?$JPEG$"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "5032678011304",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FRANKLIN"
+        ],
+        "Stock": "47",
+        "URL": "https://www.tops.co.th/en/franklinsons-pink-grapefruit-200ml-5032678011304",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "S Pellegrino Essenza Lemon Zest 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPELLEGRINO-SPellegrinoEssenzaLemonZest330ml-0041508803151-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "0041508803151",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "S.PELLEGRINO"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/s-pellegrino-essenza-lemon-zest-330ml-0041508803151",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Lipton Za Berry Burst 445ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LIPTON-LiptonZaBerryBurst445ml-8858998585403-1?$JPEG$"
+        ],
+        "Quantity": "445ml",
+        "Barcode_Number": "8858998585403",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "LIPTON"
+        ],
+        "Stock": "43",
+        "URL": "https://www.tops.co.th/en/lipton-za-berry-burst-445ml-8858998585403",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Franklin Sons Rose Lemonade 275ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FranklinRose275-FranklinSonsRoseLemonade275ml-5032678010475-1?$JPEG$"
+        ],
+        "Quantity": "275ml",
+        "Barcode_Number": "5032678010475",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FRANKLIN"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/franklin-sons-rose-lemonade-275ml-5032678010475",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Hello Boy Concentrated Cream Soda Flovoured Syrup 710ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HELLOBOY-HelloBoyConcentratedCreamSodaFlovouredSyrup710ml-8850297602072-1?$JPEG$"
+        ],
+        "Quantity": "710ml",
+        "Barcode_Number": "8850297602072",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "HELLO BOY"
+        ],
+        "Stock": "238",
+        "URL": "https://www.tops.co.th/en/hello-boy-concentrated-cream-soda-flovoured-syrup-710ml-8850297602072",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Hello Boy Concentrated Sala Flovoured Syrup 710ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HELLOBOY-HelloBoyConcentratedSalaFlovouredSyrup710ml-8850297602065-1?$JPEG$"
+        ],
+        "Quantity": "710ml",
+        "Barcode_Number": "8850297602065",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "HELLO BOY"
+        ],
+        "Stock": "154",
+        "URL": "https://www.tops.co.th/en/hello-boy-concentrated-sala-flovoured-syrup-710ml-8850297602065",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fanta Red 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FANTA-FantaRed1ltr-8851959149171-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851959149171",
+        "Product_Detail": null,
+        "Price": "24",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FANTA"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/fanta-red-1ltr-8851959149171",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Salty Lychee Flavored Drink Plus Vitamin B 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstSaltyLycheeFlavoredDrinkPlusVitaminB1ltr-8851952134075-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851952134075",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/est-salty-lychee-flavored-drink-plus-vitamin-b-1ltr-8851952134075",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Hales Blue Boy Pineapple 710cc.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HALESBLUEBOY-HalesBlueBoyPineapple710cc-8850423000048-1"
+        ],
+        "Quantity": "710cc",
+        "Barcode_Number": "8850423000048",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "HALE'S BLUE BOY"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/hales-blue-boy-pineapple-710cc-8850423000048",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "S Pellegrino Essenza Dark Morello Cherry Pomegranate 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPELLEGRINO-SPellegrinoEssenzaDarkMorelloCherryPomegranate330ml-0041508803106-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "0041508803106",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "S.PELLEGRINO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/s-pellegrino-essenza-dark-morello-cherry-pomegranate-330ml-0041508803106",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Carbonated Drink Cola and Lime Flavor 410ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiCarbonatedDrinkColaandLimeFlavor410ml-8858998581474-1?$JPEG$"
+        ],
+        "Quantity": "410ml",
+        "Barcode_Number": "8858998581474",
+        "Product_Detail": null,
+        "Price": "17",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// PEPSI",
+            "PEPSI"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/pepsi-carbonated-drink-cola-and-lime-flavor-410ml-8858998581474",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Mirinda Strawberry Flavor 1.45ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MIRINDA-MirindaStrawberryFlavor145ltr-8858998582105-1"
+        ],
+        "Quantity": "1.45l",
+        "Barcode_Number": "8858998582105",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// MIRINDA",
+            "MIRINDA"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/mirinda-strawberry-flavor-145ltr-8858998582105",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Wandy Concentrated artificial Sala flavoured syrup 710ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WANDY-WandyConcentratedartificialSalaflavouredsyrup710ml-8853474095452-1?$JPEG$"
+        ],
+        "Quantity": "710ml",
+        "Barcode_Number": "8853474095452",
+        "Product_Detail": null,
+        "Price": "47",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "WANDY"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/wandy-concentrated-artificial-sala-flavoured-syrup-710ml-8853474095452",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Maison Perrier Juice Lemon Guava 250ml. Pack4",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAISONPERRIER-MaisonPerrierJuiceLemonGuava250mlPack4-8445291047600-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8445291047600",
+        "Product_Detail": null,
+        "Price": "256",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "MAISON PERRIER"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/maison-perrier-juice-lemon-guava-250ml-pack4-8445291047600",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Maison Perrier Juice Lemon Guava 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAISONPERRIER-MaisonPerrierJuiceLemonGuava250ml-8445291047570-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8445291047570",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "MAISON PERRIER"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/maison-perrier-juice-lemon-guava-250ml-8445291047570",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fever Tree Soda Water 200ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FEVERTREE-FeverTreeSodaWater200ml-5060108450126-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "5060108450126",
+        "Product_Detail": null,
+        "Price": "50.25",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FEVER TREE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/fever-tree-soda-water-200ml-5060108450126",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Orangina Orange Juice Sparkling 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ORANGINA-OranginaOrangeJuiceSparkling500ml-4000140708268-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "4000140708268",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "ORANGINA"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/orangina-orange-juice-sparkling-500ml-4000140708268",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Glinter Sparking Green Apple 350ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GLINTER-GlinterSparkingGreenApple350ml-9556474123635-1"
+        ],
+        "Quantity": "350ml",
+        "Barcode_Number": "9556474123635",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Healthiful /// Health Specific /// Low in Sugar",
+            "GLINTER"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/glinter-sparking-green-apple-350ml-9556474123635",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "HBD Peach Flavoured Sparkling Drink 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HBD-HBDPeachFlavouredSparklingDrink330ml-8858740001939-1"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8858740001939",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "HBD"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/hbd-peach-flavoured-sparkling-drink-330ml-8858740001939",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Wandy Concentrated Blue Hawaii Syrup 760ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WANDY-WandyConcentratedBlueHawaiiSyrup760ml-8853474098910-1?$JPEG$"
+        ],
+        "Quantity": "760ml",
+        "Barcode_Number": "8853474098910",
+        "Product_Detail": null,
+        "Price": "43.25",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "WANDY"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/wandy-concentrated-blue-hawaii-syrup-760ml-8853474098910",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Wandy Concentrated Strawberry Syrup 760ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WANDY-WandyConcentratedStrawberrySyrup760ml-8853474098903-1?$JPEG$"
+        ],
+        "Quantity": "760ml",
+        "Barcode_Number": "8853474098903",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Concentrated Drinks",
+            "WANDY"
+        ],
+        "Stock": "42",
+        "URL": "https://www.tops.co.th/en/wandy-concentrated-strawberry-syrup-760ml-8853474098903",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Strawberry Flavored Drink 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstStrawberryFlavoredDrink16ltr-8851952115142-1"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952115142",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/est-strawberry-flavored-drink-16ltr-8851952115142",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Cream Soda Flavored Drink 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstCreamSodaFlavoredDrink1ltr-8851952114077-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851952114077",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/est-cream-soda-flavored-drink-1ltr-8851952114077",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Cloop Zero Soda Peach 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CLOOP-CloopZeroSodaPeach500ml-8809495075485-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8809495075485",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "CLOOP"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/cloop-zero-soda-peach-500ml-8809495075485",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Lotte Milkis Strawberry 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LOTTE-LotteMilkisStrawberrySodaBeverage250ml-8801056791018-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8801056791018",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "LOTTE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/lotte-milkis-strawberry-250ml-8801056791018",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Franklin Sons Ginger Beer 275ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FranklinGinger-FranklinGingerBeer275ml-5032678003620-1?$JPEG$"
+        ],
+        "Quantity": "275ml",
+        "Barcode_Number": "5032678003620",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FRANKLIN"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/franklin-sons-ginger-beer-275ml-5032678003620",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Seasun Syrup Concentraed Cola Flavour 320ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEASUN-SeasunSyrupConcentraedColaFlavour320ml-8859524700116-1?$JPEG$"
+        ],
+        "Quantity": "320ml",
+        "Barcode_Number": "8859524700116",
+        "Product_Detail": null,
+        "Price": "155",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Sugar Alternatives",
+            "SEASUN"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/seasun-syrup-concentraed-cola-flavour-320ml-8859524700116",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Mirinda Orange Flavor 1.45ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MIRINDA-MirindaOrangeFlavor145ltr-8858998582051-1"
+        ],
+        "Quantity": "1.45l",
+        "Barcode_Number": "8858998582051",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// MIRINDA",
+            "MIRINDA"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/mirinda-orange-flavor-145ltr-8858998582051",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Est Lemon Lime Flavored Drink 1.6ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EST-EstLemonLimeFlavoredDrink16ltr-8851952116149-1"
+        ],
+        "Quantity": "1.6l",
+        "Barcode_Number": "8851952116149",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "EST"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/est-lemon-lime-flavored-drink-16ltr-8851952116149",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Glinter Sparking Green Lychee 350ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GLINTER-GlinterSparkingGreenLychee350ml-9556474123628-1"
+        ],
+        "Quantity": "350ml",
+        "Barcode_Number": "9556474123628",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Healthiful /// Health Specific /// Low in Sugar",
+            "GLINTER"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/glinter-sparking-green-lychee-350ml-9556474123628",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Ume 325ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiUme325ml-8858998583836-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8858998583836",
+        "Product_Detail": null,
+        "Price": "16",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "PEPSI"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/pepsi-ume-325ml-8858998583836",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Ume 1.45ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiUme145ltr-8858998583683-1?$JPEG$"
+        ],
+        "Quantity": "1.45l",
+        "Barcode_Number": "8858998583683",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "PEPSI"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/pepsi-ume-145ltr-8858998583683",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Mirinda Green Cream 1.45ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MIRINDA-MirindaGreenCream145ltr-8858998582662-1"
+        ],
+        "Quantity": "1.45l",
+        "Barcode_Number": "8858998582662",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// MIRINDA",
+            "MIRINDA"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/mirinda-green-cream-145ltr-8858998582662",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Pepsi Ume 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEPSI-PepsiUme325mlPack6-8858998573288-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8858998573288",
+        "Product_Detail": null,
+        "Price": "80",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Cola",
+            "PEPSI"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/pepsi-ume-325ml-pack-6-8858998573288",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Cloop Zero Soda Grape 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CLOOP-CloopZeroSodaGrape500ml-8809495075478-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8809495075478",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "CLOOP"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/cloop-zero-soda-grape-500ml-8809495075478",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fentimans Gently Sparkling Elderflower 275ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FENTIMANS-FentimansGentlySparklingElderflower275ml-5029396739078-1"
+        ],
+        "Quantity": "275ml",
+        "Barcode_Number": "5029396739078",
+        "Product_Detail": null,
+        "Price": "180",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "FENTIMANS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/fentimans-gently-sparkling-elderflower-275ml-5029396739078",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fentimans Rose Lemonade 275ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FENTIMANS-FentimansRoseLemonade275ml-5029396738576-1"
+        ],
+        "Quantity": "275ml",
+        "Barcode_Number": "5029396738576",
+        "Product_Detail": null,
+        "Price": "180",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "FENTIMANS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/fentimans-rose-lemonade-275ml-5029396738576",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fentimans Curiosity Cola275ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FENTIMANS-FentimansCuriosityCola275ml-5029396322782-1"
+        ],
+        "Quantity": "275ml",
+        "Barcode_Number": "5029396322782",
+        "Product_Detail": null,
+        "Price": "144",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "FENTIMANS"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/fentimans-curiosity-cola275ml-5029396322782",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Fentimans Mandarin and Seville Orange Jigger 275ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FENTIMANS-FentimansMandarinandSevilleOrangeJigger275ml-5029396322775-1"
+        ],
+        "Quantity": "275ml",
+        "Barcode_Number": "5029396322775",
+        "Product_Detail": null,
+        "Price": "180",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "FENTIMANS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/fentimans-mandarin-and-seville-orange-jigger-275ml-5029396322775",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    },
+    {
+        "Product_Name": "Karamalz Malt Beverage 0.33ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KARAMALZ-KaramalzMaltBeverage033ltr-0000040518039-1"
+        ],
+        "Quantity": "0.33l",
+        "Barcode_Number": "0000040518039",
+        "Product_Detail": null,
+        "Price": "51",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Soda & Mixers",
+            "KARAMALZ"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/karamalz-malt-beverage-033ltr-0000040518039",
+        "Category": "beverages",
+        "Sub_Category": "soft_drink_and_mixers"
+    }
+]

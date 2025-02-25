@@ -1,0 +1,74 @@
+[
+    {
+        "Product_Name": "Betagro Rice with Minced Pork in Yellow Curry Paste 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroRicewithMincedPorkinYellowCurryPaste200g-8852043610096-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8852043610096",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/betagro-rice-with-minced-pork-in-yellow-curry-paste-200g-8852043610096",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "ready_to_eat_meal"
+    },
+    {
+        "Product_Name": "Healthiful Spaghetti with Plant Based Meatballs 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HEALTHIFUL-HealthifulSpaghettiwithPlantBasedMeatballs230g-8853474073092-1?$JPEG$"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "8853474073092",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HEALTHIFUL"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/healthiful-spaghetti-with-plant-based-meatballs-230g-8853474073092",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "ready_to_eat_meal"
+    },
+    {
+        "Product_Name": "Betagro BBQ Pork Fried Rice 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroBBQPorkFriedRice200g-8852043610836-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8852043610836",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/betagro-bbq-pork-fried-rice-200g-8852043610836",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "ready_to_eat_meal"
+    },
+    {
+        "Product_Name": "Betagro Stir Fired Holy Basil Pork with Rice 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroStirFiredHolyBasilPorkwithRice200g-8852043610065-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8852043610065",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/betagro-stir-fired-holy-basil-pork-with-rice-200g-8852043610065",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "ready_to_eat_meal"
+    }
+]

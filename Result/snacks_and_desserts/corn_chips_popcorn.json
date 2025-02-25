@@ -1,0 +1,920 @@
+[
+    {
+        "Product_Name": "Doritos Corn Tortilla Chip Nacho Cheese 57g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DORITOS-DoritosNachoCheese57g-8850718812967-1"
+        ],
+        "Quantity": "57g",
+        "Barcode_Number": "8850718812967",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "International Products /// USA /// Snacks & Desserts",
+            "DORITOS"
+        ],
+        "Stock": "122",
+        "URL": "https://www.tops.co.th/en/doritos-corn-tortilla-chip-nacho-cheese-57g-8850718812967",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Doritos Corn Tortilla Chip Spicy BBQ 57g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DORITOS-DoritosSpicyBBQ57g-8850718812974-2"
+        ],
+        "Quantity": "57g",
+        "Barcode_Number": "8850718812974",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "International Products /// USA /// Snacks & Desserts",
+            "DORITOS"
+        ],
+        "Stock": "55",
+        "URL": "https://www.tops.co.th/en/doritos-corn-tortilla-chip-spicy-bbq-57g-8850718812974",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheetos America Cheese 64g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEETOS-CheetosAmericaCheese64g-8850718807345-1?$JPEG$"
+        ],
+        "Quantity": "64g",
+        "Barcode_Number": "8850718807345",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "CHEETOS"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/cheetos-america-cheese-64g-8850718807345",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cornae Corn Snack Cheese 48g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CORNAE-CornaeCornSnackCheese48g-8851727003254-1?$JPEG$"
+        ],
+        "Quantity": "48g",
+        "Barcode_Number": "8851727003254",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "CORNAE"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/cornae-corn-snack-cheese-48g-8851727003254",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cornpuff Corn Chip Original 65g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CORNPUFF-CornpuffCornChipOriginal65g-8852052140508-1"
+        ],
+        "Quantity": "65g",
+        "Barcode_Number": "8852052140508",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "CORNPUFF"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/cornpuff-corn-chip-original-65g-8852052140508",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheetos Puffs Corn Snack Cheesy Cheese Flavor 66g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEETOS-CheetosPuffsCheesyCheese66g-8850718820672-1?$JPEG$"
+        ],
+        "Quantity": "66g",
+        "Barcode_Number": "8850718820672",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "CHEETOS"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/cheetos-puffs-corn-snack-cheesy-cheese-flavor-66g-8850718820672",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Danitas Tortilla Chip 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DANITAS-DanitasTortillaChip180g-8850575002136-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8850575002136",
+        "Product_Detail": null,
+        "Price": "81",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "DANITAS"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/danitas-tortilla-chip-180g-8850575002136",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Toro Popcorn 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TORO-ToroPopcorn80g-8852047326214-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8852047326214",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "TORO"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/toro-popcorn-80g-8852047326214",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Toro Popcorn Super Caramel 55g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TORO-ToroPopcornSuperCaramel55g-8852047326276-1"
+        ],
+        "Quantity": "55g",
+        "Barcode_Number": "8852047326276",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "TORO"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/toro-popcorn-super-caramel-55g-8852047326276",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheezels Original Cheese 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEEZELS-CheezelsOriginalCheese60g-9556072080057-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "9556072080057",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "CHEEZELS"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/cheezels-original-cheese-60g-9556072080057",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheetos Corn Snack Spicy Barbecue 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEETOS-CheetosSpicyBarbecue75g-8850718821211-1?$JPEG$"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8850718821211",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "CHEETOS"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/cheetos-corn-snack-spicy-barbecue-75g-8850718821211",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Mission Tortilla Chips Original Flavour 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MISSION-MissionTortillaChipsOriginalFlavour170g-6946431800342-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "6946431800342",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "MISSION"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/mission-tortilla-chips-original-flavour-170g-6946431800342",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Toro Popcorn Almond 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TORO-ToroPopcornAlmond60g-8852047326795-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8852047326795",
+        "Product_Detail": null,
+        "Price": "21",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "TORO"
+        ],
+        "Stock": "26",
+        "URL": "https://www.tops.co.th/en/toro-popcorn-almond-60g-8852047326795",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Peacock Sweet and Salt Popcorn 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEACOCK-PeacockSweetSaltPopcorn140g-8809027553665-1?$JPEG$"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8809027553665",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "PEACOCK"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/peacock-sweet-and-salt-popcorn-140g-8809027553665",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Roller Corn Extra Milk Flavour 65g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROLLERCORN-RollerCornExtraMilkFlavour65g-8852681011217-1?$JPEG$"
+        ],
+        "Quantity": "65g",
+        "Barcode_Number": "8852681011217",
+        "Product_Detail": null,
+        "Price": "21",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "ROLLER CORN"
+        ],
+        "Stock": "44",
+        "URL": "https://www.tops.co.th/en/roller-corn-extra-milk-flavour-65g-8852681011217",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Mission Tortilla Chips Multigrain 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MISSION-MissionTortillaChipsMultigrain170g-6946431800991-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "6946431800991",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "MISSION"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/mission-tortilla-chips-multigrain-170g-6946431800991",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Elsabor Nacho Chips Natural 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELSABOR-ElsaborNachoChipsNatural200g-5202175001102-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "5202175001102",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "EL SABOR"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/elsabor-nacho-chips-natural-200g-5202175001102",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Elsabor Nacho Chips Salted 225g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELSABOR-ElsaborNachoChipsSalted225g-5202175001515-1?$JPEG$"
+        ],
+        "Quantity": "225g",
+        "Barcode_Number": "5202175001515",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "EL SABOR"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/elsabor-nacho-chips-salted-225g-5202175001515",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Herrs Bacon Cheddar Cheese Curls Chips 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HERRS-HerrsBaconCheddarCheeseCurlsChips170g-0072600071186-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "0072600071186",
+        "Product_Detail": null,
+        "Price": "185",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "HERR'S"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/herrs-bacon-cheddar-cheese-curls-chips-170g-0072600071186",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheezels Corn Crisp Puffy Ring BBQ 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEEZELS-CheezelsCornCrispPuffyRingBBQ60g-9556072170055-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "9556072170055",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "CHEEZELS"
+        ],
+        "Stock": "39",
+        "URL": "https://www.tops.co.th/en/cheezels-corn-crisp-puffy-ring-bbq-60g-9556072170055",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheetos Corn Snack Tomato Flavor 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEETOS-CheetosCornSnackTomatoFlavor75g-8850718821235-1?$JPEG$"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8850718821235",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "CHEETOS"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/cheetos-corn-snack-tomato-flavor-75g-8850718821235",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Preferred Microwave Popcorn Extra Butter 255g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PREFERRED-PreferredMicrowavePopcornExtraButter255g-0764256000435-1?$JPEG$"
+        ],
+        "Quantity": "255g",
+        "Barcode_Number": "0764256000435",
+        "Product_Detail": null,
+        "Price": "190",
+        "Labels": [
+            "International Products /// USA /// Snacks & Desserts",
+            "PREFERRED"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/preferred-microwave-popcorn-extra-butter-255g-0764256000435",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheestos Cheddar Jalapeno Crunchy Cheese Snacks 226.8g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEETOS-CheestosCheddarandJalapenoCrunchyChip2268g-0028400062114-1?$JPEG$"
+        ],
+        "Quantity": "226.8g",
+        "Barcode_Number": "0028400062114",
+        "Product_Detail": null,
+        "Price": "189",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "CHEETOS"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/cheestos-cheddar-jalapeno-crunchy-cheese-snacks-2268g-0028400062114",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheezels Original Cheese 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEEZELS-CheezelsOriginalCheese140g-9556072040051-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "9556072040051",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "CHEEZELS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/cheezels-original-cheese-140g-9556072040051",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Mcgarett Popcorn 560g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MCGARETT-McgarettPopcorn560g-8850358370148-1"
+        ],
+        "Quantity": "560g",
+        "Barcode_Number": "8850358370148",
+        "Product_Detail": null,
+        "Price": "86",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "MCGARETT"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/mcgarett-popcorn-560g-8850358370148",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Kai Yang Snack with Sweet Chili Sauce 48g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KAI-YANG-KaiYangSnackwithSweetChiliSauce48g-8850284060151-1"
+        ],
+        "Quantity": "48g",
+        "Barcode_Number": "8850284060151",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "KAI-YANG"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/kai-yang-snack-with-sweet-chili-sauce-48g-8850284060151",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "No Brand Gorgonzola Cheese Soft Corn 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NOBRAND-NoBrandGorgonzolaCheeseSoftCorn150g-8809184832924-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8809184832924",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "NO BRAND"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/no-brand-gorgonzola-cheese-soft-corn-150g-8809184832924",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Mission Corn and Rice Meal Chips 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MISSION-MissionCornandRiceMealChips170g-6946431801004-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "6946431801004",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "MISSION"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/mission-corn-and-rice-meal-chips-170g-6946431801004",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Popcorn New York Cheese Corn 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//POPCORNNEWYORK-PopcornNewYorkCheeseCorn60g-0896719000796-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "0896719000796",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From Gluten",
+            "POPCORN NEWYORK"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/popcorn-new-york-cheese-corn-60g-0896719000796",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Elsabor Nacho Chips BBQ 225g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELSABOR-ElsaborNachoChipsBBQ225g-5202175001546-1"
+        ],
+        "Quantity": "225g",
+        "Barcode_Number": "5202175001546",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "EL SABOR"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/elsabor-nacho-chips-bbq-225g-5202175001546",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Popcorn New York Butter Corn 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//POPCORNNEWYORK-PopcornNewYorkButterCorn60g-0896719000833-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "0896719000833",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From Gluten",
+            "POPCORN NEWYORK"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/popcorn-new-york-butter-corn-60g-0896719000833",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Popcorn New York Sour Cream and Onion Corn 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//POPCORNNEWYORK-PopcornNewYorkSourCreamandOnionCorn60g-0896719000802-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "0896719000802",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From Gluten",
+            "POPCORN NEWYORK"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/popcorn-new-york-sour-cream-and-onion-corn-60g-0896719000802",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Danitas Corn Chip Nacho Cheese 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DANITAS-DanitasCornChipNachoCheese180g-8850575001139-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8850575001139",
+        "Product_Detail": null,
+        "Price": "81",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "DANITAS"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/danitas-corn-chip-nacho-cheese-180g-8850575001139",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Tops Brand BBQ Corn Stix 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsBrandBBQCornStix350g-8853474062676-1?$JPEG$"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "8853474062676",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "TOPS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tops-brand-bbq-corn-stix-350g-8853474062676",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Peacock Seasalt Caramel Mix Cream Cheese Popcorn 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PEACOCK-PeacockSeasaltCaramelMixCreamCheesePopcorn120g-8809027559216-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8809027559216",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "PEACOCK"
+        ],
+        "Stock": "36",
+        "URL": "https://www.tops.co.th/en/peacock-seasalt-caramel-mix-cream-cheese-popcorn-120g-8809027559216",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Herrs Crunchy Cheestix Carolina Reaper 227g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HERRS-HerrsCrunchyCheestixCarolinaReaper227g-0072600069008-1?$JPEG$"
+        ],
+        "Quantity": "227g",
+        "Barcode_Number": "0072600069008",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "International Products /// USA /// Snacks & Desserts",
+            "HERR'S"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/herrs-crunchy-cheestix-carolina-reaper-227g-0072600069008",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Mission Tortilla Chips Cheese Flavour 65g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MISSION-MissionTortillaChipsCheeseFlavour65g-6946431800274-1"
+        ],
+        "Quantity": "65g",
+        "Barcode_Number": "6946431800274",
+        "Product_Detail": null,
+        "Price": "36",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "MISSION"
+        ],
+        "Stock": "26",
+        "URL": "https://www.tops.co.th/en/mission-tortilla-chips-cheese-flavour-65g-6946431800274",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Elsabor Nacho Chips Cheese 225g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELSABOR-ElsaborNachoChipsCheese225g-5202175001522-1?$JPEG$"
+        ],
+        "Quantity": "225g",
+        "Barcode_Number": "5202175001522",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "EL SABOR"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/elsabor-nacho-chips-cheese-225g-5202175001522",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Herrs Carolina Reaper Curl 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HERRS-HerrsCarolinaReaperCurl184g-0072600062863-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "0072600062863",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "HERR'S"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/herrs-carolina-reaper-curl-170g-0072600062863",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cheestos Corn Puffs Cheese Snacks 255.1g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEETOS-CheestosCornPuffs2551g-0028400025409-1?$JPEG$"
+        ],
+        "Quantity": "255.1g",
+        "Barcode_Number": "0028400025409",
+        "Product_Detail": null,
+        "Price": "225",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "CHEETOS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/cheestos-corn-puffs-cheese-snacks-2551g-0028400025409",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Orion Kobuk Chip Corn Soup Flavor 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ORION-OrionKobukChipCornSoupFlavor80g-8801117962005-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8801117962005",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "ORION"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/orion-kobuk-chip-corn-soup-flavor-80g-8801117962005",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Mission Nori Wasabi Tortilla Chips 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MISSION-MissionNoriWasabiTortillaChips170g-6946431801196-1"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "6946431801196",
+        "Product_Detail": null,
+        "Price": "100",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "MISSION"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/mission-nori-wasabi-tortilla-chips-170g-6946431801196",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Tohato Caremel Corn Snack 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOHATO-TohatoCaremelCornSnack75g-4901940035786-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "4901940035786",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "TOHATO"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tohato-caremel-corn-snack-75g-4901940035786",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Bobs Red Mill Yellow Popcorn 850g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BOBSREDMILL-BobsRedMillYellowPopcorn850g-0039978023070-1"
+        ],
+        "Quantity": "850g",
+        "Barcode_Number": "0039978023070",
+        "Product_Detail": null,
+        "Price": "261",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From Gluten",
+            "BOB'S RED MILL"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/bobs-red-mill-yellow-popcorn-850g-0039978023070",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "CC Original Corn Chips 175g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CC-CCOriginalCornChips175g-9310988012331-1"
+        ],
+        "Quantity": "175g",
+        "Barcode_Number": "9310988012331",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "CC"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/cc-original-corn-chips-175g-9310988012331",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Mission Tortilla Chips Hot and Spicy Flavour 65g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MISSION-MissionTortillaChipsHotandSpicyFlavour65g-6946431800328-1"
+        ],
+        "Quantity": "65g",
+        "Barcode_Number": "6946431800328",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "MISSION"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/mission-tortilla-chips-hot-and-spicy-flavour-65g-6946431800328",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "CC Tasty Cheese Corn Chips 175g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CC-CCTastyCheeseCornChips175g-9310988012348-1"
+        ],
+        "Quantity": "175g",
+        "Barcode_Number": "9310988012348",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "CC"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/cc-tasty-cheese-corn-chips-175g-9310988012348",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "No Brand Tortilla Chips Cheese 110g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NOBRAND-NoBrandTortillaChipsCheese110g-2000000864334-1?$JPEG$"
+        ],
+        "Quantity": "110g",
+        "Barcode_Number": "2000000864334",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Pantry & Ingredients",
+            "NO BRAND"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/no-brand-tortilla-chips-cheese-110g-2000000864334",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Chachos BBQ Tortilla Corn Chips 70g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHACHOS-ChachosBBQTortillaCornChips70g-9556072090025-1"
+        ],
+        "Quantity": "70g",
+        "Barcode_Number": "9556072090025",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Snacks & Desserts",
+            "CHACHOS"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/chachos-bbq-tortilla-corn-chips-70g-9556072090025",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Herrs Cheese Ball 482g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HERRS-HerrsCheeseBall482g-0072600007697-1"
+        ],
+        "Quantity": "482g",
+        "Barcode_Number": "0072600007697",
+        "Product_Detail": null,
+        "Price": "509",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "HERR'S"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/herrs-cheese-ball-482g-0072600007697",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    },
+    {
+        "Product_Name": "Cookie Pop Popcorn Oreo 149g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COOKIEPOP-CookiePopPopcornOreo149g-0814109021343-1?$JPEG$"
+        ],
+        "Quantity": "149g",
+        "Barcode_Number": "0814109021343",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Snacks & Desserts /// Corn Chips & Popcorn /// Corn Chips & Popcorn",
+            "COOKIE POP"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/cookie-pop-popcorn-oreo-149g-0814109021343",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "corn_chips_popcorn"
+    }
+]

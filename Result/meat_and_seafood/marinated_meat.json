@@ -1,0 +1,470 @@
+[
+    {
+        "Product_Name": "My Choice Soya Duck with Giblets and Sweet Chili Dipping Sauce",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSoyaDuckwithGibletsandSweetChiliDippingSauce-8853474043835-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474043835",
+        "Product_Detail": null,
+        "Price": "449",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-soya-duck-with-giblets-and-sweet-chili-dipping-sauce-8853474043835",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Nai Ood Spices Braised Pork Knucklk 1000g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NaiOodSpicesBraisedPorkKnucklk1000g-8852020910966-1?$JPEG$"
+        ],
+        "Quantity": "1000g",
+        "Barcode_Number": "8852020910966",
+        "Product_Detail": null,
+        "Price": "335",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/nai-ood-spices-braised-pork-knucklk-1000g-8852020910966",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Nai Oud Spices Braised Pork Belly 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NaiOudSpicesBraisedPorkBelly300g-8852020910973-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8852020910973",
+        "Product_Detail": null,
+        "Price": "335",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/nai-oud-spices-braised-pork-belly-300g-8852020910973",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "(OTOP) Nai Ood Five Spices Pork Leg Stew 2500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NaiOodFiveSpicesPorkLegStew2500g-8852020910997-1?$JPEG$"
+        ],
+        "Quantity": "2500g",
+        "Barcode_Number": "8852020910997",
+        "Product_Detail": null,
+        "Price": "599",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/otop-nai-ood-five-spices-pork-leg-stew-2500g-8852020910997",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Kurobuta Marinated Pork Collar Pepper 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KUROBUTA-KurobutaMarinatedPorkCollarPepper200g-8850653102604-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850653102604",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "KUROBUTA"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/kurobuta-marinated-pork-collar-pepper-200g-8850653102604",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Kurobuta Marinated Pork Chop Pepper 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KUROBUTA-KurobutaMarinatedPorkChopPepper200g-8850653102581-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850653102581",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "KUROBUTA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/kurobuta-marinated-pork-chop-pepper-200g-8850653102581",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Kurobuta Marinated Pork Ham Pepper 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KUROBUTA-KurobutaMarinatedPorkHamPepper200g-8850653102611-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850653102611",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "KUROBUTA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/kurobuta-marinated-pork-ham-pepper-200g-8850653102611",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Premium Smoked Salmon 100g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedPremiumSmokedSalmon100gC-8858781401156-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858781401156",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-premium-smoked-salmon-100gc-8858781401156",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Mr.Champ Crispr Gouramy Fish Original Flavor 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MRCHAMP-MrChampCrisprGouramyFishOriginalFlavor150g-8857123502056-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8857123502056",
+        "Product_Detail": null,
+        "Price": "292",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MR.CHAMP"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/mrchamp-crispr-gouramy-fish-original-flavor-150g-8857123502056",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Kuntima Gourami Fish 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KUNTIMA-KuntimaGouramiFish100-8857121781026-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8857121781026",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "KUNTIMA"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/kuntima-gourami-fish-100g-8857121781026",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Kurobuta Marinated Pork Shoulder Pepper 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KUROBUTA-KurobutaMarinatedPorkShoulderPepper200g-8850653102598-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850653102598",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "KUROBUTA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/kurobuta-marinated-pork-shoulder-pepper-200g-8850653102598",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Premium Salmon Gravlax 100g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedPremiumSalmonGravlax100gC-8858781401187-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858781401187",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-premium-salmon-gravlax-100gc-8858781401187",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Mae Champ Crispy Skin Pork 65g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MaeChampCrispySkinPork65g-0000040725062-1"
+        ],
+        "Quantity": "65g",
+        "Barcode_Number": "0000040725062",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/mae-champ-crispy-skin-pork-65g-0000040725062",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "My Choice Thai 3 Flavored  Crispy Anchovies 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICETHAI-MyChoiceThai3FlavoredCrispyAnchovies140g-8853474063857-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8853474063857",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MY CHOICE THAI"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-thai-3-flavored-crispy-anchovies-140g-8853474063857",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Nai Pramong Crispy Fish Herb Flavor 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NAIPRAMONG-NaiPramongCrispyFishHerbFlavor60g-8859103401861-1?$JPEG$"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8859103401861",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NAI PRAMONG"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/nai-pramong-crispy-fish-herb-flavor-60g-8859103401861",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Mae Champ Crispy Skin Pork 65g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MaeChampCrispySkinPork65g-0000040711065-1"
+        ],
+        "Quantity": "65g",
+        "Barcode_Number": "0000040711065",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/mae-champ-crispy-skin-pork-65g-0000040711065",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Mae Champ Crispy Skin Pork 65g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MaeChampCrispySkinPork65g-0000045071065-1"
+        ],
+        "Quantity": "65g",
+        "Barcode_Number": "0000045071065",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/mae-champ-crispy-skin-pork-65g-0000045071065",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "CP Soya Pork Knuckle and Kaki 2kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPSoyaPorkKnuckleandKaki2kgC-8858684509423-1?$JPEG$"
+        ],
+        "Quantity": "2kg",
+        "Barcode_Number": "8858684509423",
+        "Product_Detail": null,
+        "Price": "365",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Meat & Seafood",
+            "CP"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/cp-soya-pork-knuckle-and-kaki-2kg-8858684509423",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "My Choice Thai Seasoned & Rolled Cuttlefish 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICETHAI-MyChoiceThaiSeasonedRolledCuttlefish90g-8853474063888-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8853474063888",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MY CHOICE THAI"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/my-choice-thai-seasoned-rolled-cuttlefish-90g-8853474063888",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Gravlax 180g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-TSRJustGravlax180gC-8858781400043-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8858781400043",
+        "Product_Detail": null,
+        "Price": "390",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "THAMMACHART"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/thammachart-just-gravlax-180gc-8858781400043",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Koh Lak Siriman Fish Spicy Flavor 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-KohLakSirimanFishSpicyFlavor140g-8857123062253-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8857123062253",
+        "Product_Detail": null,
+        "Price": "202",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/koh-lak-siriman-fish-spicy-flavor-140g-8857123062253",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "My Choice Thai Seasoned & Shredded Cuttlefish 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICETHAI-MyChoiceThaiSeasonedShreddedCuttlefish75g-8853474063864-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8853474063864",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MY CHOICE THAI"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/my-choice-thai-seasoned-shredded-cuttlefish-75g-8853474063864",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Salmon with Chilli 180g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedSalmonwithChilli180gC-8858781400203-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8858781400203",
+        "Product_Detail": null,
+        "Price": "390",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "THAMMACHART"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-salmon-with-chilli-180gc-8858781400203",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "My Choice Thai Seasoned & Fried Cuttlefish 70g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICETHAI-MyChoiceThaiSeasonedFriedCuttlefish70g-8853474063871-1"
+        ],
+        "Quantity": "70g",
+        "Barcode_Number": "8853474063871",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MY CHOICE THAI"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/my-choice-thai-seasoned-fried-cuttlefish-70g-8853474063871",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Thammachart Japanese Seaweed Salad(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachadJapaneseSeaweedSaladC-0216778000009-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0216778000009",
+        "Product_Detail": null,
+        "Price": "990",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "THAMMACHART"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/thammachart-japanese-seaweed-saladc-0216778000009",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    },
+    {
+        "Product_Name": "Thammachart Orange Shrimp Roe(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachadOrangeShrimpRoeC-0216740000006-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0216740000006",
+        "Product_Detail": null,
+        "Price": "1500",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "THAMMACHART"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/thammachart-orange-shrimp-roec-0216740000006",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "marinated_meat"
+    }
+]

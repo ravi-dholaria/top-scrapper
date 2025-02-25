@@ -1,0 +1,1622 @@
+[
+    {
+        "Product_Name": "Jinjili Whole Fresh Prawn Wonton Chicken Soup 168g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JINJILI-JinjiliWholeFreshPrawnWontonChickenSoup168g-8888773168019-1?$JPEG$"
+        ],
+        "Quantity": "168g",
+        "Barcode_Number": "8888773168019",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Fresh Food & Bakery /// Frozen Food /// Frozen Meals",
+            "JINJILI"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/jinjili-whole-fresh-prawn-wonton-chicken-soup-168g-8888773168019",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "My Choice Soya Duck with Giblets and Sweet Chili Dipping Sauce",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSoyaDuckwithGibletsandSweetChiliDippingSauce-8853474043835-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474043835",
+        "Product_Detail": null,
+        "Price": "449",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-soya-duck-with-giblets-and-sweet-chili-dipping-sauce-8853474043835",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Meatly Basil Stir Fried Plant Based Crispy Meat with Rice 165g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MEATLY-MeatlyBasilStirFriedPlantBasedCrispyMeatwithRice165g-8852043633477-1?$JPEG$"
+        ],
+        "Quantity": "165g",
+        "Barcode_Number": "8852043633477",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MEATLY"
+        ],
+        "Stock": "33",
+        "URL": "https://www.tops.co.th/en/meatly-basil-stir-fried-plant-based-crispy-meat-with-rice-165g-8852043633477",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Meatly Stir Fried Chinese Kale and Plant Based Crispy Meat with Rice 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MEATLY-MeatlyStirFriedChineseKaleandPlantBasedCrispyMeatwithRice180g-8852043633460-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8852043633460",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MEATLY"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/meatly-stir-fried-chinese-kale-and-plant-based-crispy-meat-with-rice-180g-8852043633460",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Meatly Chili and Salt Stir Fried Plant based Crispy Meat with Rice 155g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MEATLY-MeatlyChiliandSaltStirFriedPlantbasedCrispyMeatwithRice155g-8852043633484-1?$JPEG$"
+        ],
+        "Quantity": "155g",
+        "Barcode_Number": "8852043633484",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MEATLY"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/meatly-chili-and-salt-stir-fried-plant-based-crispy-meat-with-rice-155g-8852043633484",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Golden Fritto Frozen French Fries 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GOLDENFRITTO-GoldenFrittoFrenchFries1kg-6973784820116-1?$JPEG$"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "6973784820116",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "GOLDEN FRITTO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/golden-fritto-frozen-french-fries-1kg-6973784820116",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sukishi Korean Boiled Pork in Soy Sauce with Kimchi 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiKoreanBoiledPork180g-8859242901154-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8859242901154",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/sukishi-korean-boiled-pork-in-soy-sauce-with-kimchi-180g-8859242901154",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Meat Works Australian Beef Grain Fed Burger Patties 480g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MEATWORKS-MeatWorksAustralianBeefGrainFedBurgerPatties480g-8858949801453-1?$JPEG$"
+        ],
+        "Quantity": "480g",
+        "Barcode_Number": "8858949801453",
+        "Product_Detail": null,
+        "Price": "329",
+        "Labels": [
+            "Meat & Seafood /// Frozen Meat&Seafood  /// Frozen Meat",
+            "MEAT WORKS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/meat-works-australian-beef-grain-fed-burger-patties-480g-8858949801453",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sukishi Japchae with Plant Based Chicken 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiJapchaewithPlantBasedChicken220g-8859242901840-1?$JPEG$"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8859242901840",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Fresh Food & Bakery /// Frozen Food /// Frozen Meals",
+            "SUKISHI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/sukishi-japchae-with-plant-based-chicken-220g-8859242901840",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Oishi Japanese Gyoza 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OISHI-OishiJapaneseGyoza240g-8859501300032-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8859501300032",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OISHI"
+        ],
+        "Stock": "305",
+        "URL": "https://www.tops.co.th/en/oishi-japanese-gyoza-240g-8859501300032",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Chocolate Marble Cake 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPChocolateMarbleCake300g-8850231000261-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8850231000261",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "194",
+        "URL": "https://www.tops.co.th/en/sp-chocolate-marble-cake-300g-8850231000261",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Oishi Chicken Gyoza 264g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OISHI-OishiChickenGyoza264g-8859501300049-1?$JPEG$"
+        ],
+        "Quantity": "264g",
+        "Barcode_Number": "8859501300049",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OISHI"
+        ],
+        "Stock": "70",
+        "URL": "https://www.tops.co.th/en/oishi-chicken-gyoza-264g-8859501300049",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Surapon Foods Battered Fish Bites 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SURAPONFOODS-SuraponFoodsBatteredFishBites180g-8850469029973-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8850469029973",
+        "Product_Detail": null,
+        "Price": "135",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SURAPON FOODS"
+        ],
+        "Stock": "92",
+        "URL": "https://www.tops.co.th/en/surapon-foods-battered-fish-bites-180g-8850469029973",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Betagro Spaghetti Bolognese Pork Ball 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroSpaghettiBolognesePorkBall250g-8852043622785-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8852043622785",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "41",
+        "URL": "https://www.tops.co.th/en/betagro-spaghetti-bolognese-pork-ball-250g-8852043622785",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Chocolate Cake 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPChocolateCake300g-8850231000582-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8850231000582",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "102",
+        "URL": "https://www.tops.co.th/en/sp-chocolate-cake-300g-8850231000582",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Oishi Eato Frozen Steamed Grilled Pork Gyoza with Shoyu Spicy Sauce 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OISHIEATO-OishiEatoFrozenSteamedGrilledPorkGyozawithShoyuSpicySauce264g-8859501300476-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8859501300476",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OISHI EATO"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/oishi-eato-frozen-steamed-grilled-pork-gyoza-with-shoyu-spicy-sauce-240g-8859501300476",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Oishi Pork Chicken and Wakame Seaweed Gyoza 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OISHI-OishiPorkChickenandWakameSeaweedGyoza240g-8859501300360-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8859501300360",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OISHI"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/oishi-pork-chicken-and-wakame-seaweed-gyoza-240g-8859501300360",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "C.P. Spaghetti with Minced Chicken and Sausage 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPSpaghettiwithMincedChickenandSausage250g-8850653670233-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850653670233",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "77",
+        "URL": "https://www.tops.co.th/en/cp-spaghetti-with-minced-chicken-and-sausage-250g-8850653670233",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Surapon Foods Pork Gyoza 264g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SURAPONFOODS-SuraponFoodsPorkGyoza264g-8850469025142-1"
+        ],
+        "Quantity": "264g",
+        "Barcode_Number": "8850469025142",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SURAPON FOODS"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/surapon-foods-pork-gyoza-264g-8850469025142",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "My Choice Green Japanese Soybeans 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceGreenJapaneseSoybeans400g-8853474062416-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8853474062416",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/my-choice-green-japanese-soybeans-400g-8853474062416",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Surapon Foods Shrimp Cake 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SURAPONFOODS-SuraponFoodsShrimpCake180g-8850469021847-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8850469021847",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SURAPON FOODS"
+        ],
+        "Stock": "141",
+        "URL": "https://www.tops.co.th/en/surapon-foods-shrimp-cake-180g-8850469021847",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sunnyday Shoestring French Fries 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNNYDAY-SunnydayShoestringFrenchFries1kg-5414294641507-1"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "5414294641507",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SUNNY DAY"
+        ],
+        "Stock": "56",
+        "URL": "https://www.tops.co.th/en/sunnyday-shoestring-french-fries-1kg-5414294641507",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sun Valley Chicken Mini Corndog 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SunValleyChickenMiniCorndog500g-8859228205238-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8859228205238",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUN VALLEY"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/sun-valley-chicken-mini-corndog-500g-8859228205238",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sunny Day Frozen French Fries Straight Cut 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNNYDAY-SunnyDayFrozenFrenchFriesStraightCut1kg-8856843050472-1"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "8856843050472",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SUNNY DAY"
+        ],
+        "Stock": "57",
+        "URL": "https://www.tops.co.th/en/sunny-day-frozen-french-fries-straight-cut-1kg-8856843050472",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sunny Day Frozen Strawberry 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNNYDAY-SunnyDayFrozenStrawberry450g-8856843001573-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8856843001573",
+        "Product_Detail": null,
+        "Price": "94",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUNNY DAY"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/sunny-day-frozen-strawberry-450g-8856843001573",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Pandan Cake 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPPandanCake300g-8850231000575-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8850231000575",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "28",
+        "URL": "https://www.tops.co.th/en/sp-pandan-cake-300g-8850231000575",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Oishi Eato Frozen Steamed Pork Gyoza 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OISHI-OishiEatoFrozenSteamedPorkGyoza240g-8859501300858-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8859501300858",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OISHI EATO"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/oishi-eato-frozen-steamed-pork-gyoza-240g-8859501300858",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Favory Frozen Blueberries 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FAVORY-FavoryFrozenBlueberries500g-8853474070220-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8853474070220",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/favory-frozen-blueberries-500g-8853474070220",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Nissu Salted Edamame 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NissuSaltedEdamame400g-4902150650592-1?$JPEG$"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "4902150650592",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "62",
+        "URL": "https://www.tops.co.th/en/nissu-salted-edamame-360g-4902150650592",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Okame Gokukotsubu Nutto 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OKAME-OkameGokukotsubuNutto150g-4901160257333-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "4901160257333",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OKAME"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/okame-gokukotsubu-nutto-150g-4901160257333",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Tendo Tarezuke Chicken 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-TendoTarezukeChicken200g-8850469027993-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850469027993",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "53",
+        "URL": "https://www.tops.co.th/en/tendo-tarezuke-chicken-200g-8850469027993",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sunny Day Frozen Raspberry 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNNYDAY-SunnyDayFrozenRaspberry450g-8856843001597-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8856843001597",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUNNY DAY"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/sunny-day-frozen-raspberry-450g-8856843001597",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sunny Day Frozen Mixed Vegetables 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNNYDAY-SunnyDayFrozenMixedVegetables450g-8856843001627-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8856843001627",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SUNNY DAY"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/sunny-day-frozen-mixed-vegetables-450g-8856843001627",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CP Chicken Nuggets 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPChickenNuggets200g-8850653530414-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850653530414",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CP"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/cp-chicken-nuggets-200g-8850653530414",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "My Choice Pangasius Dory Fillets 1000g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoicePangasiusDoryFillets1000g-8853474046683-1"
+        ],
+        "Quantity": "1000g",
+        "Barcode_Number": "8853474046683",
+        "Product_Detail": null,
+        "Price": "359",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-pangasius-dory-fillets-1000g-8853474046683",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Jinjili Whole Fresh Prawn Wonton Prawn Soup 168g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JINJILI-JinjiliWholeFreshPrawnWontonPrawnSoup168g-8888773168026-1?$JPEG$"
+        ],
+        "Quantity": "168g",
+        "Barcode_Number": "8888773168026",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Fresh Food & Bakery /// Frozen Food /// Frozen Meals",
+            "JINJILI"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/jinjili-whole-fresh-prawn-wonton-prawn-soup-168g-8888773168026",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Waitrose Frozen Whole Leaf Spinach Frozen 750g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WAITROSE-WaitroseFrozenWholeLeafSpinachFrozen750g-5000169515471-1"
+        ],
+        "Quantity": "750g",
+        "Barcode_Number": "5000169515471",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/waitrose-frozen-whole-leaf-spinach-frozen-750g-5000169515471",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Surapon Foods Shrimp Stick 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SURAPONFOODS-SuraponFoodsShrimpStick150g-8850469028457-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850469028457",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SURAPON FOODS"
+        ],
+        "Stock": "51",
+        "URL": "https://www.tops.co.th/en/surapon-foods-shrimp-stick-150g-8850469028457",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Chicken Green Curry with Rice 290g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPChickenGreenCurrywithRice290g-8850231800021-1"
+        ],
+        "Quantity": "290g",
+        "Barcode_Number": "8850231800021",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/sp-chicken-green-curry-with-rice-290g-8850231800021",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Waitrose Leaf Spinach Organics 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WAITROSE-WaitroseLeafSpinachOrganics500g-5000169678534-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "5000169678534",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/waitrose-leaf-spinach-organics-500g-5000169678534",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Q Fresh Frozen Raw Peeled Tail on Shrimp 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//QFRESH-QFreshFrozenRawPeeledTailonShrimp500g-8850468825347-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8850468825347",
+        "Product_Detail": null,
+        "Price": "189",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "QFRESH"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/q-fresh-frozen-raw-peeled-tail-on-shrimp-500g-8850468825347",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Sunny Day Frozen Blueberry 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNNYDAY-SunnyDayFrozenBlueberry450g-8856843001634-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8856843001634",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SUNNY DAY"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/sunny-day-frozen-blueberry-450g-8856843001634",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Pork Panang Curry with Rice 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPPorkPanangCurrywithRice300g-8850231800144-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8850231800144",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/sp-pork-panang-curry-with-rice-300g-8850231800144",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Nornuea Round Thai Wagyu Beef 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NORNUEA-NornueaRoundThaiWagyuBeef200g-0612020099997-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0612020099997",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NORNUEA"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/nornuea-round-thai-wagyu-beef-200g-0612020099997",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Spaghetti Carbonara Sauce 245g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPSpaghettiCarbonaraSauce245g-8850231800069-1"
+        ],
+        "Quantity": "245g",
+        "Barcode_Number": "8850231800069",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sp-spaghetti-carbonara-sauce-245g-8850231800069",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "El Corte Ingles Frozen Young Tender Sweet Peas 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELCORTEINGLES-ElCorteInglesGuisantesMuyTiernos300g-8433329069687-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8433329069687",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "EL CORTE INGLES"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/el-corte-ingles-frozen-young-tender-sweet-peas-300g-8433329069687",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Oishi Shrimp Gyoza 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OISHI-OishiShrimpGyoza264g-8859501300018-1"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8859501300018",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OISHI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/oishi-shrimp-gyoza-240g-8859501300018",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "My Choice Straight Frozen Cut French Fries 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceStraightFrozenCutFrenchFries1kg-8853474052301-1"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "8853474052301",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-straight-frozen-cut-french-fries-1kg-8853474052301",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Pangasius Dory Fillet Premium Grade 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARINEPLUS-MarinePlusFrozenPangasiusDoryFilletPremiumGrade170g-8853474094059-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "8853474094059",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-pangasius-dory-fillet-premium-grade-170g-8853474094059",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CP Ready to Cook Chicken Double Cheese Nuggets 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPReadytoCookChickenDoubleCheeseNuggets160g-8858684513642-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8858684513642",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/cp-ready-to-cook-chicken-double-cheese-nuggets-160g-8858684513642",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S Pure Roasted Chicken Breast Original Flavour 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureRoastedChickenBreastOriginalFlavour450g-8858957961682-1?$JPEG$"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8858957961682",
+        "Product_Detail": null,
+        "Price": "222",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "S PURE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/s-pure-roasted-chicken-breast-original-flavour-450g-8858957961682",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Minnamame Shelled Soybeans 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MINNAMAME-MinnamameShelledSoybeans350g-8857122511684-1"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "8857122511684",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MINNAMAME"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/minnamame-shelled-soybeans-350g-8857122511684",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "James The Butcher Frozen Beef Rib Eye Sliced Dry Aged 7Days 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMESTHEBUTCHER-JamesTheButcherFrozenBeefRibEyeSlicedDryAged7Days180g-8853474081585-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474081585",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "JAMES THE BUTCHER"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/james-the-butcher-frozen-beef-rib-eye-sliced-dry-aged-7days-180g-8853474081585",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CP Shrimp Wonton with Egg Noodle Soup 226g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPShrimpWontonwithEggNoodleSoup226g-8850653923421-1"
+        ],
+        "Quantity": "226g",
+        "Barcode_Number": "8850653923421",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CP"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/cp-shrimp-wonton-with-egg-noodle-soup-226g-8850653923421",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Favory Frozen Strawberries 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FAVORY-FavoryFrozenStrawberries500g-8853474070244-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8853474070244",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/favory-frozen-strawberries-500g-8853474070244",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CP Delight Tender Chicken Breast 340g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPDelightTenderChickenBreast380g-8850653196573-1?$JPEG$"
+        ],
+        "Quantity": "340g",
+        "Barcode_Number": "8850653196573",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CP"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/cp-delight-tender-chicken-breast-340g-8850653196573",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Banana in Coconut Cream 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPBananainCoconutCream170g-8850231510111-1"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "8850231510111",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sp-banana-in-coconut-cream-170g-8850231510111",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Saralee Frozen Butter Pound Cake 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SARALEE-SaraleeFrozenButterPoundCake300g-9310135026310-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "9310135026310",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SARA LEE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/saralee-frozen-butter-pound-cake-300g-9310135026310",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Kitcken Joy Roasted Orlean Middle Wing 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHICKENJOY-KitckenJoyRoastedOrleanMiddleWing500g-8850554057294-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8850554057294",
+        "Product_Detail": null,
+        "Price": "229",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHICKEN JOY"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/kitcken-joy-roasted-orlean-middle-wing-500g-8850554057294",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Yummy Tale Shrimp Paste 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YUMMYTAIL-YummyTaleShrimpPaste120g-8854433000821-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8854433000821",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "YUMMY TAIL"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/yummy-tale-shrimp-paste-120g-8854433000821",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Garlic Pork with Rice 280g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPGarlicPorkwithRice280g-8850231800052-1"
+        ],
+        "Quantity": "280g",
+        "Barcode_Number": "8850231800052",
+        "Product_Detail": null,
+        "Price": "74",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/sp-garlic-pork-with-rice-280g-8850231800052",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Coles Original Frozen Plain Bagels 4 Pack 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COLES-ColesOriginalFrozenPlainBagels4Pack360g-9310645253985-1?$JPEG$"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "9310645253985",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/coles-original-frozen-plain-bagels-4-pack-360g-9310645253985",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Tops Chicken Nuggets Original 200 g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsChickenNuggetsOriginalflavour200g-8853474032471-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474032471",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tops-chicken-nuggets-original-200-g-8853474032471",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CJ Bibigo Wraping Dumpling 420g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CJ-CJBibigoWrapingDumpling420g-8801007325224-1"
+        ],
+        "Quantity": "420g",
+        "Barcode_Number": "8801007325224",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "C.J."
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/cj-bibigo-wraping-dumpling-420g-8801007325224",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Meat Zero Nugget 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MEATZERO-MeatZeroNugget200g-8858684510252-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8858684510252",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MEAT ZERO"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/meat-zero-nugget-200g-8858684510252",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Water Chestnut Coated with Tapioca Starch in Coconut Cream 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPWaterChestnutCoatedwithTapiocaStarchinCoconutCream160g-8850231510142-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8850231510142",
+        "Product_Detail": null,
+        "Price": "38",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "43",
+        "URL": "https://www.tops.co.th/en/sp-water-chestnut-coated-with-tapioca-starch-in-coconut-cream-160g-8850231510142",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Black Glutinous Rice in Coconut Cream 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPBlackGlutinousRiceinCoconutCream150g-8850231510135-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850231510135",
+        "Product_Detail": null,
+        "Price": "38",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/sp-black-glutinous-rice-in-coconut-cream-150g-8850231510135",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CJ Bibigo Fried Dumpling 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CJ-CJBibigoFriedDumpling450g-8801007301648-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8801007301648",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "C.J."
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/cj-bibigo-fried-dumpling-450g-8801007301648",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Frozen Australian Ribeye Steak 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-FrozenAustralianRibeyeSteak160g-8858867809289-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8858867809289",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/frozen-australian-ribeye-steak-160g-8858867809289",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CP Shrimp Wonton in Tom Yum Soup 115g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPShrimpWontoninTomYumSoup115g-8850653923438-1"
+        ],
+        "Quantity": "115g",
+        "Barcode_Number": "8850653923438",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/cp-shrimp-wonton-in-tom-yum-soup-115g-8850653923438",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Meat Zero Plant Based Gyoza with Shoyu Sauce J 187g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MEATZERO-MeatZeroPlantBasedGyozawithShoyuSauceJ187g-8858684513468-1?$JPEG$"
+        ],
+        "Quantity": "187g",
+        "Barcode_Number": "8858684513468",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MEAT ZERO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/meat-zero-plant-based-gyoza-with-shoyu-sauce-j-187g-8858684513468",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Cocono Macapuno in Scented Candle Coconut Milk 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COCONO-CoconoMacapunoinScentedCandleCoconutMilk180g-8857200361019-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8857200361019",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COCONO"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/cocono-macapuno-in-scented-candle-coconut-milk-180g-8857200361019",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Samyang Buldak Dumpling Carbonara 700g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SAMYANG-SamyangBuldakDumplingCarbonara700g-8801073911093-1?$JPEG$"
+        ],
+        "Quantity": "700g",
+        "Barcode_Number": "8801073911093",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SAMYANG"
+        ],
+        "Stock": "55",
+        "URL": "https://www.tops.co.th/en/samyang-buldak-dumpling-carbonara-700g-8801073911093",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Daurma Chutsubu Natto 135g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-DaurmaChutsubuNatto135g-4904977001212-1"
+        ],
+        "Quantity": "135g",
+        "Barcode_Number": "4904977001212",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "International Products /// JAPAN /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/daurma-chutsubu-natto-135g-4904977001212",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CJ Bibigo Boiled Dumpling 370g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CJ-CJBibigoBoiledDumpling370g-8801007298986-1"
+        ],
+        "Quantity": "370g",
+        "Barcode_Number": "8801007298986",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "C.J."
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/cj-bibigo-boiled-dumpling-370g-8801007298986",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Oishi Stir Fried Yakisoba with Pork and Vegetable 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OISHI-OishiStirFriedYakisobawithPorkandVegetable250g-8859501350013-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8859501350013",
+        "Product_Detail": null,
+        "Price": "77",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OISHI"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/oishi-stir-fried-yakisoba-with-pork-and-vegetable-250g-8859501350013",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S Pure Roasted Chicken Breast Lemongrass Flavour 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureRoastedChickenBreastLemongrassFlavour450g-8858957961675-1?$JPEG$"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8858957961675",
+        "Product_Detail": null,
+        "Price": "222",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "S PURE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/s-pure-roasted-chicken-breast-lemongrass-flavour-450g-8858957961675",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Meat Works Australia Beef Burger Patties 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MeatWorksAustraliaBeefBurgerPatties300g-8858949800715-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8858949800715",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MEAT WORKS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/meat-works-australia-beef-burger-patties-300g-8858949800715",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Q Fresh Peeled Tail on Shrimp Size L 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//QFRESH-QFreshPeeledTailonShrimpSizeL240g-8850468825286-1"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8850468825286",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "QFRESH"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/q-fresh-peeled-tail-on-shrimp-size-l-240g-8850468825286",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "King Chef Rice Soup with Snapper 380g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KINGCHEF-KingChefRiceSoupwithSnapper380g-8853652019003-1"
+        ],
+        "Quantity": "380g",
+        "Barcode_Number": "8853652019003",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KING CHEF"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/king-chef-rice-soup-with-snapper-380g-8853652019003",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S&P Salmon Spaghetti and Pesto Sauce 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPSalmonSpaghettiandPestoSauce240g-8850231800854-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8850231800854",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/sp-salmon-spaghetti-and-pesto-sauce-240g-8850231800854",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Tyson Hot & Spicy Chicken Popcorn 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TYSON-TysonHotSpicyChickenPopcorn200g-8859617200141-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859617200141",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Fresh Food & Bakery",
+            "TYSON"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tyson-hot-spicy-chicken-popcorn-200g-8859617200141",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Waitrose Petits Pois 725g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WAITROSE-WaitrosePetitsPois725g-5000169515433-1?$JPEG$"
+        ],
+        "Quantity": "725g",
+        "Barcode_Number": "5000169515433",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/waitrose-petits-pois-725g-5000169515433",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "C.P. Seaweed Roll Chicken 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPSeaweedRollChicken200g-8850653530315-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850653530315",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/cp-seaweed-roll-chicken-200g-8850653530315",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Surapon Foods Pork Shumai 192g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SURAPONFOODS-SuraponFoodsPorkShumai192g-8850469024770-1"
+        ],
+        "Quantity": "192g",
+        "Barcode_Number": "8850469024770",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SURAPON FOODS"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/surapon-foods-pork-shumai-192g-8850469024770",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Freeze Zone Frozen Shoestring French Fries 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FREEZEZONE-FreezeZoneFrozenShoestringFrenchFries1kg-8853474093007-1?$JPEG$"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "8853474093007",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "FREEZE ZONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/freeze-zone-frozen-shoestring-french-fries-1kg-8853474093007",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "S Pure Black Pepper Pork Loin 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureBlackPepperPorkLoin200g-8852043064738-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8852043064738",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "S PURE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/s-pure-black-pepper-pork-loin-200g-8852043064738",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "CP Pork Congee 330g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPPorkCongee330g-8850653670547-1"
+        ],
+        "Quantity": "330g",
+        "Barcode_Number": "8850653670547",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/cp-pork-congee-330g-8850653670547",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "C.P. Chicken Teriyaki with Noodle 270g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPChickenTeriyakiwithNoodle270g-8850653670950-1"
+        ],
+        "Quantity": "270g",
+        "Barcode_Number": "8850653670950",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/cp-chicken-teriyaki-with-noodle-270g-8850653670950",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    },
+    {
+        "Product_Name": "Waitrose Frozen Extra Fine Whole Green Beans 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WAITROSE-WaitroseFrozenExtraFineWholeGreenBeans500g-5000169665718-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "5000169665718",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Shop by Brands /// Waitrose /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/waitrose-frozen-extra-fine-whole-green-beans-500g-5000169665718",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "frozen_food"
+    }
+]

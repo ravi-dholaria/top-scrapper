@@ -1,0 +1,830 @@
+[
+    {
+        "Product_Name": "S Pure Eggs Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureEggsPack10pcs-8856294057280-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294057280",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "S PURE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/s-pure-eggs-pack-10pcs-8856294057280",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Fresh Hen Eggs No.1 Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsFreshHenEggsNo1Pack30pcs-8853474081233-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474081233",
+        "Product_Detail": null,
+        "Price": "175",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/tops-fresh-hen-eggs-no1-pack-30pcs-8853474081233",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "C.P. Egg No.0 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPEggNo0Pack10pcs-8850653432206-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8850653432206",
+        "Product_Detail": null,
+        "Price": "83",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/cp-egg-no0-pack-10pcs-8850653432206",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Hilltribe Organic Eggs Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HILLTRIBE-HilltribeOrganicEggsPack10pcs-8859226200013-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8859226200013",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HILLTRIBE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/hilltribe-organic-eggs-pack-10pcs-8859226200013",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Fresh Hen Eggs No.2 Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsFreshHenEggsNo2Pack30pcs-8853474054107-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474054107",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/tops-fresh-hen-eggs-no2-pack-30pcs-8853474054107",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "S Pure Jumbo Eggs Pack 6pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureJumboEggsPack6pcs-8852043354471-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8852043354471",
+        "Product_Detail": null,
+        "Price": "68",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "S PURE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/s-pure-jumbo-eggs-pack-6pcs-8852043354471",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Akara Eggology Organic Eggs Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//AKARAEGGOLOGY-AkaraEggologyOrganicEggsPack10pcs-8858912613106-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8858912613106",
+        "Product_Detail": null,
+        "Price": "98",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "AKARA EGGOLOGY"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/akara-eggology-organic-eggs-pack-10pcs-8858912613106",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Egg No.2 Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroEggNo2Pack30pcs-8856294055101-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294055101",
+        "Product_Detail": null,
+        "Price": "175",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/betagro-egg-no2-pack-30pcs-8856294055101",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Oh Egg Fresh Hen Eggs Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OHEGG-OhEggFreshHenEggsPack30pcs-8853474092499-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474092499",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OH EGG"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/oh-egg-fresh-hen-eggs-pack-30pcs-8853474092499",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Fresh Hen Eggs No.0 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsFreshHenEggsNo0Pack10pcs-8853474040667-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474040667",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tops-fresh-hen-eggs-no0-pack-10pcs-8853474040667",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Egg No.1 Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroEggNo1Pack30pcs-8856294055095-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294055095",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/betagro-egg-no1-pack-30pcs-8856294055095",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Egg No.1 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsEggNo1Pack10pcs-8853474057566-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474057566",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tops-egg-no1-pack-10pcs-8853474057566",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Egg No.1 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroEggNo1Pack10pcs-8856294055040-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294055040",
+        "Product_Detail": null,
+        "Price": "73",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/betagro-egg-no1-pack-10pcs-8856294055040",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "C.P. Egg No.1 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPEggNo1Pack10pcs-8850653432213-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8850653432213",
+        "Product_Detail": null,
+        "Price": "73",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/cp-egg-no1-pack-10pcs-8850653432213",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Egg No.0 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroEggNo0Pack10pcs-8856294055026-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294055026",
+        "Product_Detail": null,
+        "Price": "87",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/betagro-egg-no0-pack-10pcs-8856294055026",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "U Farm Cage Free Egg Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFARM-UFarmCageFreeEggPack10pcs-8850653205725-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8850653205725",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "U FARM"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/u-farm-cage-free-egg-pack-10pcs-8850653205725",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "My Choice Fresh Organic Eggs Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceFreshOrganicEggsPack10pcs-8853474057559-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474057559",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/my-choice-fresh-organic-eggs-pack-10pcs-8853474057559",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Hilltribe Organic Eggs Large Size Pack 6pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HILLTRIBE-HilltribeOrganicEggsLargeSizePack6pcs-8859226200105-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8859226200105",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HILLTRIBE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/hilltribe-organic-eggs-large-size-pack-6pcs-8859226200105",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Cage Free Egg Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroCageFreeEggPack10pcs-8856294089564-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294089564",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/betagro-cage-free-egg-pack-10pcs-8856294089564",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Pullet Eggs Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroPulletEggsPack10pcs-8856294088338-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294088338",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/betagro-pullet-eggs-pack-10pcs-8856294088338",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Pullet Egg  Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroPulletEggPack30pcs-8856294088345-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294088345",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/betagro-pullet-egg-pack-30pcs-8856294088345",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Hilltribe Organic Eggs Jumbo Size Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HILLTRIBE-HilltribeOrganicEggsJumboSizePack10pcs-8859226200075-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8859226200075",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HILLTRIBE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/hilltribe-organic-eggs-jumbo-size-pack-10pcs-8859226200075",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Egg No.0 Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroEggNo0Pack30pcs-8856294055088-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294055088",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/betagro-egg-no0-pack-30pcs-8856294055088",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Fresh Duck Eggs No.3 Pack 6pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsFreshDuckEggsNo3Pack6pcs-8853474015245-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474015245",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tops-fresh-duck-eggs-no3-pack-6pcs-8853474015245",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Natural and Premium Organic Egg Pack 10pcs.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NATURALANDPREMIUM-NaturalandPremiumOrganicEggPack10pcsC-8858738400034-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8858738400034",
+        "Product_Detail": null,
+        "Price": "91",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NATURAL AND PREMIUM"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/natural-and-premium-organic-egg-pack-10pcsc-8858738400034",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Egg No.2 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroEggNo2Pack10pcs-8856294055057-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294055057",
+        "Product_Detail": null,
+        "Price": "73",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/betagro-egg-no2-pack-10pcs-8856294055057",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Egg No.2 Pack 12pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsEggNo2Pack12pcs-8853474009695-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474009695",
+        "Product_Detail": null,
+        "Price": "80",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tops-egg-no2-pack-12pcs-8853474009695",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "OVF Egg White 450ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-OVFEggWhite450ml-8851344002692-1"
+        ],
+        "Quantity": "450ml",
+        "Barcode_Number": "8851344002692",
+        "Product_Detail": null,
+        "Price": "87",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/ovf-egg-white-450ml-8851344002692",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Beindy Country Farms Pasture Raised Eggs Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BEINDYCOUNTRYFARMS-BeindyCountryFarmsPastureRaisedEggsPack10pcs-0000048352963-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048352963",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BEINDY COUNTRY FARMS"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/beindy-country-farms-pasture-raised-eggs-pack-10pcs-0000048352963",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Akara Fresh Hen Egg No.2 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//STFFARM-AkaraFreshHenEggNo2Pack10pcs-8858912602100-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8858912602100",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "STF FARM"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/akara-fresh-hen-egg-no2-pack-10pcs-8858912602100",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Mori Tama Fresh Eggs No.2 pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MoriTamaFreshEggsNo2pack10pcs-8858912682102-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8858912682102",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/mori-tama-fresh-eggs-no2-pack-10pcs-8858912682102",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Betagro Yummy Eggs Pack 10 pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroYummyEggsPack10pcs-8852043355126-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8852043355126",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/betagro-yummy-eggs-pack-10-pcs-8852043355126",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Chao Sua Preserved Egg Pack 4pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaoSuaPreservedEggPack4pcs-8853836005013-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853836005013",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAO SUA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/chao-sua-preserved-egg-pack-4pcs-8853836005013",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Salted Eggs Pack 4pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsSaltedEggsPack4pcs-8853474014422-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474014422",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/tops-salted-eggs-pack-4pcs-8853474014422",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Golden Lay Egg Folate Size L Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GOLDENLAY-GoldenLayEggFolateSizeLPack10pcs-8851344003675-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8851344003675",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "GOLDENLAY"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/golden-lay-egg-folate-size-l-pack-10pcs-8851344003675",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Natural and Premium Organic Egg Medium Size Pack 10pcs.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NATURALANDPREMIUM-NaturalandPremiumOrganicEggMediumSizePack10pcsC-8858738400041-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8858738400041",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NATURAL AND PREMIUM"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/natural-and-premium-organic-egg-medium-size-pack-10pcsc-8858738400041",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Egg No.1 Pack 6pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsEggNo1Pack6pcs-8853474009718-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474009718",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tops-egg-no1-pack-6pcs-8853474009718",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Egg My God Egg Free Range Mixed 12pcs.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-EggMyGodEggFreeRangeMixed12pcsC-0000048527781-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048527781",
+        "Product_Detail": null,
+        "Price": "100",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "98",
+        "URL": "https://www.tops.co.th/en/egg-my-god-egg-free-range-mixed-12pcsc-0000048527781",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Oh Egg Eggs No.3 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OHEGG-OhEggEggsNo3Pack10pcs-8853474098552-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474098552",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OH EGG"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/oh-egg-eggs-no3-pack-10pcs-8853474098552",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Preserved Eggs Pack 4pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsPreservedEggsPack4pcs-8853474015269-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474015269",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tops-preserved-eggs-pack-4pcs-8853474015269",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "S Pure Onsen Egg Pack 4pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SPureOnsenEggPack4pcs-8856294071637-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8856294071637",
+        "Product_Detail": null,
+        "Price": "47",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/s-pure-onsen-egg-pack-4pcs-8856294071637",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Chao Sua Egg In Potash Pack 4pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaoSuaEggInPotashPack4pcs-8853836005310-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853836005310",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAO SUA"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/chao-sua-egg-in-potash-pack-4pcs-8853836005310",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Natural and Premium Organic Egg Pack 6pcs.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NATURALANDPREMIUM-NaturalandPremiumOrganicEggPack6pcsC-8858738400027-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8858738400027",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NATURAL AND PREMIUM"
+        ],
+        "Stock": "99",
+        "URL": "https://www.tops.co.th/en/natural-and-premium-organic-egg-pack-6pcsc-8858738400027",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Akara Farm Egg No.2 Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//STFFARM-AkaraFarmEggNo2Pack30pcs-8858912602308-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8858912602308",
+        "Product_Detail": null,
+        "Price": "180",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "STF FARM"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/akara-farm-egg-no2-pack-30pcs-8858912602308",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Tops Fresh Hen Eggs Omega3 No.2 pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsFreshHenEggsOmega3No2pack10pcs-8853474040650-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474040650",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tops-fresh-hen-eggs-omega3-no2-pack-10pcs-8853474040650",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    },
+    {
+        "Product_Name": "Akara Eggology Veggie Eggs Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//AKARAEGGOLOGY-AkaraEggologyVeggieEggsPack10pcs-8858912614103-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8858912614103",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "AKARA EGGOLOGY"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/akara-eggology-veggie-eggs-pack-10pcs-8858912614103",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "egg"
+    }
+]

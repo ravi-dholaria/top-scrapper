@@ -1,0 +1,3332 @@
+[
+    {
+        "Product_Name": "My Choice Double Cheese Sausage Bun(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceDoubleCheeseSausageBunB-0000021754371-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000021754371",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-double-cheese-sausage-bunb-0000021754371",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Soya Duck with Giblets and Sweet Chili Dipping Sauce",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSoyaDuckwithGibletsandSweetChiliDippingSauce-8853474043835-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474043835",
+        "Product_Detail": null,
+        "Price": "449",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-soya-duck-with-giblets-and-sweet-chili-dipping-sauce-8853474043835",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Crisp Lotus Stalks 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsCrispLotusStalks150g-8853474038626-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474038626",
+        "Product_Detail": null,
+        "Price": "29",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/tops-crisp-lotus-stalks-150g-8853474038626",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Walnut & Raisin Cream Cheese Bun(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceWalnutRaisinCreamCheeseBunB-0000047913073-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000047913073",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-walnut-raisin-cream-cheese-bunb-0000047913073",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Fresh Hen Eggs No.2 Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsFreshHenEggsNo2Pack30pcs-8853474054107-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474054107",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/tops-fresh-hen-eggs-no2-pack-30pcs-8853474054107",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Chicken Cheese Bun(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceChickenCheeseBunB-0000020907518-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000020907518",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-chicken-cheese-bunb-0000020907518",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Oh Egg Fresh Hen Eggs Pack 30pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/OHEGG-OhEggFreshHenEggsPack30pcs-8853474092499-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474092499",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OH EGG"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/oh-egg-fresh-hen-eggs-pack-30pcs-8853474092499",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Fresh Hen Eggs No.0 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsFreshHenEggsNo0Pack10pcs-8853474040667-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474040667",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tops-fresh-hen-eggs-no0-pack-10pcs-8853474040667",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Sourdough Loaf(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSourdoughLoafB-0000024940955-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024940955",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "96",
+        "URL": "https://www.tops.co.th/en/my-choice-sourdough-loafb-0000024940955",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Frankfurt Roll(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceFrankfurtRollB-0209200036912-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0209200036912",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "88",
+        "URL": "https://www.tops.co.th/en/my-choice-frankfurt-rollb-0209200036912",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Kimchi 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceKimchi150g-8853474067121-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474067121",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/my-choice-kimchi-150g-8853474067121",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Ciabatta Bread(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceCiabattaBreadB-0000024949804-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024949804",
+        "Product_Detail": null,
+        "Price": "29",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "92",
+        "URL": "https://www.tops.co.th/en/my-choice-ciabatta-breadb-0000024949804",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Egg No.1 Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsEggNo1Pack10pcs-8853474057566-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474057566",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tops-egg-no1-pack-10pcs-8853474057566",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Chicken Frankfurt Roll(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceChickenFrankfurtRollB-0000024947954-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024947954",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-chicken-frankfurt-rollb-0000024947954",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Fresh Organic Eggs Pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceFreshOrganicEggsPack10pcs-8853474057559-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474057559",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/my-choice-fresh-organic-eggs-pack-10pcs-8853474057559",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Sour Dough Bread(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSourDoughBreadB-0000030348011-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000030348011",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "1998",
+        "URL": "https://www.tops.co.th/en/my-choice-sour-dough-breadb-0000030348011",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Green Japanese Soybeans 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceGreenJapaneseSoybeans400g-8853474062416-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8853474062416",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/my-choice-green-japanese-soybeans-400g-8853474062416",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice German Rustical Dark Rye Bread(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceGermanRusticalDarkRyeBreadB-0000030668027-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000030668027",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-german-rustical-dark-rye-breadb-0000030668027",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Multigrain Loaf(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceMultigrainLoafB-0000024941013-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024941013",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-multigrain-loafb-0000024941013",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Haus Salami 70g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceHausSalami70g-8853474021970-1?$JPEG$"
+        ],
+        "Quantity": "70g",
+        "Barcode_Number": "8853474021970",
+        "Product_Detail": null,
+        "Price": "122",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-haus-salami-70g-8853474021970",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Multigrain Baguette(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceMultigrainBaguetteB-0000024940993-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024940993",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-multigrain-baguetteb-0000024940993",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Raisin Patry Danish(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceRaisinPatryDanishB-0209200035960-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0209200035960",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-raisin-patry-danishb-0209200035960",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Smoked Paris Ham 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSmokedParisHam150g-8853474037292-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474037292",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-paris-ham-150g-8853474037292",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Fresh Duck Eggs No.3 Pack 6pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsFreshDuckEggsNo3Pack6pcs-8853474015245-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474015245",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tops-fresh-duck-eggs-no3-pack-6pcs-8853474015245",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Japanese Style Tofu 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsJapaneseStyleTofu200g-8853474065226-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474065226",
+        "Product_Detail": null,
+        "Price": "29",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tops-japanese-style-tofu-200g-8853474065226",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Sausage Ring(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSausageRingB-0000020930585-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000020930585",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-sausage-ringb-0000020930585",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Egg No.2 Pack 12pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsEggNo2Pack12pcs-8853474009695-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474009695",
+        "Product_Detail": null,
+        "Price": "80",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tops-egg-no2-pack-12pcs-8853474009695",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice English Muffin(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceEnglishMuffinB-0000024923880-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024923880",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "95",
+        "URL": "https://www.tops.co.th/en/my-choice-english-muffinb-0000024923880",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice White Sauce Chicken Pie(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceWhiteSauceChickenPieB-0000024971386-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024971386",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-white-sauce-chicken-pieb-0000024971386",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Multi Grain Bread",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceMultiGrainBread-0000030334014-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000030334014",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-multi-grain-bread-0000030334014",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Frankfurt Mayo Bun(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceFrankfurtMayoBunB-0209200037087-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0209200037087",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-frankfurt-mayo-bunb-0209200037087",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Pretzel(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoicePretzelB-0000031100021-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000031100021",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "96",
+        "URL": "https://www.tops.co.th/en/my-choice-pretzelb-0000031100021",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Wonton Sheet 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsWontonSheet120g-8853474043194-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853474043194",
+        "Product_Detail": null,
+        "Price": "14",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tops-wonton-sheet-120g-8853474043194",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Butter Scotch Bun",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceButterScotchBun-0000021754630-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000021754630",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "99",
+        "URL": "https://www.tops.co.th/en/my-choice-butter-scotch-bun-0000021754630",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Smoked Bacon 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSmokedBacon180g-8853474039692-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474039692",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-bacon-180g-8853474039692",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Pangasius Dory Fillets 1000g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoicePangasiusDoryFillets1000g-8853474046683-1"
+        ],
+        "Quantity": "1000g",
+        "Barcode_Number": "8853474046683",
+        "Product_Detail": null,
+        "Price": "359",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-pangasius-dory-fillets-1000g-8853474046683",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops White Firm Tofu 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsWhiteFirmTofu150g-8853474022151-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474022151",
+        "Product_Detail": null,
+        "Price": "28",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tops-white-firm-tofu-150g-8853474022151",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Rye Multigrain Loaf(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceRyeMultigrainLoafB-0000024949330-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024949330",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-rye-multigrain-loafb-0000024949330",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Farmer Rye Bread 500g.(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceFarmerRyeBread500gB-0000048482998-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0000048482998",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "96",
+        "URL": "https://www.tops.co.th/en/my-choice-farmer-rye-bread-500gb-0000048482998",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Carrefour Pate Feuilletee Epaisse 280g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/CARREFOUR-CarrefourPateFeuilleteeEpaisse280g-3560070555611-1"
+        ],
+        "Quantity": "280g",
+        "Barcode_Number": "3560070555611",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/carrefour-pate-feuilletee-epaisse-280g-3560070555611",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Tuna Pie",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceTunaPie-0000024971393-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024971393",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-tuna-pie-0000024971393",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Original Baguette(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceOriginalBaguetteB-0000024941037-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024941037",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "98",
+        "URL": "https://www.tops.co.th/en/my-choice-original-baguetteb-0000024941037",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Frozen Whole Leaf Spinach Frozen 750g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseFrozenWholeLeafSpinachFrozen750g-5000169515471-1"
+        ],
+        "Quantity": "750g",
+        "Barcode_Number": "5000169515471",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/waitrose-frozen-whole-leaf-spinach-frozen-750g-5000169515471",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Taro Pie(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceTaroPieB-0000024971379-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024971379",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-taro-pieb-0000024971379",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Spinach Croissant(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSpinachCroissantB-0000024971430-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024971430",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-spinach-croissantb-0000024971430",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Rye Multigrain Baguette Bread(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceRyeMultigrainBaguetteBreadB-0000024919142-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024919142",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-rye-multigrain-baguette-breadb-0000024919142",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Gourmet Ham 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceGourmetHam150g-8853474037100-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474037100",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/my-choice-gourmet-ham-150g-8853474037100",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Unsalted Butter 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesUnsaltedButter250g-9300601030057-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "9300601030057",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/coles-unsalted-butter-250g-9300601030057",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Salted Eggs Pack 4pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsSaltedEggsPack4pcs-8853474014422-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474014422",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/tops-salted-eggs-pack-4pcs-8853474014422",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Leaf Spinach Organics 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseLeafSpinachOrganics500g-5000169678534-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "5000169678534",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/waitrose-leaf-spinach-organics-500g-5000169678534",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Processed Cheddar Cheese 10Slices 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceProcessedCheddarCheese10Slices200g-8853474015429-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474015429",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-processed-cheddar-cheese-10slices-200g-8853474015429",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Yellow Soft Tofu 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsYellowSoftTofu200g-8853474022168-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474022168",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tops-yellow-soft-tofu-200g-8853474022168",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Cook Ham 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceCookHam150g-8853474037094-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474037094",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-cook-ham-150g-8853474037094",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "MY Choice Italian Sausage Bun(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MYChoiceItalianSausageBunB-0000048483056-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048483056",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "99",
+        "URL": "https://www.tops.co.th/en/my-choice-italian-sausage-bunb-0000048483056",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Canadian Bacon 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceCanadianBacon100g-8853474021963-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8853474021963",
+        "Product_Detail": null,
+        "Price": "83",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-canadian-bacon-100g-8853474021963",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "El Corte Ingles Frozen Young Tender Sweet Peas 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/ELCORTEINGLES-ElCorteInglesGuisantesMuyTiernos300g-8433329069687-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8433329069687",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "EL CORTE INGLES"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/el-corte-ingles-frozen-young-tender-sweet-peas-300g-8433329069687",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Straight Frozen Cut French Fries 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceStraightFrozenCutFrenchFries1kg-8853474052301-1"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "8853474052301",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-straight-frozen-cut-french-fries-1kg-8853474052301",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Pangasius Dory Fillet Premium Grade 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MARINEPLUS-MarinePlusFrozenPangasiusDoryFilletPremiumGrade170g-8853474094059-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "8853474094059",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-pangasius-dory-fillet-premium-grade-170g-8853474094059",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Rosemary Ham 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceRosemaryHam120g-8853474015733-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853474015733",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/my-choice-rosemary-ham-120g-8853474015733",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Junior Sausage 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceJuniorSausage160g-8853474046379-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8853474046379",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-junior-sausage-160g-8853474046379",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Cheese Frankfurt Bun(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceCheeseFrankfurtBunB-0209200036950-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0209200036950",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-cheese-frankfurt-bunb-0209200036950",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Original Frozen Plain Bagels 4 Pack 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesOriginalFrozenPlainBagels4Pack360g-9310645253985-1?$JPEG$"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "9310645253985",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/coles-original-frozen-plain-bagels-4-pack-360g-9310645253985",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Black Forest Ham 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceBlackForestHam80g-8853474015702-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474015702",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-black-forest-ham-80g-8853474015702",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Chicken Nuggets Original 200 g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsChickenNuggetsOriginalflavour200g-8853474032471-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474032471",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tops-chicken-nuggets-original-200-g-8853474032471",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Egg No.1 Pack 6pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsEggNo1Pack6pcs-8853474009718-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474009718",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tops-egg-no1-pack-6pcs-8853474009718",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Artisan Baguette(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceArtisanBaguetteB-0000048482974-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048482974",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-artisan-baguetteb-0000048482974",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Bacon Nan",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceBaconNan-0000020930561-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000020930561",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-bacon-nan-0000020930561",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Petits Pois 725g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitrosePetitsPois725g-5000169515433-1?$JPEG$"
+        ],
+        "Quantity": "725g",
+        "Barcode_Number": "5000169515433",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/waitrose-petits-pois-725g-5000169515433",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Authentic Korean Kimchi Mild Vegan 397g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneAuthenticKoreanKimchiMild397g-0025484007390-1?$JPEG$"
+        ],
+        "Quantity": "397g",
+        "Barcode_Number": "0025484007390",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/pulmuone-authentic-korean-kimchi-mild-vegan-397g-0025484007390",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Coconut and Ginko Pie(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceCoconutandGinkoPieB-0000024934350-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024934350",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/132245-my-choice-coconut-and-ginko-pieb-0000024934350",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Frozen Pastry Puff Sheets Ready Rolled 1kg. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesFrozenPastryPuffSheetsReadyRolled1kgPack6-9300601450558-1?$JPEG$"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "9300601450558",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/coles-frozen-pastry-puff-sheets-ready-rolled-1kg-pack-6-9300601450558",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Bite Pineapple Filled Biscuits 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYBITE-MyBitePineappleFilledBiscuits160g-8853474091546-1?$JPEG$"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8853474091546",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Snacks & Desserts /// Chips /// Rice Crackers & Flour Chips",
+            "MY BITE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/my-bite-pineapple-filled-biscuits-160g-8853474091546",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Bite Pineapple Jam Filled Coconut Flavour Biscuits 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYBITE-MyBitePineappleJamFilledCoconutFlavourBiscuits160g-8853474091522-1?$JPEG$"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8853474091522",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Snacks & Desserts /// Chips /// Rice Crackers & Flour Chips",
+            "MY BITE"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/my-bite-pineapple-jam-filled-coconut-flavour-biscuits-160g-8853474091522",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Smoked Norwegian Salmon Trout 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSmokedNorwegianSalmonTrout80g-8853474048083-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474048083",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-norwegian-salmon-trout-80g-8853474048083",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Garden Peas 725g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseGardenPeas725g-5000169515211-1"
+        ],
+        "Quantity": "725g",
+        "Barcode_Number": "5000169515211",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/waitrose-garden-peas-725g-5000169515211",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Hot Pockets 4 Cheese Pizza 241g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/HOTPOCKETS-HotPockets4CheesePizza241g-0043695071092-1"
+        ],
+        "Quantity": "241g",
+        "Barcode_Number": "0043695071092",
+        "Product_Detail": null,
+        "Price": "229",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HOT POCKETS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/hot-pockets-4-cheese-pizza-241g-0043695071092",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Sultana Custard Danish(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSultanaCustardDanishB-0000038579073-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000038579073",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/my-choice-sultana-custard-danishb-0000038579073",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Black Papper Chicken Chinese Mushroom Pie(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceBlackPapperChickenChineseMushroomPieB-0000030843028-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000030843028",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-black-papper-chicken-chinese-mushroom-pieb-0000030843028",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Pangasius Dory Fillet Fish Finger 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsPangasiusDoryFilletFishFinger200g-8853474047581-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474047581",
+        "Product_Detail": null,
+        "Price": "100",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/tops-pangasius-dory-fillet-fish-finger-200g-8853474047581",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "TOPS Vietnamese Noodle 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TOPSVietnameseNoodle400g-8853474044160-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8853474044160",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tops-vietnamese-noodle-400g-8853474044160",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Diced Fish Tofu 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceDicedFishTofu200g-8853474021130-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474021130",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-diced-fish-tofu-200g-8853474021130",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Vegetables Mix with Broccoli Organics 750g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseVegetablesMixwithBroccoliOraganics750g-5000169059807-1?$JPEG$"
+        ],
+        "Quantity": "750g",
+        "Barcode_Number": "5000169059807",
+        "Product_Detail": null,
+        "Price": "329",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/waitrose-vegetables-mix-with-broccoli-organics-750g-5000169059807",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Frozen Sesame Seed Bagels 4 Pack 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesFrozenSesameSeedBagles4Pack360g-9310645253992-1?$JPEG$"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "9310645253992",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/coles-frozen-sesame-seed-bagels-4-pack-360g-9310645253992",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Chilled Apple Juice 2ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesChilledAppleJuice2ltr-9310645110967-1?$JPEG$"
+        ],
+        "Quantity": "2l",
+        "Barcode_Number": "9310645110967",
+        "Product_Detail": null,
+        "Price": "220",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/coles-chilled-apple-juice-2ltr-9310645110967",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Korea Kimchi Spicy Vegan 397g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneKoreaKimchiSpicy397g-0025484007406-1?$JPEG$"
+        ],
+        "Quantity": "397g",
+        "Barcode_Number": "0025484007406",
+        "Product_Detail": null,
+        "Price": "235",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/pulmuone-korea-kimchi-spicy-vegan-397g-0025484007406",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Essential Cod Fillets Fish Fingers 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseEssentialCodFilletsFishFingers300g-5000169179383-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "5000169179383",
+        "Product_Detail": null,
+        "Price": "295",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/waitrose-essential-cod-fillets-fish-fingers-300g-5000169179383",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Phillips Maryland Style Crab Cakes Minis 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/NONE-PhillipsMarylandStyleCrabCakesMinis170g-0070057001985-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "0070057001985",
+        "Product_Detail": null,
+        "Price": "299",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PHILLIPS"
+        ],
+        "Stock": "33",
+        "URL": "https://www.tops.co.th/en/phillips-maryland-style-crab-cakes-minis-170g-0070057001985",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Phillips Maryland Style Crab Cakes 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/NONE-PhillipsMarylandStyleCrabCakes170g-0070057001909-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "0070057001909",
+        "Product_Detail": null,
+        "Price": "389",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PHILLIPS"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/phillips-maryland-style-crab-cakes-170g-0070057001909",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Preserved Eggs Pack 4pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsPreservedEggsPack4pcs-8853474015269-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474015269",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tops-preserved-eggs-pack-4pcs-8853474015269",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Frozen Australian Sweet Potato Chips 750g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesFrozenAustralianSweetPotatoChips750g-9310645357898-1?$JPEG$"
+        ],
+        "Quantity": "750g",
+        "Barcode_Number": "9310645357898",
+        "Product_Detail": null,
+        "Price": "239",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/coles-frozen-australian-sweet-potato-chips-750g-9310645357898",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Vegan Kimchi 750g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneVeganKimchi750g-8801114144992-1?$JPEG$"
+        ],
+        "Quantity": "750g",
+        "Barcode_Number": "8801114144992",
+        "Product_Detail": null,
+        "Price": "295",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/pulmuone-vegan-kimchi-750g-8801114144992",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Essential Italian Light Mozzarella Fresh Cheese 125g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSEESSENTIAL-WaitroseEssentialItalianLightMozzarellaFreshCheese125g-5000169567722-1?$JPEG$"
+        ],
+        "Quantity": "125g",
+        "Barcode_Number": "5000169567722",
+        "Product_Detail": null,
+        "Price": "148",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/waitrose-essential-italian-light-mozzarella-fresh-cheese-125g-5000169567722",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Frozen Salmon Protion Cut Size 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceFrozenSalmonProtionCutSize150g-8853474057139-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474057139",
+        "Product_Detail": null,
+        "Price": "349",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-frozen-salmon-protion-cut-size-150g-8853474057139",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Egg Noodle 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsEggNoodle400g-8853474043200-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8853474043200",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tops-egg-noodle-400g-8853474043200",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pinar Labne Soft Cheese Spread with Garlic and Chives 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PINAR-PinarLabneSoftCheeseSpreadwithGarlicandChives180g-8690565021200-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8690565021200",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PINAR"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/pinar-labne-soft-cheese-spread-with-garlic-and-chives-180g-8690565021200",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Sweet Corn Pie(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSweetCornPieB-0000024981484-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024981484",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-sweet-corn-pieb-0000024981484",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Pork Pastrami 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoicePorkPastrami120g-8853474015719-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853474015719",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-pork-pastrami-120g-8853474015719",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Chilled Classic Cheese&Chive Dip 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesChilledClassicCheeseChiveDip200g-9310645174471-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "9310645174471",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/coles-chilled-classic-cheesechive-dip-200g-9310645174471",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Essential Berries 1000g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseEssentialBerries1000g-5000169526835-1?$JPEG$"
+        ],
+        "Quantity": "1000g",
+        "Barcode_Number": "5000169526835",
+        "Product_Detail": null,
+        "Price": "419",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/waitrose-essential-berries-1000g-5000169526835",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Vegetables Chunky Mix 750g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSEFORZEN-WaitroseVegetablesChunkyMix750g-5000169515204-1?$JPEG$"
+        ],
+        "Quantity": "750g",
+        "Barcode_Number": "5000169515204",
+        "Product_Detail": null,
+        "Price": "185",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/waitrose-vegetables-chunky-mix-750g-5000169515204",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Karrion Frozen Chicken Gyoza 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/KARRION-KarrionFrozenChickenGyoza220g-8886323000093-1"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8886323000093",
+        "Product_Detail": null,
+        "Price": "205",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KARRION"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/karrion-frozen-chicken-gyoza-220g-8886323000093",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Raw Vannamei White Shrimp Tail off 80g",
+        "Product_Images": [
+            "https://assets.tops.co.th/MARINEPLUS-MarinePlusFrozenRawVannameiWhiteShrimpTailoff80g-8853474094097-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474094097",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-raw-vannamei-white-shrimp-tail-off-80g-8853474094097",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Essential Blueberries Frozen 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseEssentialBlueberriesFrozen400g-5000169150191-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "5000169150191",
+        "Product_Detail": null,
+        "Price": "275",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/waitrose-essential-blueberries-frozen-400g-5000169150191",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Favory Frozen Lychee 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/FAVORY-FavoryFrozenLychee500g-8853474070282-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8853474070282",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/favory-frozen-lychee-500g-8853474070282",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Essential Raspberry 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSEESSENTIAL-WaitroseEssentialRaspberry350g-5000169542620-1"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "5000169542620",
+        "Product_Detail": null,
+        "Price": "305",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/waitrose-essential-raspberry-350g-5000169542620",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Bite Chocolate Filled Biscuits 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYBITE-MyBiteChocolateFilledBiscuits200g-8853474091508-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474091508",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Snacks & Desserts /// Chips /// Rice Crackers & Flour Chips",
+            "MY BITE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-bite-chocolate-filled-biscuits-200g-8853474091508",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Brand Kelp Noodle 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsBrandKelpNoodle300g-8853474065202-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8853474065202",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tops-brand-kelp-noodle-300g-8853474065202",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Smoked Norwegian Salmon Trout 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSmokedNorwegianSalmonTrout200g-8853474053209-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474053209",
+        "Product_Detail": null,
+        "Price": "410",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-norwegian-salmon-trout-200g-8853474053209",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Pepper Meatloaf 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoicePepperMeatloaf150g-8853474015726-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474015726",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-pepper-meatloaf-150g-8853474015726",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Red Bean Bungeoppang 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneRedBeanBungeoppang360g-8801114155042-1?$JPEG$"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "8801114155042",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/pulmuone-red-bean-bungeoppang-360g-8801114155042",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Chilled Organic Silken Tofu with Sesame 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneChilledOrganicSilkenTofuwithSesame240g-8801114148600-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8801114148600",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/pulmuone-chilled-organic-silken-tofu-with-sesame-240g-8801114148600",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "El Corte Ingles Frozen Spinach Leaves 1000g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/ELCORTEINGLES-ElCorteInglesEspinacasenHojas1000g-8433329070249-1"
+        ],
+        "Quantity": "1000g",
+        "Barcode_Number": "8433329070249",
+        "Product_Detail": null,
+        "Price": "259",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "EL CORTE INGLES"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/el-corte-ingles-frozen-spinach-leaves-1000g-8433329070249",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "El Corte Ingles Frozen Chopped Spinach 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/ELCORTEINGLES-ElCorteInglesEspinacasCortadas400g-8433329070232-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8433329070232",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "EL CORTE INGLES"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/el-corte-ingles-frozen-chopped-spinach-400g-8433329070232",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Hot Pockets Bacon Egg and Cheese Croissant Crust 241g",
+        "Product_Images": [
+            "https://assets.tops.co.th/HOTPOCKETS-HotPocketsBaconEggandCheesePizza241g-0043695062007-1"
+        ],
+        "Quantity": "241g",
+        "Barcode_Number": "0043695062007",
+        "Product_Detail": null,
+        "Price": "229",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HOT POCKETS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/hot-pockets-bacon-egg-and-cheese-croissant-crust-241g-0043695062007",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Sweet Radish 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsSweetRadish200g-8853474033614-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474033614",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/tops-sweet-radish-200g-8853474033614",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Frozen Margherita Pizza 470g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/Coles-ColesFrozenMargheritaPizza470g-9310645173627-1?$JPEG$"
+        ],
+        "Quantity": "470g",
+        "Barcode_Number": "9310645173627",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/coles-frozen-margherita-pizza-470g-9310645173627",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Chilled Classic Tzatziki Dip 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesChilledClassicTzatzikiDip200g-9300601323388-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "9300601323388",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/coles-chilled-classic-tzatziki-dip-200g-9300601323388",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "El Corte Ingles Frozen Roasted Vegetable Stir Fry 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/ELCORTEINGLES-ElCorteInglesSalteadoDeVerdurasAsadas400g-8433329069762-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8433329069762",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "EL CORTE INGLES"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/el-corte-ingles-frozen-roasted-vegetable-stir-fry-400g-8433329069762",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Shoestring Frozen Frence Fries 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceShoestringFrozenFrenceFries1kg-8853474052288-1"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "8853474052288",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/my-choice-shoestring-frozen-frence-fries-1kg-8853474052288",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Fresh Hen Eggs Omega3 No.2 pack 10pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsFreshHenEggsOmega3No2pack10pcs-8853474040650-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474040650",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tops-fresh-hen-eggs-omega3-no2-pack-10pcs-8853474040650",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose 2 Chicken Kievs with Garlic Butter 284g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-Waitrose2ChickenKievswithGarlicButter284g-5000169614082-1"
+        ],
+        "Quantity": "284g",
+        "Barcode_Number": "5000169614082",
+        "Product_Detail": null,
+        "Price": "295",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/waitrose-2-chicken-kievs-with-garlic-butter-284g-5000169614082",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Frozen Im Free From 5 Seed Loaf Bread 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesFrozenImFreeFrom5SeedLoafBread500g-9310645224077-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "9310645224077",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/coles-frozen-im-free-from-5-seed-loaf-bread-500g-9310645224077",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Raw Vannamei White Shrimp Tail On 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MARINEPLUS-MarinePlusFrozenRawVannameiWhiteShrimpTailOn80g-8853474094073-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474094073",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-raw-vannamei-white-shrimp-tail-on-80g-8853474094073",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Chinese Pork Sausage 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsChinesePorkSausage360g-8853474011520-1?$JPEG$"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "8853474011520",
+        "Product_Detail": null,
+        "Price": "175",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tops-chinese-pork-sausage-360g-8853474011520",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Frozen Persimmon 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneFrozenPersimmon240g-8808735554117-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8808735554117",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/pulmuone-frozen-persimmon-240g-8808735554117",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pinar Traditional Feta Cheese 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PINAR-PinarTraditionalFetaCheese400g-8690565003480-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8690565003480",
+        "Product_Detail": null,
+        "Price": "299",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PINAR"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/pinar-traditional-feta-cheese-400g-8690565003480",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Valpizza Stove Top Frozen Pizza Salame Piccante 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/VALPIZZA-ValpizzaStoveTopFrozenPizzaSalamePiccante230g-8057457583589-1?$JPEG$"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "8057457583589",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "VALPIZZA"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/valpizza-stove-top-frozen-pizza-salame-piccante-230g-8057457583589",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Frozen Kimchi Dumplings 720g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMONE-PulmuoneFrozenKimchiDumplings720g-0753214300533-1?$JPEG$"
+        ],
+        "Quantity": "720g",
+        "Barcode_Number": "0753214300533",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/pulmuone-frozen-kimchi-dumplings-720g-0753214300533",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Seaweed Crab Meat Bun(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSeaweedCrabMeatBunB-0000021754425-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000021754425",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-seaweed-crab-meat-bunb-0000021754425",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Healthiful Spaghetti with Plant Based Meatballs 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/HEALTHIFUL-HealthifulSpaghettiwithPlantBasedMeatballs230g-8853474073092-1?$JPEG$"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "8853474073092",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HEALTHIFUL"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/healthiful-spaghetti-with-plant-based-meatballs-230g-8853474073092",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Ham Loaf 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceHamLoaf160g-8853474039708-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8853474039708",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-ham-loaf-160g-8853474039708",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Mozz and Fishcake Corn Dogs 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneMozzandFishcakeCornDogs400g-8801114140741-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8801114140741",
+        "Product_Detail": null,
+        "Price": "259",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/pulmuone-mozz-and-fishcake-corn-dogs-400g-8801114140741",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Frozen 12 Yorkshire Puddings 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseFrozen12YorkshirePuddings230g-5000169137833-1"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "5000169137833",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/waitrose-frozen-12-yorkshire-puddings-230g-5000169137833",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Chilli Lyoner 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceChilliLyoner100g-8853474015757-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8853474015757",
+        "Product_Detail": null,
+        "Price": "53",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/my-choice-chilli-lyoner-100g-8853474015757",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Frozen Shortcrust Pastry 5 Sheets Ready Rolled 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesFrozenShortcrustPastry5SheetsReadyRolled1kg-9300601317240-1?$JPEG$"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "9300601317240",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/coles-frozen-shortcrust-pastry-5-sheets-ready-rolled-1kg-9300601317240",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Radish Kimchi Fried Rice 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneRadishKimchiFriedRice400g-8801114134573-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8801114134573",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/pulmuone-radish-kimchi-fried-rice-400g-8801114134573",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Valpizza Stove Top Pizza Margherita Mozzarella Pomodoro 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/VALPIZZA-ValpizzaStoveTopPizzaMargheritaMozzarellaPomodoro220g-8057457583565-1?$JPEG$"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8057457583565",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "VALPIZZA"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/valpizza-stove-top-pizza-margherita-mozzarella-pomodoro-220g-8057457583565",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Rib World Frozen Barbecue Pork Spare Ribs 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/RIBWORLD-RibWorldBarbecueSpareRibsPorkFrozen500g-5391511050710-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "5391511050710",
+        "Product_Detail": null,
+        "Price": "449",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "RIB WORLD"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/rib-world-frozen-barbecue-pork-spare-ribs-500g-5391511050710",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Saltana Custard Twist Danish(B",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSaltanaCustardTwistDanishB-0000048361859-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048361859",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/my-choice-saltana-custard-twist-danishb-0000048361859",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Square Ham Pizza",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSquareHamPizza-0000020704223-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000020704223",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-choice-square-ham-pizza-0000020704223",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Favory Concentrated Japanese Style Black Shabu Soup 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/FAVORY-FavoryConcentratedJapaneseStyleBlackShabuSoup250g-8853474071203-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8853474071203",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/favory-concentrated-japanese-style-black-shabu-soup-250g-8853474071203",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Schinken Speck 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceSchinkenSpeck80g-8853474015740-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474015740",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-schinken-speck-80g-8853474015740",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "El Corte Ingles Frozen Sliced Artichokes 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/ELCORTEINGLES-ElCorteInglesAlcachofasCortadas450g-8433329069663-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8433329069663",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "EL CORTE INGLES"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/el-corte-ingles-frozen-sliced-artichokes-450g-8433329069663",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose British Summer Fruits 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseBritishSummerFruits300g-5000169219348-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "5000169219348",
+        "Product_Detail": null,
+        "Price": "259",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/waitrose-british-summer-fruits-300g-5000169219348",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Carrefour Pate Feuilletee 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/CARREFOUR-CarrefourPateFeuilletee230g-3270190022534-1"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "3270190022534",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "1998",
+        "URL": "https://www.tops.co.th/en/carrefour-pate-feuilletee-230g-3270190022534",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Carrefour Pate Brisee 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/CARREFOUR-CarrefourPateBrisee230g-3270190022527-1"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "3270190022527",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "1999",
+        "URL": "https://www.tops.co.th/en/carrefour-pate-brisee-230g-3270190022527",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Karrion Frozen Prawn Gyoza 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/KARRION-KarrionFrozenPrawnGyoza220g-8886323000208-1"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8886323000208",
+        "Product_Detail": null,
+        "Price": "205",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KARRION"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/karrion-frozen-prawn-gyoza-220g-8886323000208",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Mozz Cheddar & Fishcake Corn Dogs 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneMozzCheddarFishcakeCornDogs400g-8801114150078-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8801114150078",
+        "Product_Detail": null,
+        "Price": "259",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/pulmuone-mozz-cheddar-fishcake-corn-dogs-400g-8801114150078",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Vegan Kimchi 397g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneVeganKimchi397g-8801114144800-1?$JPEG$"
+        ],
+        "Quantity": "397g",
+        "Barcode_Number": "8801114144800",
+        "Product_Detail": null,
+        "Price": "225",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/pulmuone-vegan-kimchi-397g-8801114144800",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Carrefour Bio Organic Parmigiano Reggiano PDO Cheese 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/CARREFOUR-CarrefourBioParmigianoReggianoCheese50g-3560070514601-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "3560070514601",
+        "Product_Detail": null,
+        "Price": "150",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/carrefour-bio-organic-parmigiano-reggiano-pdo-cheese-50g-3560070514601",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Hot Pockets Hickory Ham and Cheddar Crispy Buttery Crust 255g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/HOTPOCKETS-HotPocketsHamandCheesePizza255g-0043695071122-1"
+        ],
+        "Quantity": "255g",
+        "Barcode_Number": "0043695071122",
+        "Product_Detail": null,
+        "Price": "229",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HOT POCKETS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/hot-pockets-hickory-ham-and-cheddar-crispy-buttery-crust-255g-0043695071122",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Hot Pockets Frozen Ham and Cheddar Croissant Crust 255g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/HOTPOCKETS-HotPocketCroissantCrustHamandCheddar255g-0043695056327-1?$JPEG$"
+        ],
+        "Quantity": "255g",
+        "Barcode_Number": "0043695056327",
+        "Product_Detail": null,
+        "Price": "229",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HOT POCKETS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/hot-pockets-frozen-ham-and-cheddar-croissant-crust-255g-0043695056327",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Tops Vietnamese Sausage Pork&Chicken 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOPS-TopsVietnameseSausagePorkChicken180g-8853474005956-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474005956",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tops-vietnamese-sausage-porkchicken-180g-8853474005956",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Favory Thai Chilli Dipping Sauce 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/FAVORY-FavoryThaiChilliDippingSauce220g-8853474071180-1?$JPEG$"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8853474071180",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/favory-thai-chilli-dipping-sauce-220g-8853474071180",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Frozen Chilean Sea Bass Size 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceFrozenChileanSeaBassSize180g-8853474056361-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474056361",
+        "Product_Detail": null,
+        "Price": "899",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-frozen-chilean-sea-bass-size-180g-8853474056361",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Processed Gruyere Cheese 10Slices 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceProcessedGruyereCheese10Slices200g-8853474015443-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474015443",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/my-choice-processed-gruyere-cheese-10slices-200g-8853474015443",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "My Choice Processed Emmental Cheese 10Slices 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/MYCHOICE-MyChoiceProcessedEmmentalCheese10Slices200g-8853474015436-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474015436",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/my-choice-processed-emmental-cheese-10slices-200g-8853474015436",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "No Brand Black Bean Sauce Rice Bowl 280g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/NOBRAND-NoBrandBlackBeanSauceRiceBowl280g-8809489618865-1?$JPEG$"
+        ],
+        "Quantity": "280g",
+        "Barcode_Number": "8809489618865",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Fresh Food & Bakery",
+            "NO BRAND"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/no-brand-black-bean-sauce-rice-bowl-280g-8809489618865",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Toy Cookie Sea Version 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneToyCookieSeaVersion300g-8801114149355-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8801114149355",
+        "Product_Detail": null,
+        "Price": "239",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/pulmuone-toy-cookie-sea-version-300g-8801114149355",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pinar Spreadable Cream Cheese 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PINAR-PinarSpreadableCreamCheese160g-8690565025604-1?$JPEG$"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8690565025604",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PINAR"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/pinar-spreadable-cream-cheese-160g-8690565025604",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "El Corte Ingles Frozen Churros Lazo 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/ELCORTEINGLES-ELCORTEINGLESChurrosLazo500g-8433329095167-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8433329095167",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "EL CORTE INGLES"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/el-corte-ingles-frozen-churros-lazo-500g-8433329095167",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Carrefour Le Carr Cremeux and Fondant Cheese 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/CARREFOUR-CarrefourLeCarrCremeuxandFondantCheese230g-3560070818075-1?$JPEG$"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "3560070818075",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/carrefour-le-carr-cremeux-and-fondant-cheese-230g-3560070818075",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Reflets de France Camembert de Normandie AOP Cheese 250g",
+        "Product_Images": [
+            "https://assets.tops.co.th/REFLETSDEFRANCE-RefletsDeFranceCamembertDeNormandie250g-3245390026002-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "3245390026002",
+        "Product_Detail": null,
+        "Price": "469",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "REFLETS DE FRANCE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/reflets-de-france-camembert-de-normandie-aop-cheese-250g-3245390026002",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Reflets de France Petit Pont L Eveque Cheese 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/REFLETSDEFRANCE-RefletsDeFrancePetitPontLEveque220g-3245390019998-1?$JPEG$"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "3245390019998",
+        "Product_Detail": null,
+        "Price": "369",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "REFLETS DE FRANCE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/reflets-de-france-petit-pont-l-eveque-cheese-220g-3245390019998",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Phillips Crab Rangoon 227g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/NONE-PhillipsCrabRangoon227g-0070057366633-1?$JPEG$"
+        ],
+        "Quantity": "227g",
+        "Barcode_Number": "0070057366633",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PHILLIPS"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/phillips-crab-rangoon-227g-0070057366633",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pukka Pies Chicken and Mushroom Pie 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PUKKAPIES-PukkaPiesChickenandMushroomPie226g-5030756000042-1"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "5030756000042",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PUKKA PIES"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/pukka-pies-chicken-and-mushroom-pie-230g-5030756000042",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Coles Frozen All Butter Pain Au Chocolat 4 Pack 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/COLES-ColesFrozenAllButterPainAuChocolat4Pack220g-9300601767762-1?$JPEG$"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "9300601767762",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/coles-frozen-all-butter-pain-au-chocolat-4-pack-220g-9300601767762",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Karrion Frozen Yasai Gyoza 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/KARRION-KarrionFrozenYasaiGyoza220g-8886323000215-1"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8886323000215",
+        "Product_Detail": null,
+        "Price": "205",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KARRION"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/karrion-frozen-yasai-gyoza-220g-8886323000215",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "No Brand Spicy Grilled Chicken Rice Bowl 341g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/NOBRAND-NoBrandSpicyGrilledChickenRiceBowl341g-8809750472950-1?$JPEG$"
+        ],
+        "Quantity": "341g",
+        "Barcode_Number": "8809750472950",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Fresh Food & Bakery",
+            "NO BRAND"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/no-brand-spicy-grilled-chicken-rice-bowl-341g-8809750472950",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Noodles With Savory Black Bean Sauce 664g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneNoodlesWithSavoryBlackBeanSauce664g-8801114151556-1?$JPEG$"
+        ],
+        "Quantity": "664g",
+        "Barcode_Number": "8801114151556",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/pulmuone-noodles-with-savory-black-bean-sauce-664g-8801114151556",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Delamere Spreadable Goat Cheese 125g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/DELAMERE-DelamereSpreadableGoatCheese125g-5016860791007-1?$JPEG$"
+        ],
+        "Quantity": "125g",
+        "Barcode_Number": "5016860791007",
+        "Product_Detail": null,
+        "Price": "319",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "DELAMERE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/delamere-spreadable-goat-cheese-125g-5016860791007",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Grated Grana Padano PDO Cheese 80g",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseGratedGranaPadano80g-5000169546505-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "5000169546505",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/waitrose-grated-grana-padano-pdo-cheese-80g-5000169546505",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Waitrose Essential Sliced English Cheddar Cheese 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/WAITROSE-WaitroseEssentialSlicedEnglishCheddarCheese250g-5000169107683-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "5000169107683",
+        "Product_Detail": null,
+        "Price": "314",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WAITROSE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/waitrose-essential-sliced-english-cheddar-cheese-250g-5000169107683",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Carrefour Anchois Marines A L Ail 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/CARREFOUR-CarrefourAnchoisMarinesALAil150g-3560070693436-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "3560070693436",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/carrefour-anchois-marines-a-l-ail-150g-3560070693436",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Reflets de France Chaource PDO Cheese 250g",
+        "Product_Images": [
+            "https://assets.tops.co.th/REFLETSDEFRANCE-RefletsDeFranceChaource250g-3245390025968-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "3245390025968",
+        "Product_Detail": null,
+        "Price": "429",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "REFLETS DE FRANCE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/reflets-de-france-chaource-pdo-cheese-250g-3245390025968",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Phillips Shrimp Toast 262g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/NONE-PhillipsShrimpToast262g-0070057366534-1?$JPEG$"
+        ],
+        "Quantity": "262g",
+        "Barcode_Number": "0070057366534",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PHILLIPS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/phillips-shrimp-toast-262g-0070057366534",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Karrion Frozen Seafood Gyoza 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/KARRION-KarrionFrozenSeafoodGyoza220g-8886323000109-1"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8886323000109",
+        "Product_Detail": null,
+        "Price": "205",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KARRION"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/karrion-frozen-seafood-gyoza-220g-8886323000109",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Took Wan Frozen Taro Pearls and Coconut Pulp in Coconut Cream 130g",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOOKWAN-TookWanFrozenTaroPearlsandCoconutPulpinCoconutCream130g-8853474092635-1?$JPEG$"
+        ],
+        "Quantity": "130g",
+        "Barcode_Number": "8853474092635",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOOK WAN"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/took-wan-frozen-taro-pearls-and-coconut-pulp-in-coconut-cream-130g-8853474092635",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Took Wan Frozen Garlic Chicken and Kua Kling Pork with Rice 225g",
+        "Product_Images": [
+            "https://assets.tops.co.th/TOOKWAN-TookWanFrozenGarlicChickenandKuaKlingPorkwithRice225g-8853474092482-1?$JPEG$"
+        ],
+        "Quantity": "225g",
+        "Barcode_Number": "8853474092482",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOOK WAN"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/took-wan-frozen-garlic-chicken-and-kua-kling-pork-with-rice-225g-8853474092482",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Favory Concentrated Thai Herb Hot Pot Soup 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/FAVORY-FavoryConcentratedThaiHerbHotPotSoup250g-8853474071210-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8853474071210",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/favory-concentrated-thai-herb-hot-pot-soup-250g-8853474071210",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Organic Silken Tofu with Yuzu 236g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneOrganicSilkenTofuwithYuzu236g-8801114145975-1?$JPEG$"
+        ],
+        "Quantity": "236g",
+        "Barcode_Number": "8801114145975",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/pulmuone-organic-silken-tofu-with-yuzu-236g-8801114145975",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Pulmuone Toy Cookie Forest Version 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/PULMUONE-PulmuoneToyCookieForestVersion300g-8801114139417-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8801114139417",
+        "Product_Detail": null,
+        "Price": "239",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/pulmuone-toy-cookie-forest-version-300g-8801114139417",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Delamere Medium Goat Cheese 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/DELAMERE-DelamereMediumGoatCheese150g-5016860771009-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "5016860771009",
+        "Product_Detail": null,
+        "Price": "349",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "DELAMERE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/delamere-medium-goat-cheese-150g-5016860771009",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Reflets de France Neufchatel Heart Cheese 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/REFLETSDEFRANCE-RefletsDeFranceNeufchatel200g-3560070753802-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "3560070753802",
+        "Product_Detail": null,
+        "Price": "325",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "REFLETS DE FRANCE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/reflets-de-france-neufchatel-heart-cheese-200g-3560070753802",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    },
+    {
+        "Product_Name": "Reflets de France Rocamadour PDO Cheese 105g.",
+        "Product_Images": [
+            "https://assets.tops.co.th/REFLETSDEFRANCE-RefletsDeFranceRocamadourCheese105g-3245390031341-1?$JPEG$"
+        ],
+        "Quantity": "105g",
+        "Barcode_Number": "3245390031341",
+        "Product_Detail": null,
+        "Price": "329",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "REFLETS DE FRANCE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/reflets-de-france-rocamadour-pdo-cheese-105g-3245390031341",
+        "Category": "only_at_tops",
+        "Sub_Category": "fresh_food_bakery"
+    }
+]

@@ -1,0 +1,3980 @@
+[
+    {
+        "Product_Name": "One Pig Bacon Pro 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ONEPIG-OnePigBaconPro200g-8859694480672-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859694480672",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ONE PIG"
+        ],
+        "Stock": "43",
+        "URL": "https://www.tops.co.th/en/one-pig-bacon-pro-200g-8859694480672",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Cottage Bacon 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMBacon150g-8850826507175-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850826507175",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/tgm-cottage-bacon-150g-8850826507175",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chao Sua Crispy Pork 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaoSuaCrispyPork30g-8852240050060-1"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8852240050060",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "CHAO SUA"
+        ],
+        "Stock": "124",
+        "URL": "https://www.tops.co.th/en/chao-sua-crispy-pork-30g-8852240050060",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Smoked Round Ham 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMSmokedRoundHam120g-8850826506611-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8850826506611",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/tgm-smoked-round-ham-120g-8850826506611",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chaosua Snax Crispy Pork Stick Original Flaver 110g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaosuaCrispyPorkStickOriginalFlaver110g-8852240040184-1"
+        ],
+        "Quantity": "110g",
+        "Barcode_Number": "8852240040184",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAOSUA SNAX"
+        ],
+        "Stock": "56",
+        "URL": "https://www.tops.co.th/en/chaosua-snax-crispy-pork-stick-original-flaver-110g-8852240040184",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Toast Ham 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMToastHam90g-8850826500220-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850826500220",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/tgm-toast-ham-90g-8850826500220",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Cheese Cocktail 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMCheeseCocktail90g-8850826505935-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850826505935",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "60",
+        "URL": "https://www.tops.co.th/en/tgm-cheese-cocktail-90g-8850826505935",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Ham Sandwich 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMHamSandwich100g-8850826505720-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826505720",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tgm-ham-sandwich-100g-8850826505720",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Chaili Arabiki Sausage 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMChailiArabikiSausage100g-8850826508264-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826508264",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tgm-chaili-arabiki-sausage-100g-8850826508264",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Ham Sandwich A 95g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMHamSandwichA95g-8850826506260-1?$JPEG$"
+        ],
+        "Quantity": "95g",
+        "Barcode_Number": "8850826506260",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tgm-ham-sandwich-a-95g-8850826506260",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Picnic Bacon 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMPicnicBacon120g-8850826506598-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8850826506598",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "47",
+        "URL": "https://www.tops.co.th/en/tgm-picnic-bacon-120g-8850826506598",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Haus Salami 70g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceHausSalami70g-8853474021970-1?$JPEG$"
+        ],
+        "Quantity": "70g",
+        "Barcode_Number": "8853474021970",
+        "Product_Detail": null,
+        "Price": "122",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-haus-salami-70g-8853474021970",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thai Sausage Chili Pork Balona 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAISAUSAGE-ThaiSausageChiliPorkBalona90g-8850807915203-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850807915203",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAI SAUSAGE"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/thai-sausage-chili-pork-balona-90g-8850807915203",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "BKP Smoked Crispy Chicken Frank 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BKP-BKPSmokedCrispyChickenFrank500g-8850653794731-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8850653794731",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BKP"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/bkp-smoked-crispy-chicken-frank-500g-8850653794731",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Fresh Esarn Sausage 270g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenFreshEsarnSausage270g-8850269010768-1"
+        ],
+        "Quantity": "270g",
+        "Barcode_Number": "8850269010768",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/skhonkaen-fresh-esarn-sausage-270g-8850269010768",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Smoked Paris Ham 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSmokedParisHam150g-8853474037292-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474037292",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-paris-ham-150g-8853474037292",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Smoked Bacon 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMSmokedBacon180g-8850826500527-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8850826500527",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/tgm-smoked-bacon-180g-8850826500527",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jack Links BBQ Beef Jerry 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JACKLINKS-JackLinksBBQBeefJerry50g-9421013441504-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "9421013441504",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "JACKLINKS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/jack-links-bbq-beef-jerry-50g-9421013441504",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Bacon Barbeque Sliced 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMBaconBarbequeSliced120g-8850826505638-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8850826505638",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "TGM"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/tgm-bacon-barbeque-sliced-120g-8850826505638",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Ham 4x4 Promotion 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMHam4x4Promotion300g-8850826507236-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8850826507236",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tgm-ham-4x4-promotion-300g-8850826507236",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Canadian Bacon 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMCanadianBacon90g-8850826504754-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850826504754",
+        "Product_Detail": null,
+        "Price": "83",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tgm-canadian-bacon-90g-8850826504754",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Roast Ham 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMRoastHam80g-8850826506055-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8850826506055",
+        "Product_Detail": null,
+        "Price": "73",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tgm-roast-ham-80g-8850826506055",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Ham Classic 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroHamClassic120g-8856294044280-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8856294044280",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/betagro-ham-classic-120g-8856294044280",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thai Sausage Smoked  Sausage Mini 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAISAUSAGE-ThaiSausageSmokedSausageMini100g-8850826506284-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826506284",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAI SAUSAGE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/thai-sausage-smoked-sausage-mini-100g-8850826506284",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Authentic Vietnamese Sausage 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenAuthenticVietnameseSausage150g-8850269018986-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850269018986",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/skhonkaen-authentic-vietnamese-sausage-150g-8850269018986",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Captain Jerky Pork With Coriander Seeds Recipe 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CAPTAIN-CaptainJerkyPorkWithCorianderSeedsRecipe100g-8857126611052-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8857126611052",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CAPTAIN"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/captain-jerky-pork-with-coriander-seeds-recipe-100g-8857126611052",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Salmon 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedSalmon80g-8858781400258-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8858781400258",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-salmon-80g-8858781400258",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Moodee Fermented Sausage 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOODEE-MoodeeFermentedSausage100g-8850269045081-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850269045081",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOODEE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/moodee-fermented-sausage-100g-8850269045081",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Pepper Roast Ham 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMPepperRoastHam80g-8850826506062-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8850826506062",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tgm-pepper-roast-ham-80g-8850826506062",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Blacksalmon Smoked Norway Salmon 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BlacksalmonSmokedNorwaySalmon100g-8859166400023-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8859166400023",
+        "Product_Detail": null,
+        "Price": "249",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/blacksalmon-smoked-norway-salmon-100g-8859166400023",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Liver Sausage 130g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMLiverSausage130g-8850826500206-1?$JPEG$"
+        ],
+        "Quantity": "130g",
+        "Barcode_Number": "8850826500206",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tgm-liver-sausage-130g-8850826500206",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Smoked Bacon 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSmokedBacon180g-8853474039692-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474039692",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-bacon-180g-8853474039692",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thai Sausage Pork Balona 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAISAUSAGE-ThaiSausagePorkBalona90g-8850807915210-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850807915210",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAI SAUSAGE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/thai-sausage-pork-balona-90g-8850807915210",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Bacon 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPBacon200g-8850554102031-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850554102031",
+        "Product_Detail": null,
+        "Price": "171",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/cp-bacon-200g-8850554102031",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Itoham Arabiki Gourmet Wienner 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ITOHAM-ItohamArabikiGourmetWienner140g-8856294054524-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8856294054524",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "ITOHAM"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/itoham-arabiki-gourmet-wienner-140g-8856294054524",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kibun Narutomaki 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunNarutomaki120g-8852172100178-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852172100178",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/kibun-narutomaki-120g-8852172100178",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloane Cumberland Sausage 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloaneCumberlandSausage500g-0736313264722-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0736313264722",
+        "Product_Detail": null,
+        "Price": "320",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/sloane-cumberland-sausage-500g-0736313264722",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Belucky Smoked Bacon 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BELUCKY-BeluckySmokedBacon400g-8850342021025-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8850342021025",
+        "Product_Detail": null,
+        "Price": "295",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BELUCKY"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/belucky-smoked-bacon-400g-8850342021025",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Mini Cocktail 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPMiniCocktail150g-8850554829082-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850554829082",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/cp-mini-cocktail-150g-8850554829082",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Crispy Dried Pork 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenCrispyDriedPork100g-8850269010157-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850269010157",
+        "Product_Detail": null,
+        "Price": "130",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/skhonkaen-crispy-dried-pork-100g-8850269010157",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thai Sausage Frankfurter 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAISAUSAGE-ThaiSausageFrankfurter100g-8850826505928-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826505928",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAI SAUSAGE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/thai-sausage-frankfurter-100g-8850826505928",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jack Links Sweet and Hot Beef Jerry 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JACKLINKS-JackLinksSweetandHotBeefJerry50g-9421013441757-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "9421013441757",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "JACKLINKS"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/jack-links-sweet-and-hot-beef-jerry-50g-9421013441757",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Gourmet Ham 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceGourmetHam150g-8853474037100-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474037100",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/my-choice-gourmet-ham-150g-8853474037100",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Hodeng Pork Ball 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HODENG-HodengPorkBall100g-8858837400102-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858837400102",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HODENG"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/hodeng-pork-ball-100g-8858837400102",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Pork Bologna 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPPorkBologna150g-8850554151138-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850554151138",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/cp-pork-bologna-150g-8850554151138",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Cook Ham 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceCookHam150g-8853474037094-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474037094",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-cook-ham-150g-8853474037094",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Pork Chilli Bologna 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPPorkChilliBologna150g-8850554152180-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850554152180",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/cp-pork-chilli-bologna-150g-8850554152180",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Smoked Salmon with Black Pepper 80g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedSmokedSalmonwithBlackPepper80gC-8858781400272-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8858781400272",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "1999",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-smoked-salmon-with-black-pepper-80gc-8858781400272",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kwang Chao Fried Fish Bar 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KWANGCHAO-KwangChaoFriedFishBar200g-8850706090490-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850706090490",
+        "Product_Detail": null,
+        "Price": "42.5",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KWANG CHAO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/kwang-chao-fried-fish-bar-200g-8850706090490",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "CP Wiener Sausage 155g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPWienerSausage155g-8850653197020-1"
+        ],
+        "Quantity": "155g",
+        "Barcode_Number": "8850653197020",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CP"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/cp-wiener-sausage-155g-8850653197020",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Haus Salami 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMHausSalami80g-8850826500749-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8850826500749",
+        "Product_Detail": null,
+        "Price": "155",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/tgm-haus-salami-80g-8850826500749",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chalet Toast Ham 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHALET-ChaletToastHam200g-8853989011138-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853989011138",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHALET"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/chalet-toast-ham-200g-8853989011138",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chaosua Crispy Pork Stick 22g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaoSuaCrispyPorkStick22g-8852240040276-1"
+        ],
+        "Quantity": "22g",
+        "Barcode_Number": "8852240040276",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAO SUA"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/chaosua-crispy-pork-stick-22g-8852240040276",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Canadian Bacon 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceCanadianBacon100g-8853474021963-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8853474021963",
+        "Product_Detail": null,
+        "Price": "83",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-canadian-bacon-100g-8853474021963",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Mix Grill Sausage 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMMixGrillSausage300g-8850826505799-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8850826505799",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/tgm-mix-grill-sausage-300g-8850826505799",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Gonure Fish Ball Extra Small 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-GonureFishBallExtraSmall200g-8853925000073-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853925000073",
+        "Product_Detail": null,
+        "Price": "117",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/gonure-fish-ball-extra-small-200g-8853925000073",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Smoked Viener Sausage Classic 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroSmokedVienerSausageClassic200g-8852043004598-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8852043004598",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/betagro-smoked-viener-sausage-classic-200g-8852043004598",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Belucky Hot Dog 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BELUCKY-BeluckyHotDog400g-8850342081029-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8850342081029",
+        "Product_Detail": null,
+        "Price": "194",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BELUCKY"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/belucky-hot-dog-400g-8850342081029",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chao Sua Chinese Sausages Formula 2 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaoSuaChineseSausagesFormula2350g-8852240060168-1?$JPEG$"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "8852240060168",
+        "Product_Detail": null,
+        "Price": "152",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAO SUA"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/chao-sua-chinese-sausages-formula-2-350g-8852240060168",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Itoham Ham Sandwich 130g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ITOHAM-ItohamHamSandwich130g-8856294072993-1"
+        ],
+        "Quantity": "130g",
+        "Barcode_Number": "8856294072993",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "ITOHAM"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/itoham-ham-sandwich-130g-8856294072993",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Espuna Extra Thin Half Slices of Serrano Ham 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ESPUNA-EspunaExtraThinHalfSlicesofSerranoHam60g-8410060485204-1?$JPEG$"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8410060485204",
+        "Product_Detail": null,
+        "Price": "171",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ESPUNA"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/espuna-extra-thin-half-slices-of-serrano-ham-60g-8410060485204",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Bacon Classic 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroBaconClassic200g-8856294007698-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8856294007698",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/betagro-bacon-classic-200g-8856294007698",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Rosemary Ham 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceRosemaryHam120g-8853474015733-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853474015733",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/my-choice-rosemary-ham-120g-8853474015733",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Belucky Cocktail Sausage 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BELUCKY-BeluckyCocktailSausage400g-8850342081012-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8850342081012",
+        "Product_Detail": null,
+        "Price": "194",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BELUCKY"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/belucky-cocktail-sausage-400g-8850342081012",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kibun Kamaboko Red 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunKamabokoRed160g-8852172100314-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8852172100314",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/kibun-kamaboko-red-160g-8852172100314",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kani Fresh Crab Stick 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KANI-KaniFreshCrabStick250g-8850524100036-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850524100036",
+        "Product_Detail": null,
+        "Price": "117",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KANI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/kani-fresh-crab-stick-250g-8850524100036",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kibun Yasai Tsumire 135g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunYasaiTsumire135g-8852172101694-1"
+        ],
+        "Quantity": "135g",
+        "Barcode_Number": "8852172101694",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/kibun-yasai-tsumire-135g-8852172101694",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Smoked Hot Dog Sausage 4inch 700g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroSmokedHotDogSausage4inch700g-8852043610508-1"
+        ],
+        "Quantity": "700g",
+        "Barcode_Number": "8852043610508",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/betagro-smoked-hot-dog-sausage-4inch-700g-8852043610508",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Numchai Tendon Beefball 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NumchaiTendonBeefball100g-8858799302353-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858799302353",
+        "Product_Detail": null,
+        "Price": "54",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/numchai-tendon-beefball-100g-8858799302353",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Vietnamese Sausage 275g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenVietnameseSausage275g-8850269010874-1"
+        ],
+        "Quantity": "275g",
+        "Barcode_Number": "8850269010874",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/skhonkaen-vietnamese-sausage-275g-8850269010874",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Mixed Grill Arabiki 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroMixedGrillArabiki200g-8852043606198-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8852043606198",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/betagro-mixed-grill-arabiki-200g-8852043606198",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Roasted Chicken Breast 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMRoastedChickenBreast250g-8850826506727-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850826506727",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "TGM"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/tgm-roasted-chicken-breast-250g-8850826506727",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Junior Sausage 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceJuniorSausage160g-8853474046379-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8853474046379",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-junior-sausage-160g-8853474046379",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Mossieur Polette Salami Pave Enrobe Au Poivre 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOSSIEURPOLETTE-MossieurPoletteSalamiPaveEnrobeAuPoivre90g-3375887102206-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "3375887102206",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Fresh Food & Bakery /// Deli Meat /// Ham & Bacon",
+            "MOSSIEUR POLETTE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/mossieur-polette-salami-pave-enrobe-au-poivre-90g-3375887102206",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Black Forest Ham 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceBlackForestHam80g-8853474015702-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474015702",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-black-forest-ham-80g-8853474015702",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloane Maple & Bacon Sausage 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloaneMapleBaconSausage500g-0736313264760-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0736313264760",
+        "Product_Detail": null,
+        "Price": "320",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/sloane-maple-bacon-sausage-500g-0736313264760",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Numchai Beefball 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NumchaiBeefball100g-8858799301356-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858799301356",
+        "Product_Detail": null,
+        "Price": "54",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/numchai-beefball-100g-8858799301356",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chao Sua Chinese Sausages Formula 1 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaoSuaChineseSausagesFormula1350g-8852240060182-1?$JPEG$"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "8852240060182",
+        "Product_Detail": null,
+        "Price": "152",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAO SUA"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/chao-sua-chinese-sausages-formula-1-350g-8852240060182",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Pork Roasted Dried 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenPorkRoastedDried200g-8850269010447-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850269010447",
+        "Product_Detail": null,
+        "Price": "250",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/skhonkaen-pork-roasted-dried-200g-8850269010447",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chalet Bacon 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHALET-ChaletBacon200g-8853989011237-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853989011237",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHALET"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/chalet-bacon-200g-8853989011237",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Smoked Chicken Breast 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPSmokedChickenBreast250g-8850554106060-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850554106060",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/cp-smoked-chicken-breast-250g-8850554106060",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Mossieur Polette Rosette Terroir Lyonnais Salami 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOSSIEURPOLETTE-MossieurPoletteRosetteTerroirLyonnaisSalami90g-3333680001218-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "3333680001218",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOSSIEUR POLETTE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/mossieur-polette-rosette-terroir-lyonnais-salami-90g-3333680001218",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Junior Cocktail 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMJuniorCocktail100g-8850826505966-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826505966",
+        "Product_Detail": null,
+        "Price": "43",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tgm-junior-cocktail-100g-8850826505966",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Guyvy Black Pepper Chicken Breast Sausage 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GUYVY-GuyvyBlackPepperChickenBreastSausage160g-8857124252196-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8857124252196",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "GUYVY"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/guyvy-black-pepper-chicken-breast-sausage-160g-8857124252196",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kodeng Meat Ball 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HODENG-KodengMeatBall100g-8858837400010-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858837400010",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HODENG"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/kodeng-meat-ball-100g-8858837400010",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Wiener Sausagel 95g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMWienerSausagel95g-8850826505973-1?$JPEG$"
+        ],
+        "Quantity": "95g",
+        "Barcode_Number": "8850826505973",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tgm-wiener-sausagel-95g-8850826505973",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Nipponham Group Arabiki Chicken Sausage 125g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NIPPONHAMGROUP-NipponhamGroupArabikiChickenSausage125g-8859212600278-1"
+        ],
+        "Quantity": "125g",
+        "Barcode_Number": "8859212600278",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NIPPONHAM GROUP"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/nipponham-group-arabiki-chicken-sausage-125g-8859212600278",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Teajiw Boiled Shrimp Ball 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEAJIW-TeajiwBoiledShrimpBall100g-8850706000321-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850706000321",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TEAJIW"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/teajiw-boiled-shrimp-ball-100g-8850706000321",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Smoked Crispy Hotdog 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroSmokedCrispyHotdog120g-8852043605290-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852043605290",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/betagro-smoked-crispy-hotdog-120g-8852043605290",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Captain Dried Shredded Pork 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CAPTAIN-CaptainDriedShreddedPork100g-8857126611038-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8857126611038",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CAPTAIN"
+        ],
+        "Stock": "44",
+        "URL": "https://www.tops.co.th/en/captain-dried-shredded-pork-100g-8857126611038",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Cottage Bacon 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMCottageBacon500g-8850826404825-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8850826404825",
+        "Product_Detail": null,
+        "Price": "285",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/tgm-cottage-bacon-500g-8850826404825",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Fermented Sausage 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenFermentedSausage60g-8850269020019-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8850269020019",
+        "Product_Detail": null,
+        "Price": "31",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/skhonkaen-fermented-sausage-60g-8850269020019",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Dried Shredded Pork 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenDriedShreddedPork40g-8850269010393-1"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8850269010393",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/skhonkaen-dried-shredded-pork-40g-8850269010393",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Smoked Norwegian Salmon Trout 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSmokedNorwegianSalmonTrout80g-8853474048083-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474048083",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-norwegian-salmon-trout-80g-8853474048083",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Diced Fish Tofu 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceDicedFishTofu200g-8853474021130-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474021130",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-diced-fish-tofu-200g-8853474021130",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "AFM Smoked Crispy Skin Cheese Stuffed Chicken Sausage 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-AFMSmokedCrispySkinCheeseStuffedChickenSausage400g-8858657103092-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8858657103092",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/afm-smoked-crispy-skin-cheese-stuffed-chicken-sausage-400g-8858657103092",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Itoham Smoked Bacon 110g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ITOHAM-ItohamSmokedBacon110g-8856294073013-1"
+        ],
+        "Quantity": "110g",
+        "Barcode_Number": "8856294073013",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "ITOHAM"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/itoham-smoked-bacon-110g-8856294073013",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Spa Foods Veggie Bologna 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPAFOODS-SpaFoodsVeggieBologna150g-8850743170032-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850743170032",
+        "Product_Detail": null,
+        "Price": "61",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SPA FOODS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/spa-foods-veggie-bologna-150g-8850743170032",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "CP Mini Cocktail Spicy 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPMiniCocktailSpicy150g-8850554829563-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850554829563",
+        "Product_Detail": null,
+        "Price": "63",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CP"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/cp-mini-cocktail-spicy-150g-8850554829563",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Smoked Pork Cocktail 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPSmokedPorkCocktail150g-8850554829105-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850554829105",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/cp-smoked-pork-cocktail-150g-8850554829105",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "CP FrankFurter Chicken Sausage 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPFrankFurterChickenSausage500g-8850554201154-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8850554201154",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/cp-frankfurter-chicken-sausage-500g-8850554201154",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Premium Smoked Salmon 100g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedPremiumSmokedSalmon100gC-8858781401156-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858781401156",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-premium-smoked-salmon-100gc-8858781401156",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Smoked Chicken Sausage 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroSmokedChickenSausage500g-8852043604538-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8852043604538",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/betagro-smoked-chicken-sausage-500g-8852043604538",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "CP Mini Cocktail Pork and Chicken 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPMiniCocktailPorkandChicken400g-8850653196542-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8850653196542",
+        "Product_Detail": null,
+        "Price": "123",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/cp-mini-cocktail-pork-and-chicken-400g-8850653196542",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "CP Bologna Chill Pork and Chicken 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPBolognaChillPorkandChicken500g-8850653191332-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8850653191332",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/cp-bologna-chill-pork-and-chicken-500g-8850653191332",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Itoham Smoked Pepper Ham 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ITOHAM-ItohamSmokedPepperHam120g-8852043614094-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852043614094",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "ITOHAM"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/itoham-smoked-pepper-ham-120g-8852043614094",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Espuna Spanish Serrano Ham Bodega 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ESPUNA-EspunaSpanishSerranoHamBodega50g-8410060181908-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8410060181908",
+        "Product_Detail": null,
+        "Price": "140",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ESPUNA"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/espuna-spanish-serrano-ham-bodega-50g-8410060181908",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloanes Steaky Bacon 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesSteakyBacon250gC-0736313265934-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0736313265934",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "1999",
+        "URL": "https://www.tops.co.th/en/sloanes-steaky-bacon-250gc-0736313265934",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloane Chorizo Sausage 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloaneChorizoSausage500g-0736313264746-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0736313264746",
+        "Product_Detail": null,
+        "Price": "340",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sloane-chorizo-sausage-500g-0736313264746",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Pork Ham 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPPorkHam200g-8850554101171-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850554101171",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/cp-pork-ham-200g-8850554101171",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Moodee Vietnamese Sausage Black Pepper 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOODEE-MoodeeVietnameseSausageBlackPepper250g-8850269044060-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850269044060",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOODEE"
+        ],
+        "Stock": "56",
+        "URL": "https://www.tops.co.th/en/moodee-vietnamese-sausage-black-pepper-250g-8850269044060",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Pork Pastrami 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoicePorkPastrami120g-8853474015719-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853474015719",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-pork-pastrami-120g-8853474015719",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kibun Snow Crab Stick 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunSnowCrabStick250g-8852172102141-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8852172102141",
+        "Product_Detail": null,
+        "Price": "127",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/kibun-snow-crab-stick-250g-8852172102141",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Crispy Flossy Pork with Fried Shallot 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenCrispyFlossyPorkwithFriedShallot30g-8850269018078-1"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8850269018078",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/skhonkaen-crispy-flossy-pork-with-fried-shallot-30g-8850269018078",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Takumi Bacon Jas Superior 40g.Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAKUMI-TakumiBaconJasSuperior40gPack2-8858774110317-1"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8858774110317",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "TAKUMI"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/takumi-bacon-jas-superior-40gpack-2-8858774110317",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Spa Foods Veggie Chicken Sausage 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPAFOODS-SpaFoodsVeggieChickenSausage200g-8850743120150-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850743120150",
+        "Product_Detail": null,
+        "Price": "77",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SPA FOODS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/spa-foods-veggie-chicken-sausage-200g-8850743120150",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bucher Frankfurter 120G.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BUCHER-BucherFrankfurter120G-8850653793260-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8850653793260",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BUCHER"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/bucher-frankfurter-120g-8850653793260",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kibun Age Ball 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunAgeBall120g-8852172100215-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852172100215",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/kibun-age-ball-120g-8852172100215",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Spa Foods Veggie Holy Basil Sausage 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPAFOODS-SpaFoodsVeggieHolyBasilSausage200g-8850743120174-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850743120174",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SPA FOODS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/spa-foods-veggie-holy-basil-sausage-200g-8850743120174",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Authentic Vietnamese Sausage with Shitake 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenAuthenticVietnameseSausagewithShitake170g-8850269018993-1"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "8850269018993",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/skhonkaen-authentic-vietnamese-sausage-with-shitake-170g-8850269018993",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloanes Paris Ham 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesParisHam200gC-0736313264999-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0736313264999",
+        "Product_Detail": null,
+        "Price": "150",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "99",
+        "URL": "https://www.tops.co.th/en/sloanes-paris-ham-200gc-0736313264999",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Baan Pai Crispy Dried Pork 70g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BAANPAI-BaanPaiCrispyDriedPork70g-8850269020125-1"
+        ],
+        "Quantity": "70g",
+        "Barcode_Number": "8850269020125",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BAAN PAI"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/baan-pai-crispy-dried-pork-70g-8850269020125",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Dried Pork Sliced 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenDriedPorkSliced140g-8850269010508-1?$JPEG$"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8850269010508",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/skhonkaen-dried-pork-sliced-140g-8850269010508",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Smoked Salmon with Black Pepper 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KAISENMARU-SmokedSalmonwithBlackPepper100g-8858963900088-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858963900088",
+        "Product_Detail": null,
+        "Price": "230",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KAISENMARU"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/smoked-salmon-with-black-pepper-100g-8858963900088",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Premium Salmon Gravlax 100g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedPremiumSalmonGravlax100gC-8858781401187-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858781401187",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-premium-salmon-gravlax-100gc-8858781401187",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Tsubakit Fried Fish Ball 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KEN-KenFriedFishBall120g-8853724004012-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853724004012",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KEN"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tsubakit-fried-fish-ball-120g-8853724004012",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Mossieur Polette Pave Traditionnel 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOSSIEURPOLETTE-MossieurPolettePaveTraditionnel90g-3375887102190-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "3375887102190",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOSSIEUR POLETTE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/mossieur-polette-pave-traditionnel-90g-3375887102190",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloanes Back Bacon 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesBackBacon200gC-0736313264791-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0736313264791",
+        "Product_Detail": null,
+        "Price": "160",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/sloanes-back-bacon-200gc-0736313264791",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "AFM Chicken Sausage Cheese Stuffed 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-AFMChickenSausageCheeseStuffed400g-8858657103351-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8858657103351",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/afm-chicken-sausage-cheese-stuffed-400g-8858657103351",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Kibun Koban Age 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunKobanAge120g-8852172100246-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852172100246",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/kibun-koban-age-120g-8852172100246",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Espuna Tapas Fuet Dolot 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ESPUNA-EspunaTapasFuetDolot60g-8410060603400-1?$JPEG$"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8410060603400",
+        "Product_Detail": null,
+        "Price": "177",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ESPUNA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/espuna-tapas-fuet-dolot-60g-8410060603400",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "MooDee Pork Ball 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOODEE-MooDeePorkBall90g-8850269045203-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850269045203",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOODEE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/moodee-pork-ball-90g-8850269045203",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Chinese Pork Sausage 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenChinesePorkSausage360g-8850269010119-1"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "8850269010119",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/skhonkaen-chinese-pork-sausage-360g-8850269010119",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sutiluk Fermented Pork Rib 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUTILUK-SutilukFermentedPorkRib180g-8853988000461-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853988000461",
+        "Product_Detail": null,
+        "Price": "93",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUTILUK"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sutiluk-fermented-pork-rib-180g-8853988000461",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Smoked Norwegian Salmon Trout 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSmokedNorwegianSalmonTrout200g-8853474053209-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474053209",
+        "Product_Detail": null,
+        "Price": "410",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-norwegian-salmon-trout-200g-8853474053209",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Pepper Meatloaf 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoicePepperMeatloaf150g-8853474015726-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474015726",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-pepper-meatloaf-150g-8853474015726",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Meat Ball For Noodle 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroMeatBallForNoodle500g-8852043004956-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8852043004956",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/betagro-meat-ball-for-noodle-500g-8852043004956",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Moodee Crispy Pork 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOODEE-MoodeeCrispyPork30g-8850269045951-1"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8850269045951",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOODEE"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/moodee-crispy-pork-30g-8850269045951",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Espuna Sliced Serrano Ham and Chorizo Hot 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ESPUNA-EspunaSlicedSerranoHamandChorizoHot100g-8410060488601-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8410060488601",
+        "Product_Detail": null,
+        "Price": "264",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ESPUNA"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/espuna-sliced-serrano-ham-and-chorizo-hot-100g-8410060488601",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Greisinger Alm Beisser Air Dried Sausage Sticks 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GREISINGER-GreisingerAlmBeisserAirDriedSausageSticks80g-9003903446563-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "9003903446563",
+        "Product_Detail": null,
+        "Price": "205",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "GREISINGER"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/greisinger-alm-beisser-air-dried-sausage-sticks-80g-9003903446563",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Baan Pai Chinese Pork Sausage 125g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BAANPAI-BaanPaiChinesePorkSausage125g-8850269020040-1"
+        ],
+        "Quantity": "125g",
+        "Barcode_Number": "8850269020040",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BAAN PAI"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/baan-pai-chinese-pork-sausage-125g-8850269020040",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "BKP Smoky Bite Chicken Sausage 1000g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BKPSmokyBiteChickenSausage1000g-8850554813036-1"
+        ],
+        "Quantity": "1000g",
+        "Barcode_Number": "8850554813036",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "\u0e44\u0e2a\u0e49\u0e01\u0e23\u0e2d\u0e01 \u0e1a\u0e35\u0e40\u0e04\u0e1e\u0e35"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/bkp-smoky-bite-chicken-sausage-1000g-8850554813036",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Lim Jing Heing Shredded Pork 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LIMJINGHEING-LimJingHeingShreddedPork60g-8850493302066-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8850493302066",
+        "Product_Detail": null,
+        "Price": "64",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "LIM JING HEING"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/lim-jing-heing-shredded-pork-60g-8850493302066",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Vietnamese Sausage 320g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenVietnameseSausage320g-8850269010867-1"
+        ],
+        "Quantity": "320g",
+        "Barcode_Number": "8850269010867",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/skhonkaen-vietnamese-sausage-320g-8850269010867",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Cheese Sausage Classic 125g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroCheeseSausageClassic125g-8856294044235-1"
+        ],
+        "Quantity": "125g",
+        "Barcode_Number": "8856294044235",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/betagro-cheese-sausage-classic-125g-8856294044235",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chalet Steak Ham 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHALET-ChaletSteakHam200g-8853989011220-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853989011220",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHALET"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/chalet-steak-ham-200g-8853989011220",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Tops Chinese Pork Sausage 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsChinesePorkSausage360g-8853474011520-1?$JPEG$"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "8853474011520",
+        "Product_Detail": null,
+        "Price": "175",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tops-chinese-pork-sausage-360g-8853474011520",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Chicken Frankfurter 155g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPChickenFrankfurter155g-8850554811650-1"
+        ],
+        "Quantity": "155g",
+        "Barcode_Number": "8850554811650",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/cp-chicken-frankfurter-155g-8850554811650",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Baan Pai Chinese Pork Sausage 360g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BAANPAI-BaanPaiChinesePorkSausage360g-8850269020057-1"
+        ],
+        "Quantity": "360g",
+        "Barcode_Number": "8850269020057",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BAAN PAI"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/baan-pai-chinese-pork-sausage-360g-8850269020057",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Ham Loaf 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceHamLoaf160g-8853474039708-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8853474039708",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-ham-loaf-160g-8853474039708",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Espuna Jamon Curado Serrano Ham 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ESPUNA-EspunaJamonCuradoSerranoHam120g-8410060282100-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8410060282100",
+        "Product_Detail": null,
+        "Price": "330",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ESPUNA"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/espuna-jamon-curado-serrano-ham-120g-8410060282100",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "By Nan Chicken Liver Pate with Truffle 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-ByNanChickenLiverPatewithTruffle100g-0000048475327-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "0000048475327",
+        "Product_Detail": null,
+        "Price": "220",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/by-nan-chicken-liver-pate-with-truffle-100g-0000048475327",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Itoham Pork Loin Ham 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ITOHAM-ItohamPorkLoinHam120g-8856294073006-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8856294073006",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "ITOHAM"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/itoham-pork-loin-ham-120g-8856294073006",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Chilli Lyoner 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceChilliLyoner100g-8853474015757-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8853474015757",
+        "Product_Detail": null,
+        "Price": "53",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/my-choice-chilli-lyoner-100g-8853474015757",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Sauerkraut 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMSauerkraut250g-8850807914459-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850807914459",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tgm-sauerkraut-250g-8850807914459",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloanes Pigs In Blankets 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesPigsInBlankets500g-0736313266641-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0736313266641",
+        "Product_Detail": null,
+        "Price": "340",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "SLOANE"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/sloanes-pigs-in-blankets-500g-0736313266641",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloanes Chicken Liver Prafait 150g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesChickenLiverPrafait150gC-0736313265026-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "0736313265026",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/sloanes-chicken-liver-prafait-150gc-0736313265026",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Job Is Pate Truffe Noire 85g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MyJobIsPateTruffeNoire85gC-0000044169077-1"
+        ],
+        "Quantity": "85g",
+        "Barcode_Number": "0000044169077",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-job-is-pate-truffe-noire-85gc-0000044169077",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Greisinger Krainer Cheese Sausage 340g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GREISINGER-GreisingerKrainerCheeseSausage340g-9003903496025-1"
+        ],
+        "Quantity": "340g",
+        "Barcode_Number": "9003903496025",
+        "Product_Detail": null,
+        "Price": "469",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "GREISINGER"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/greisinger-krainer-cheese-sausage-340g-9003903496025",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Salmon Gravlax 80g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedSalmonGravlax80gC-8858781400265-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8858781400265",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-salmon-gravlax-80gc-8858781400265",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Captain Crispy Pork Stick 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CAPTAIN-CaptainCrispyPorkStick80g-8857126611045-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8857126611045",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CAPTAIN"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/captain-crispy-pork-stick-80g-8857126611045",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Schinken Speck 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSchinkenSpeck80g-8853474015740-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474015740",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-schinken-speck-80g-8853474015740",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "BKP Chicken Bologna 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BKP-BKPChickenBologna450g-8851759250114-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8851759250114",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BKP"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/bkp-chicken-bologna-450g-8851759250114",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Espuna Tapas Chorizo 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ESPUNA-EspunaTapasChorizo60g-8410060603301-1?$JPEG$"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8410060603301",
+        "Product_Detail": null,
+        "Price": "177",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ESPUNA"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/espuna-tapas-chorizo-60g-8410060603301",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chainarong Dried Shredded Pork 200Bht.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAINARONG-ChainarongDriedShreddedPork200BhtC-0000048492577-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048492577",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAINARONG"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/chainarong-dried-shredded-pork-200bhtc-0000048492577",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Umi Crab Stick 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UMI-UmiCrabStick250g-8854241001218-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8854241001218",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "UMI"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/umi-crab-stick-250g-8854241001218",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Chicky Wiener Sausage 800g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroChickyWienerSausage800g-8852043606693-1"
+        ],
+        "Quantity": "800g",
+        "Barcode_Number": "8852043606693",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/betagro-chicky-wiener-sausage-800g-8852043606693",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Espuna Chorizo Sarta 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ESPUNA-EspunaChorizoSarta200g-8410060122703-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8410060122703",
+        "Product_Detail": null,
+        "Price": "338",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ESPUNA"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/espuna-chorizo-sarta-200g-8410060122703",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloanes Smoked Ham 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesSmokedHam200gC-0736313264982-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0736313264982",
+        "Product_Detail": null,
+        "Price": "150",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/sloanes-smoked-ham-200gc-0736313264982",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Tops Vietnamese Sausage Pork&Chicken 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsVietnameseSausagePorkChicken180g-8853474005956-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474005956",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tops-vietnamese-sausage-porkchicken-180g-8853474005956",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "BKP Chili Chicken Bologna 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BKP-BKPChiliChickenBologna450g-8851759250121-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8851759250121",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BKP"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/bkp-chili-chicken-bologna-450g-8851759250121",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Gourmet Sausage Spicy Paprika 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxGourmetSausageSpicyPaprika250gC-8857127496054-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8857127496054",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-gourmet-sausage-spicy-paprika-250gc-8857127496054",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Pueng Ngee Chiang Flossy Pork 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PUENGNGEECHIANG-PuengNgeeChiangFlossyPork90g-8855550000138-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8855550000138",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PUENGNGEECHIANG"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/pueng-ngee-chiang-flossy-pork-90g-8855550000138",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Gibus Smoked Pork Sausage 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GIBUS-GibusSmokedPorkSausage300g-8853473004196-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8853473004196",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "GIBUS"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/gibus-smoked-pork-sausage-300g-8853473004196",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Jumbo Gold Sausage 1000g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroJumboGoldSausage1000g-8852043008466-1"
+        ],
+        "Quantity": "1000g",
+        "Barcode_Number": "8852043008466",
+        "Product_Detail": null,
+        "Price": "160",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/betagro-jumbo-gold-sausage-1000g-8852043008466",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Biotech Fermented Sausage 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BIOTECH-BiotechFermentedSausage200g-8850998020106-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850998020106",
+        "Product_Detail": null,
+        "Price": "100",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BIOTECH"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/biotech-fermented-sausage-200g-8850998020106",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Carchelejo Chorizo Extra Mild 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARCHELEJO-CarchelejoChorizoExtraMild250g-8421764120032-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8421764120032",
+        "Product_Detail": null,
+        "Price": "360",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "CARCHELEJO"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/carchelejo-chorizo-extra-mild-250g-8421764120032",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Carchelejo Chorizo Casero Picante Extra Spicy 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARCHELEJO-CarchelejoChorizoCaseroPicanteExtraSpicy250g-8421764110576-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8421764110576",
+        "Product_Detail": null,
+        "Price": "360",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "CARCHELEJO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/carchelejo-chorizo-casero-picante-extra-spicy-250g-8421764110576",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloanes Mortadella Pistachio 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesMortadellaPistachio200gC-0736313266771-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0736313266771",
+        "Product_Detail": null,
+        "Price": "180",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/sloanes-mortadella-pistachio-200gc-0736313266771",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Canterbury Biltong Original with Coriander and Pepper Biltong 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTERBURY-CanterburyBiltongOriginalwithCorianderandPepperBiltong40g-9421019339317-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "9421019339317",
+        "Product_Detail": null,
+        "Price": "143",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "CANTERBURY BILTONG"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/canterbury-biltong-original-with-coriander-and-pepper-biltong-40g-9421019339317",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Greisinger Munchner Pork Sausage 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GREISINGER-GreisingerMunchnerPorkSausage300g-9003903496797-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "9003903496797",
+        "Product_Detail": null,
+        "Price": "469",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "GREISINGER"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/greisinger-munchner-pork-sausage-300g-9003903496797",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Greisnger Grill Bratwurstel Barbecue Sausage 400g",
+        "Product_Images": [
+            "https://assets.tops.co.th//GREISINGER-GreisngerGrillBratwurstelBarbecueSausage400g-9003903496421-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "9003903496421",
+        "Product_Detail": null,
+        "Price": "519",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "GREISINGER"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/greisnger-grill-bratwurstel-barbecue-sausage-400g-9003903496421",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Gourmet Sausage Fish Sausage Original 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxGourmetSausageFishSausageOriginal200gC-8857127496030-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8857127496030",
+        "Product_Detail": null,
+        "Price": "130",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-gourmet-sausage-fish-sausage-original-200gc-8857127496030",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Chinese Pork Sausage 260g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenChinesePorkSausage260g-8850269010102-1"
+        ],
+        "Quantity": "260g",
+        "Barcode_Number": "8850269010102",
+        "Product_Detail": null,
+        "Price": "113",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/skhonkaen-chinese-pork-sausage-260g-8850269010102",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Rougi Block Duck Foie Gras in Jar 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROUGIE-RougiBlockDuckFoieGrasinJar80g-3161451022106-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "3161451022106",
+        "Product_Detail": null,
+        "Price": "699",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ROUGIE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/rougi-block-duck-foie-gras-in-jar-80g-3161451022106",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Rougi Block Goose Foie Gras in Tin 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROUGIE-RougiBlockGooseFoieGrasinTin75g-3161450164890-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "3161450164890",
+        "Product_Detail": null,
+        "Price": "1290",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ROUGIE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/rougi-block-goose-foie-gras-in-tin-75g-3161450164890",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Sloanes Pate Grandmere 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesPateGrandmere200gC-0736313264814-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0736313264814",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/sloanes-pate-grandmere-200gc-0736313264814",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Ermes Fontana Salami Spianata Piccante(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//ERMESFONTANA-ErmesFontanaSalamiSpianataPiccanteC-0218112000003-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218112000003",
+        "Product_Detail": null,
+        "Price": "1990",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ERMES FONTANA"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/ermes-fontana-salami-spianata-piccantec-0218112000003",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "By Nan Green Pate Chicken Liver Pate with Spinach 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-ByNanGreenPateChickenLiverPatewithSpinach100g-0000048475280-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "0000048475280",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/by-nan-green-pate-chicken-liver-pate-with-spinach-100g-0000048475280",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Canterbury Biltong Chilli Biltong 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTERBURY-CanterburyBiltongChilliBiltong40g-9421019339331-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "9421019339331",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "CANTERBURY BILTONG"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/canterbury-biltong-chilli-biltong-40g-9421019339331",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Plantaem The Meatless Sausage Patty Lamby 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxPlantaemTheMeatlessSausagePattyLamby200gC-8857127496177-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8857127496177",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-plantaem-the-meatless-sausage-patty-lamby-200gc-8857127496177",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Plantaem The Meatless Sausage Patty Beefy 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxPlantaemTheMeatlessSausagePattyBeefy200gC-8857127496146-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8857127496146",
+        "Product_Detail": null,
+        "Price": "190",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-plantaem-the-meatless-sausage-patty-beefy-200gc-8857127496146",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Plantaem The Meatless Sausage Patty Original 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxPlantaemTheMeatlessSausagePattyOriginal200gC-8857127496139-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8857127496139",
+        "Product_Detail": null,
+        "Price": "180",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-plantaem-the-meatless-sausage-patty-original-200gc-8857127496139",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Gourmet Sausage IM BBQ 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxGourmetSausageIMBBQ250gC-8857127496122-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8857127496122",
+        "Product_Detail": null,
+        "Price": "240",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-gourmet-sausage-im-bbq-250gc-8857127496122",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Gourmet Sausage IM200Years Cheesy 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxGourmetSausageIM200YearsCheesy250gC-8857127496115-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8857127496115",
+        "Product_Detail": null,
+        "Price": "260",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-gourmet-sausage-im200years-cheesy-250gc-8857127496115",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Gourmet Sausage IM200Years Original 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxGourmetSausageIM200YearsOriginal250gC-8857127496047-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8857127496047",
+        "Product_Detail": null,
+        "Price": "240",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-gourmet-sausage-im200years-original-250gc-8857127496047",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Bratbox Gourmet Sausage Original 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BratboxGourmetSausageOriginal250gC-8857127496016-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8857127496016",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/bratbox-gourmet-sausage-original-250gc-8857127496016",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chao Sua Pork Chinese Sausage 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaoSuaPorkChineseSausage450g-8852240062209-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8852240062209",
+        "Product_Detail": null,
+        "Price": "193",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAO SUA"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/chao-sua-pork-chinese-sausage-450g-8852240062209",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Lim Jing Heing Spicy Shredded Pork Stick 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LIMJINGHEING-LimJingHeingSpicyShreddedPorkStick120g-8850493650129-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8850493650129",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "LIM JING HEING"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/lim-jing-heing-spicy-shredded-pork-stick-120g-8850493650129",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Lim Jing Heing Crispy Pork 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LIMJINGHEING-LimJingHeingCrispyPork140g-8850493101140-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8850493101140",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "LIM JING HEING"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/lim-jing-heing-crispy-pork-140g-8850493101140",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Beher Unico Jamon Iberico Sheaf Iberian Ham Knife Cut 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BEHER-BeherUnicoJamonIbericoSheafIberianHamKnifeCut90g-8428688010975-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8428688010975",
+        "Product_Detail": null,
+        "Price": "820",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "BEHER"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/beher-unico-jamon-iberico-sheaf-iberian-ham-knife-cut-90g-8428688010975",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Auvernou Mini Sticks Dry Pork Sausage Piment 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//AUVERNOU-AuvernouMiniSticksDryPorkSausagePiment100g-3466250035723-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "3466250035723",
+        "Product_Detail": null,
+        "Price": "240",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "AUVERNOU"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/auvernou-mini-sticks-dry-pork-sausage-piment-100g-3466250035723",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Rougi Block Goose Foie Gras in Jar 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROUGIE-RougiBlockGooseFoieGrasinJar80g-3161451018420-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "3161451018420",
+        "Product_Detail": null,
+        "Price": "829",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ROUGIE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/rougi-block-goose-foie-gras-in-jar-80g-3161451018420",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Rougi Block Duck Foie Gras in Jar 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROUGIE-RougiBlockDuckFoieGrasinJar75g-3161450165354-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "3161450165354",
+        "Product_Detail": null,
+        "Price": "859",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ROUGIE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/rougi-block-duck-foie-gras-in-jar-75g-3161450165354",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Rougi Block Foie Gras with Truffle 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROUGIE-RougiBlockFoieGraswithTruffle75g-3161450164708-1?$JPEG$"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "3161450164708",
+        "Product_Detail": null,
+        "Price": "1499",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ROUGIE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/rougi-block-foie-gras-with-truffle-75g-3161450164708",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Rougi Goose Meat Rillettes 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROUGIE-RougiGooseMeatRillettes180g-3161450060949-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "3161450060949",
+        "Product_Detail": null,
+        "Price": "550",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ROUGIE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/rougi-goose-meat-rillettes-180g-3161450060949",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Torreon Jamon De Bellota(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//GALBANI-TorreonJamonDeBellotaC-0217814000007-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0217814000007",
+        "Product_Detail": null,
+        "Price": "13000",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "GALBANI"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/torreon-jamon-de-bellotac-0217814000007",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Ermes Fonatana Ham Seasoned Coppa(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//ERMESFONTANA-ErmesFonatanaHamSeasonedCoppaC-0217312000004-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0217312000004",
+        "Product_Detail": null,
+        "Price": "2100",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ERMES FONTANA"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/ermes-fonatana-ham-seasoned-coppac-0217312000004",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jamondor Extra Spicy Salchichon(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMONDOR-JamondorExtraSpicySalchichonC-0216200000003-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0216200000003",
+        "Product_Detail": null,
+        "Price": "1890",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "JAMONDOR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/jamondor-extra-spicy-salchichonc-0216200000003",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jamondor Countryside Iberian Ham(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMONDOR-JamondorCountrysideIberianHamC-0216177000006-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0216177000006",
+        "Product_Detail": null,
+        "Price": "7000",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "JAMONDOR"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/jamondor-countryside-iberian-hamc-0216177000006",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jamondor Countryside Iberian Ham Boneless and Skinless(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMONDOR-JamondorCountrysideIberianHamBonelessandSkinlessC-0216085000006-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0216085000006",
+        "Product_Detail": null,
+        "Price": "6500",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "JAMONDOR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/jamondor-countryside-iberian-ham-boneless-and-skinlessc-0216085000006",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jamondor Millenium Reserva Serrano Ham Boneless and Skinless(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMONDOR-JamondorMilleniumReservaSerranoHamBonelessandSkinlessC-0216043000000-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0216043000000",
+        "Product_Detail": null,
+        "Price": "3100",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "JAMONDOR"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/jamondor-millenium-reserva-serrano-ham-boneless-and-skinlessc-0216043000000",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jamondor Platinium Serrano Ham(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMONDOR-JamondorPlatiniumSerranoHamC-0216040000003-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0216040000003",
+        "Product_Detail": null,
+        "Price": "3800",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "JAMONDOR"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/jamondor-platinium-serrano-hamc-0216040000003",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jamondor Platinium Serrano Ham Boneless and Skinless(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMONDOR-JamondorPlatiniumSerranoHamBonelessandSkinlessC-0215939000001-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0215939000001",
+        "Product_Detail": null,
+        "Price": "2900",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "JAMONDOR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/jamondor-platinium-serrano-ham-boneless-and-skinlessc-0215939000001",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Jamondor Extra Salchichon(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMONDOR-JamondorExtraSalchichonC-0215917000009-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0215917000009",
+        "Product_Detail": null,
+        "Price": "1800",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "JAMONDOR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/jamondor-extra-salchichonc-0215917000009",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Cinco Jotas 5J Acorn Fed Ham With Bone(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//5J-CincoJotas5JAcornFedHamWithBoneC-0214610000002-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0214610000002",
+        "Product_Detail": null,
+        "Price": "16000",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "5J"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/cinco-jotas-5j-acorn-fed-ham-with-bonec-0214610000002",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Ermes Fontana Parma Ham PDO(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//ERMESFONTANA-ErmesFontanaParmaHamPDOC-0213728000003-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0213728000003",
+        "Product_Detail": null,
+        "Price": "2390",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "ERMES FONTANA"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/ermes-fontana-parma-ham-pdoc-0213728000003",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chomchada RTE Meal 500Bht.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAINARONG-ChainarongRoasted200BhtC-0000048492607-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048492607",
+        "Product_Detail": null,
+        "Price": "500",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAINARONG"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/chomchada-rte-meal-500bhtc-0000048492607",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chainarong Pork Jerky 200Bht.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAINARONG-ChainarongPorkJerky200BhtC-0000048492591-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048492591",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAINARONG"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/chainarong-pork-jerky-200bhtc-0000048492591",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chainarong Shredded Pork 200Bht.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAINARONG-ChainarongShreddedPork200BhtC-0000048492584-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048492584",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAINARONG"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/chainarong-shredded-pork-200bhtc-0000048492584",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Job Is Pate Mushroom Pate Truffle Flavoour 100g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MyJobIsPateMushroomPateTruffleFlavoour100gC-0000044170066-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "0000044170066",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/my-job-is-pate-mushroom-pate-truffle-flavoour-100gc-0000044170066",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "deli_meat"
+    }
+]

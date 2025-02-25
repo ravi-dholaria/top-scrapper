@@ -1,0 +1,4610 @@
+[
+    {
+        "Product_Name": "Betagen Kumbucha ORI 335ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGEN-BetagenKumbuchaORI335ml-8850393801898-1?$JPEG$"
+        ],
+        "Quantity": "335ml",
+        "Barcode_Number": "8850393801898",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "BETAGEN"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/betagen-kumbucha-ori-335ml-8850393801898",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "B Nature B Berry Drinks 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENATURE-BNatureBBerryDrinks250ml-8859316800048-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8859316800048",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BE NATURE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/b-nature-b-berry-drinks-250ml-8859316800048",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Korean Style Yuzu Pickled Radish 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiKoreanStyleYuzuPickledRadish150g-8859242900935-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859242900935",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sukishi-korean-style-yuzu-pickled-radish-150g-8859242900935",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Hot Smoked Atlantic Mackerel 95g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartHotSmokedAtlanticMackerel110gC-8858781401446-1?$JPEG$"
+        ],
+        "Quantity": "95g",
+        "Barcode_Number": "8858781401446",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "1998",
+        "URL": "https://www.tops.co.th/en/thammachart-hot-smoked-atlantic-mackerel-95gc-8858781401446",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "SeaMeNOW Frozen Red Snow Crab Paste 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEEMENOW-SeaMeNOWRedSnowCrabPaste80g-8809056560986-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8809056560986",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SEE ME NOW"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/seamenow-frozen-red-snow-crab-paste-80g-8809056560986",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hikari Organic Miso White Miso 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HIKARI-HikariOrganicMisoWhiteMiso500g-0858764000299-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0858764000299",
+        "Product_Detail": null,
+        "Price": "229",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HIKARI"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/hikari-organic-miso-white-miso-500g-0858764000299",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Teriyaki Hot Smoked Atlantic Mackerel 95g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartTeriyakiHotSmokedAtlanticMackerel110gC-8858781401453-1?$JPEG$"
+        ],
+        "Quantity": "95g",
+        "Barcode_Number": "8858781401453",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-teriyaki-hot-smoked-atlantic-mackerel-95gc-8858781401453",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Peppered Hot Smoked Atlantic Mackerel 95g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartPepperedHotSmokedAtlanticMackerel110gC-8858781401460-1?$JPEG$"
+        ],
+        "Quantity": "95g",
+        "Barcode_Number": "8858781401460",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-peppered-hot-smoked-atlantic-mackerel-95gc-8858781401460",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Cook Tok Tteokbokki Creamy Savory Mild Spicy 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COOKTOK-CookTokTteokbokkiCreamySavoryMildSpicy140g-8809418080923-1?$JPEG$"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8809418080923",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/cook-tok-tteokbokki-creamy-savory-mild-spicy-140g-8809418080923",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tarami Fruits Mix Jelly 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARAMI-TaramiFruitsMixJelly160g-4955129020087-1?$JPEG$"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "4955129020087",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "TARAMI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tarami-fruits-mix-jelly-160g-4955129020087",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Salmon Marinated Shoyu(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartSalmonMarinatedShoyuC-0000048584340-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048584340",
+        "Product_Detail": null,
+        "Price": "259",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Meat & Seafood",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-salmon-marinated-shoyuc-0000048584340",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tarami Fruits Orange Jelly 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARAMI-TaramiFruitsOrangeJelly160g-4955129020063-1?$JPEG$"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "4955129020063",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "TARAMI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tarami-fruits-orange-jelly-160g-4955129020063",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pulmuone Teriyaki Stir Fry Udon 458g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PULMUONE-PulmuoneTeriyakiStirFryUdon458g-8801114141922-1?$JPEG$"
+        ],
+        "Quantity": "458g",
+        "Barcode_Number": "8801114141922",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Fresh Food & Bakery /// Chilled Foods /// Japanese & Korean Deli",
+            "PULMUONE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/pulmuone-teriyaki-stir-fry-udon-458g-8801114141922",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Betagro Egg Tofu 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroEggTofu120g-8852043003485-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852043003485",
+        "Product_Detail": null,
+        "Price": "11",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/betagro-egg-tofu-120g-8852043003485",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Ohayo Kinu Tofu 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OHAYO-OhayoKinuTofu300g-8850721010619-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8850721010619",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OHAYO"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/ohayo-kinu-tofu-300g-8850721010619",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Ohayo Moment Tofu 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OHAYO-OhayoMomentTofu200g-8850721010718-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850721010718",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "OHAYO"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/ohayo-moment-tofu-200g-8850721010718",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sakuru Hard Tofu 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SAKURA-SakuruHardTofu250g-8850208450136-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850208450136",
+        "Product_Detail": null,
+        "Price": "29",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SAKURA"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sakuru-hard-tofu-250g-8850208450136",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "My Choice Kimchi 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceKimchi150g-8853474067121-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474067121",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/my-choice-kimchi-150g-8853474067121",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kaset Egg Tofu 105g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KASET-KasetEggTofu105g-8855815000040-1"
+        ],
+        "Quantity": "105g",
+        "Barcode_Number": "8855815000040",
+        "Product_Detail": null,
+        "Price": "11",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KASET"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/kaset-egg-tofu-105g-8855815000040",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Momotaro Udon 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOMOTARO-MomotaroUdon200g-9557320000506-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "9557320000506",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MOMOTARO"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/momotaro-udon-200g-9557320000506",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "C.P. Spaghetti with Minced Chicken and Sausage 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPSpaghettiwithMincedChickenandSausage250g-8850653670233-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850653670233",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "77",
+        "URL": "https://www.tops.co.th/en/cp-spaghetti-with-minced-chicken-and-sausage-250g-8850653670233",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sengheng Yellow Soft Tofu 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENGHENG-SenghengYellowSoftTofu250g-8853334001036-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8853334001036",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENGHENG"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/sengheng-yellow-soft-tofu-250g-8853334001036",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": " Sukishi Cabbage Kimchi 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-KimchiGOGOOriginalKimchi150g-8859242900010-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859242900010",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/-sukishi-cabbage-kimchi-150g-8859242900010",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sakura Soft Tofu 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SAKURA-SakuraSoftTofu250g-8850208450143-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850208450143",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SAKURA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/sakura-soft-tofu-250g-8850208450143",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Danitas Flour Tortillas 9inch 450g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DANITAS-DanitasFlourTortillas9inch450g-8850575008138-1"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8850575008138",
+        "Product_Detail": null,
+        "Price": "98",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "DANITAS"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/danitas-flour-tortillas-9inch-450g-8850575008138",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Danitas Flour Tortillas 6inch 235g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DANITAS-DanitasFlourTortillas6inch235g-8850575008145-1"
+        ],
+        "Quantity": "235g",
+        "Barcode_Number": "8850575008145",
+        "Product_Detail": null,
+        "Price": "83",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "DANITAS"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/danitas-flour-tortillas-6inch-235g-8850575008145",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sengheng White Hard Tofu 190g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENGHENG-SenghengWhiteHardTofu190g-8853334001050-1"
+        ],
+        "Quantity": "190g",
+        "Barcode_Number": "8853334001050",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENGHENG"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/sengheng-white-hard-tofu-190g-8853334001050",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Ken Nutto 47g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KEN-KenNutto47g-8853724005095-1"
+        ],
+        "Quantity": "47g",
+        "Barcode_Number": "8853724005095",
+        "Product_Detail": null,
+        "Price": "21",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KEN"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/ken-nutto-47g-8853724005095",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tops Japanese Style Tofu 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsJapaneseStyleTofu200g-8853474065226-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474065226",
+        "Product_Detail": null,
+        "Price": "29",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tops-japanese-style-tofu-200g-8853474065226",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Chef Kani Express Imitation Crab Stick 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-ChefKaniExpressImitationCrabStick250g-8854958008807-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8854958008807",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/chef-kani-express-imitation-crab-stick-250g-8854958008807",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Chef Kani Express Imitation Crab Stick 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHEFKANIEXPRESS-ChefKaniExpressImitationCrabStick500g-8854958006285-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8854958006285",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHEF KANI EXPRESS"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/chef-kani-express-imitation-crab-stick-500g-8854958006285",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Aroy Mak Kimchi 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//AROYMAK-AroyMakKimchi200g-8854241002666-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8854241002666",
+        "Product_Detail": null,
+        "Price": "34.5",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "AROY MAK"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/aroy-mak-kimchi-200g-8854241002666",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "OVF Egg White 450ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-OVFEggWhite450ml-8851344002692-1"
+        ],
+        "Quantity": "450ml",
+        "Barcode_Number": "8851344002692",
+        "Product_Detail": null,
+        "Price": "87",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/ovf-egg-white-450ml-8851344002692",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hanil Bongojang Udon 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HANIL-HanilBongojangUdon200g-8801085020301-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8801085020301",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HANIL"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/hanil-bongojang-udon-200g-8801085020301",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tops Wonton Sheet 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsWontonSheet120g-8853474043194-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853474043194",
+        "Product_Detail": null,
+        "Price": "14",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tops-wonton-sheet-120g-8853474043194",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Ken Bolied Udon 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KEN-KenBoliedUdon140g-8853724004395-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8853724004395",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KEN"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/ken-bolied-udon-140g-8853724004395",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Shacho San No Natto Natto 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-ShachoSanNoNattoNatto150g-8859559800010-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859559800010",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Fresh Food & Bakery /// Chilled Foods /// Japanese & Korean Deli",
+            "NONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/shacho-san-no-natto-natto-150g-8859559800010",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tofuoishi Tofu Original 275g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOFUOISHI-TofuoishiTofuOriginal275g-8857122042072-1"
+        ],
+        "Quantity": "275g",
+        "Barcode_Number": "8857122042072",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOFUOISHI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tofuoishi-tofu-original-275g-8857122042072",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Marry Foods Kimchi 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARRYFOODS-MarryFoodsKimchi200g-0200588500118-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0200588500118",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MARRY FOODS"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/marry-foods-kimchi-200g-0200588500118",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tops White Firm Tofu 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsWhiteFirmTofu150g-8853474022151-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474022151",
+        "Product_Detail": null,
+        "Price": "28",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tops-white-firm-tofu-150g-8853474022151",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kibun Narutomaki 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunNarutomaki120g-8852172100178-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852172100178",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/kibun-narutomaki-120g-8852172100178",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "OVF Egg White 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-OVFEggWhite1000ml-8851344002685-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8851344002685",
+        "Product_Detail": null,
+        "Price": "154",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/ovf-egg-white-1000ml-8851344002685",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tofuoishi Tofu Japan 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOFUOISHI-TofuoishiTofuJapan300g-8857122042010-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8857122042010",
+        "Product_Detail": null,
+        "Price": "34",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOFUOISHI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tofuoishi-tofu-japan-300g-8857122042010",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "CP Delight Ready to Eat Egg White 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPDelightReadytoEatEggWhite100g-8858684509263-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858684509263",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/cp-delight-ready-to-eat-egg-white-100g-8858684509263",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Carrefour Pate Feuilletee Epaisse 280g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARREFOUR-CarrefourPateFeuilleteeEpaisse280g-3560070555611-1"
+        ],
+        "Quantity": "280g",
+        "Barcode_Number": "3560070555611",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/carrefour-pate-feuilletee-epaisse-280g-3560070555611",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sengheng Fresh Tofu Skin 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENGHENG-SenghengFreshTofuSkin100g-8853334001203-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8853334001203",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENGHENG"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sengheng-fresh-tofu-skin-100g-8853334001203",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sakura Nama Age 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SAKURA-SakuraNamaAge250g-8850208450167-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850208450167",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SAKURA"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sakura-nama-age-250g-8850208450167",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sendee99 Rice Noodle 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENDEE99-Sendee99RiceNoodle500g-8859582205004-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8859582205004",
+        "Product_Detail": null,
+        "Price": "41",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENDEE99"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/sendee99-rice-noodle-500g-8859582205004",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Betagro Garlic & Pepper Roast Chicken Breast 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroGarlicPepperRoastChickenBreast75g-8859176600703-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8859176600703",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/betagro-garlic-pepper-roast-chicken-breast-75g-8859176600703",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tops Yellow Soft Tofu 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsYellowSoftTofu200g-8853474022168-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474022168",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tops-yellow-soft-tofu-200g-8853474022168",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart  Seafood Sauce 75g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartSeafoodSauce75gC-8858781401217-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8858781401217",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-seafood-sauce-75gc-8858781401217",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sengheng White Tofu Soybean Curd Sodium Free 190g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENGHENG-SenghengWhiteTofuSoybeanCurdSodiumFree190g-8853334001227-1"
+        ],
+        "Quantity": "190g",
+        "Barcode_Number": "8853334001227",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENGHENG"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sengheng-white-tofu-soybean-curd-sodium-free-190g-8853334001227",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Smoked Salmon with Black Pepper 80g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedSmokedSalmonwithBlackPepper80gC-8858781400272-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8858781400272",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "1999",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-smoked-salmon-with-black-pepper-80gc-8858781400272",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "S&P Spaghetti Carbonara Sauce 245g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPSpaghettiCarbonaraSauce245g-8850231800069-1"
+        ],
+        "Quantity": "245g",
+        "Barcode_Number": "8850231800069",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sp-spaghetti-carbonara-sauce-245g-8850231800069",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Huaykaew Vietnamese Sausage 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HAUYKAEW-HuaykaewVietnameseSausage250g-8850269250058-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850269250058",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HAUYKAEW"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/huaykaew-vietnamese-sausage-250g-8850269250058",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Doritos Salsa Sauce Hot 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DORITOS-DoritosSalsaSauceHot300g-9310015224096-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "9310015224096",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "DORITOS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/doritos-salsa-sauce-hot-300g-9310015224096",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "No Cal Chrysanthemum Stevia 350ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NOCAL-NoCalChrysanthemumStevia350ml-8859224350291-1?$JPEG$"
+        ],
+        "Quantity": "350ml",
+        "Barcode_Number": "8859224350291",
+        "Product_Detail": null,
+        "Price": "31",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NO CAL"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/no-cal-chrysanthemum-stevia-350ml-8859224350291",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "My Choice Seaweed Salad 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSeaweedSalad170g-8853474076314-1"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "8853474076314",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/my-choice-seaweed-salad-170g-8853474076314",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sengheng Yellow Hard Tofu 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENGHENG-SenghengYellowHardTofu180g-8853334001043-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853334001043",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENGHENG"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/sengheng-yellow-hard-tofu-180g-8853334001043",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kibun Kamaboko Red 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunKamabokoRed160g-8852172100314-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8852172100314",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/kibun-kamaboko-red-160g-8852172100314",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kani Fresh Crab Stick 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KANI-KaniFreshCrabStick250g-8850524100036-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850524100036",
+        "Product_Detail": null,
+        "Price": "117",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KANI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/kani-fresh-crab-stick-250g-8850524100036",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Lilsheep Crispy Soy Protein Chips BBQ Flavor 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-LilsheepProteinChipsBBQ40g-8857125593380-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8857125593380",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Fresh Food & Bakery /// Chilled Foods /// Chilled Local Deli",
+            "LILSHEEP"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/lilsheep-crispy-soy-protein-chips-bbq-flavor-40g-8857125593380",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kibun Yasai Tsumire 135g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunYasaiTsumire135g-8852172101694-1"
+        ],
+        "Quantity": "135g",
+        "Barcode_Number": "8852172101694",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/kibun-yasai-tsumire-135g-8852172101694",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Seafood Extra Spicy Seafood Sauce 75g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartSeafoodExtraSpicySeafoodSauce75gC-8858781401170-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8858781401170",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-seafood-extra-spicy-seafood-sauce-75gc-8858781401170",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Konyaku Ika 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KONYAKU-KonyakuIka220g-8851919050103-1"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8851919050103",
+        "Product_Detail": null,
+        "Price": "43",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KONYAKU"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/konyaku-ika-220g-8851919050103",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Lilsheep Crispy Soy Protein Chips Soy Sauce Flavor 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-LilsheepProteinChipsSauce40g-8857125593984-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8857125593984",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Fresh Food & Bakery /// Chilled Foods /// Chilled Local Deli",
+            "LILSHEEP"
+        ],
+        "Stock": "33",
+        "URL": "https://www.tops.co.th/en/lilsheep-crispy-soy-protein-chips-soy-sauce-flavor-40g-8857125593984",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Mumpuku Gyoza Skin 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MUMPUKU-MumpukuGyozaSkin140g-8857120160075-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8857120160075",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MUMPUKU"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/mumpuku-gyoza-skin-140g-8857120160075",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Itoham Streamed Chicken Breast Herb & Pepper 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ITOHAM-ItohamStreamedChickenBreastHerbPepper120g-8852043606181-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8852043606181",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "ITOHAM"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/itoham-streamed-chicken-breast-herb-pepper-90g-8852043606181",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Konyakky Pearl Konjac 380g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KONYAKKY-KonyakkyPearlKonjac380g-8851919620238-1"
+        ],
+        "Quantity": "380g",
+        "Barcode_Number": "8851919620238",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KONYAKKY"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/konyakky-pearl-konjac-380g-8851919620238",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "EFresco Sweet Baby Peppers with Feta Cheese 185g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EFRESCO-EFrescoSweetBabyPepperswithFetaCheese185g-9336576001594-1?$JPEG$"
+        ],
+        "Quantity": "185g",
+        "Barcode_Number": "9336576001594",
+        "Product_Detail": null,
+        "Price": "161",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "EFRESCO"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/efresco-sweet-baby-peppers-with-feta-cheese-185g-9336576001594",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Mumpuku Egg Noodle 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MUMPUKU-MumpukuEggNoodle400g-8857120160020-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8857120160020",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MUMPUKU"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/mumpuku-egg-noodle-400g-8857120160020",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Moki Konjac Noodle with Oat Fiber 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOKI-MokiKonjacNoodlewithOatFiber350g-8858661109615-1"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "8858661109615",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOKI"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/moki-konjac-noodle-with-oat-fiber-350g-8858661109615",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Ichiban Tonkotsu Ramen 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-IchibanTonkotsuRamen230g-8855009000009-1"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "8855009000009",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/ichiban-tonkotsu-ramen-230g-8855009000009",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "V Farm Whole Sweet Corn Cob 280g",
+        "Product_Images": [
+            "https://assets.tops.co.th//VFARM-VFarmWholeSweetCornCob280g-8859179900077-1?$JPEG$"
+        ],
+        "Quantity": "280g",
+        "Barcode_Number": "8859179900077",
+        "Product_Detail": null,
+        "Price": "29",
+        "Labels": [
+            "Fruits & Vegetables /// Vegetables /// Fresh Vegetables",
+            "V FARM"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/v-farm-whole-sweet-corn-cob-280g-8859179900077",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Konyaku Shiratake 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KONYAKU-KonyakuShiratake200g-8851919050134-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8851919050134",
+        "Product_Detail": null,
+        "Price": "43",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KONYAKU"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/konyaku-shiratake-200g-8851919050134",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "S&P Salmon Spaghetti and Pesto Sauce 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPSalmonSpaghettiandPestoSauce240g-8850231800854-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8850231800854",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/sp-salmon-spaghetti-and-pesto-sauce-240g-8850231800854",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Konyaku Seaweed Vermiceli 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KONYAKU-KonyakuSeaweedVermiceli200g-8851919050110-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8851919050110",
+        "Product_Detail": null,
+        "Price": "43",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KONYAKU"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/konyaku-seaweed-vermiceli-200g-8851919050110",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sakura Age 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SAKURA-SakuraAge50g-8850208450150-1"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8850208450150",
+        "Product_Detail": null,
+        "Price": "33.5",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SAKURA"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/sakura-age-50g-8850208450150",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pulmuone Authentic Korean Kimchi Mild Vegan 397g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PULMUONE-PulmuoneAuthenticKoreanKimchiMild397g-0025484007390-1?$JPEG$"
+        ],
+        "Quantity": "397g",
+        "Barcode_Number": "0025484007390",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/pulmuone-authentic-korean-kimchi-mild-vegan-397g-0025484007390",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kaiso Noodle From Seaweed Extract 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KAISOU-KaisoNoodleFromSeaweedExtract300g-8856366002125-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8856366002125",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KAISOU"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/kaiso-noodle-from-seaweed-extract-300g-8856366002125",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Betagro Junior Meat Ball 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroJuniorMeatBall150g-8852043008596-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8852043008596",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/betagro-junior-meat-ball-150g-8852043008596",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Meat Zero Bologna  Chili 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MeatZeroBolognaChili90g-8858684510382-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8858684510382",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/meat-zero-bologna-chili-90g-8858684510382",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Mills Chiled Original Smoked Cod Roe Spread 185g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//MILLS-MillsChiledOriginalSmokedCodRoeSpread185gC-7036110000244-1"
+        ],
+        "Quantity": "185g",
+        "Barcode_Number": "7036110000244",
+        "Product_Detail": null,
+        "Price": "239",
+        "Labels": [
+            "Promotion /// Fresh /// Pantry & Ingredients",
+            "MILLS"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/mills-chiled-original-smoked-cod-roe-spread-185gc-7036110000244",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "S&P Baked Macaroni with Spinach and Cheese 260g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPBakedMacaroniwithSpinachandCheese260g-8850231801707-1"
+        ],
+        "Quantity": "260g",
+        "Barcode_Number": "8850231801707",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/sp-baked-macaroni-with-spinach-and-cheese-260g-8850231801707",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Betracro Concentrated Pork Soup 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetracroConcentratedPorkSoup140g-8852043931023-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8852043931023",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/betracro-concentrated-pork-soup-140g-8852043931023",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Double Dragon Crystal Fresh Bean Vermicelli 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOUBLEDRAGON-DoubleDragonCrystalFreshBeanVermicelli200g-8850122101831-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850122101831",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "DOUBLE DRAGON"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/double-dragon-crystal-fresh-bean-vermicelli-200g-8850122101831",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "TOPS Vietnamese Noodle 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TOPSVietnameseNoodle400g-8853474044160-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8853474044160",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tops-vietnamese-noodle-400g-8853474044160",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pulmuone Korea Kimchi Spicy Vegan 397g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PULMUONE-PulmuoneKoreaKimchiSpicy397g-0025484007406-1?$JPEG$"
+        ],
+        "Quantity": "397g",
+        "Barcode_Number": "0025484007406",
+        "Product_Detail": null,
+        "Price": "235",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/pulmuone-korea-kimchi-spicy-vegan-397g-0025484007406",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Premium Smoked Salmon 100g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedPremiumSmokedSalmon100gC-8858781401156-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858781401156",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-premium-smoked-salmon-100gc-8858781401156",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hom Groon Homemade Pork Stock 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//HOMGROON-HomGroonHomemadePorkStock200mlPack3-8857200237413-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8857200237413",
+        "Product_Detail": null,
+        "Price": "230",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HOM GROON"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/hom-groon-homemade-pork-stock-200ml-pack-3-8857200237413",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Jongga Kimchi Napa Cabbage 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-JonggaKimchiNapaCabbage200g-6935036481025-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "6935036481025",
+        "Product_Detail": null,
+        "Price": "71",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/jongga-kimchi-napa-cabbage-200g-6935036481025",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Blason De Monaco Anchovies in Oil 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BLASONDEMONACO-BlasonDeMonacoAnchoviesinOil50g-3155890000818-1"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "3155890000818",
+        "Product_Detail": null,
+        "Price": "175",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "BLASON DE MONACO"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/blason-de-monaco-anchovies-in-oil-50g-3155890000818",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "S&P Spaghetti with Bacon and Tomato Sauce 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SP-SPSpaghettiwithBaconandTomatoSauce220g-8850231800465-1?$JPEG$"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8850231800465",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S&P"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/sp-spaghetti-with-bacon-and-tomato-sauce-220g-8850231800465",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Spa Foods Tender Veggie Soy Protien Chicken Style 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPAFOODS-SpaFoodsTenderVeggieSoyProtienChickenStyle200g-8850743190108-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850743190108",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SPA FOODS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/spa-foods-tender-veggie-soy-protien-chicken-style-200g-8850743190108",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Okame Hikiwari Nutto 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OKAME-OkameHikiwariNutto90g-4901160017555-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "4901160017555",
+        "Product_Detail": null,
+        "Price": "62",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "OKAME"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/okame-hikiwari-nutto-90g-4901160017555",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "No Cal Pandan Stevia 350ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NOCAL-NoCalPandanStevia350ml-8859224350307-1?$JPEG$"
+        ],
+        "Quantity": "350ml",
+        "Barcode_Number": "8859224350307",
+        "Product_Detail": null,
+        "Price": "31",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NO CAL"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/no-cal-pandan-stevia-350ml-8859224350307",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Meat Zero Bologna Original 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MeatZeroBolognaOriginal90g-8858684510351-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8858684510351",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/meat-zero-bologna-original-90g-8858684510351",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Neo Suki Sauce Original Formula 330g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GIAVANI-NeoSukiSauceOriginalFormula330g-8855990009258-1"
+        ],
+        "Quantity": "330g",
+        "Barcode_Number": "8855990009258",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "GIAVANI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/neo-suki-sauce-original-formula-330g-8855990009258",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pulmuone Vegan Kimchi 750g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PULMUONE-PulmuoneVeganKimchi750g-8801114144992-1?$JPEG$"
+        ],
+        "Quantity": "750g",
+        "Barcode_Number": "8801114144992",
+        "Product_Detail": null,
+        "Price": "295",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/pulmuone-vegan-kimchi-750g-8801114144992",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Cook Go Go Gochujang Sauce 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COOKGOGO-CookGoGoGochujangSauce250ml-8859242900157-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8859242900157",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COOK GO GO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/cook-go-go-gochujang-sauce-250ml-8859242900157",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tops Egg Noodle 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsEggNoodle400g-8853474043200-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8853474043200",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tops-egg-noodle-400g-8853474043200",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Betracro Concentrated Chicken Soup 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetracroConcentratedChickenSoup140g-8852043931047-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8852043931047",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/betracro-concentrated-chicken-soup-140g-8852043931047",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Smart Chef Flaked Bambo 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SMARTCHEF-SmartChefFlakedBambo300g-0093460102636-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "0093460102636",
+        "Product_Detail": null,
+        "Price": "44",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SMART CHEF"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/smart-chef-flaked-bambo-300g-0093460102636",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Daesang Mat Kimchi 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DAESANG-DaesangMatKimchi200g-8801024190225-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8801024190225",
+        "Product_Detail": null,
+        "Price": "110",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "DAESANG"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/daesang-mat-kimchi-200g-8801024190225",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sengheng Stir Fried Tofu and Chinese Mushroom 130g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENGHENG-SenghengStirFriedTofuandChineseMushroom130g-8853334001159-1"
+        ],
+        "Quantity": "130g",
+        "Barcode_Number": "8853334001159",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENGHENG"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/sengheng-stir-fried-tofu-and-chinese-mushroom-130g-8853334001159",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kewpie Cream Soup with Champignon and Truffle 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KEWPIE-KewpieCreamSoupwithChampignonandTruffle170g-8852022110265-1"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "8852022110265",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KEWPIE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/kewpie-cream-soup-with-champignon-and-truffle-170g-8852022110265",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "JV Vegetarian Smoked Duck 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JV-JVVegetarianSmokedDuck160g-8850743010147-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "8850743010147",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "JV"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/jv-vegetarian-smoked-duck-160g-8850743010147",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Mae Baan Pickled Vegetable 600g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAEBAAN-MaeBaanPickledVegetable600g-8857106930012-1"
+        ],
+        "Quantity": "600g",
+        "Barcode_Number": "8857106930012",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MAE BAAN"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/mae-baan-pickled-vegetable-600g-8857106930012",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kaiso Noodle From Seaweed Extract 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KAISOU-KaisoNoodleFromSeaweedExtract300g-8856366000015-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8856366000015",
+        "Product_Detail": null,
+        "Price": "48",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KAISOU"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/kaiso-noodle-from-seaweed-extract-300g-8856366000015",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kibun Snow Crab Stick 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunSnowCrabStick250g-8852172102141-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8852172102141",
+        "Product_Detail": null,
+        "Price": "127",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/kibun-snow-crab-stick-250g-8852172102141",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Coles Chilled Classic Cheese&Chive Dip 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COLES-ColesChilledClassicCheeseChiveDip200g-9310645174471-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "9310645174471",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/coles-chilled-classic-cheesechive-dip-200g-9310645174471",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "CP Delight Egg Tofu  480g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPDelightEggTofu480g-8858684508785-1"
+        ],
+        "Quantity": "480g",
+        "Barcode_Number": "8858684508785",
+        "Product_Detail": null,
+        "Price": "38",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/cp-delight-egg-tofu-480g-8858684508785",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Moki Konjac 280g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOKI-MokiKonjac280g-8858661100018-1"
+        ],
+        "Quantity": "280g",
+        "Barcode_Number": "8858661100018",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOKI"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/moki-konjac-280g-8858661100018",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Moki Konjac 280g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOKI-MokiKonjac280g-8858661100025-1?$JPEG$"
+        ],
+        "Quantity": "280g",
+        "Barcode_Number": "8858661100025",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOKI"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/moki-konjac-280g-8858661100025",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Maeban Chopped Bamboo Shoots in Yanang Herbal 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAEBAAN-MaebanChoppedBambooShootsinYanangHerbal240g-8857106930456-1"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8857106930456",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MAE BAAN"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/maeban-chopped-bamboo-shoots-in-yanang-herbal-240g-8857106930456",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Ken Miso 700g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KEN-KenMiso700g-8853724005101-1"
+        ],
+        "Quantity": "700g",
+        "Barcode_Number": "8853724005101",
+        "Product_Detail": null,
+        "Price": "78",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KEN"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/ken-miso-700g-8853724005101",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kibun Age Ball 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunAgeBall120g-8852172100215-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852172100215",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/kibun-age-ball-120g-8852172100215",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sloanes Angus Beef Red Wine and Mushroom Pie 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesAngusBeefRedWineandMushroomPie250g-0736313265286-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0736313265286",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/sloanes-angus-beef-red-wine-and-mushroom-pie-250g-0736313265286",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "B Nature Passion Fruit Beet Root Carrot 230ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENATURE-BNaturePassionFruitBeetRootCarrot230ml-8859316800079-1?$JPEG$"
+        ],
+        "Quantity": "230ml",
+        "Barcode_Number": "8859316800079",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BE NATURE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/b-nature-passion-fruit-beet-root-carrot-230ml-8859316800079",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Premium Salmon Gravlax 100g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedPremiumSalmonGravlax100gC-8858781401187-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8858781401187",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-premium-salmon-gravlax-100gc-8858781401187",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tsubakit Fried Fish Ball 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KEN-KenFriedFishBall120g-8853724004012-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853724004012",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KEN"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tsubakit-fried-fish-ball-120g-8853724004012",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sengheng Stir Fried Tofu Sichuan 130g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENGHENG-SenghengStirFriedTofuSichuan130g-8853334001180-1"
+        ],
+        "Quantity": "130g",
+        "Barcode_Number": "8853334001180",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENGHENG"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sengheng-stir-fried-tofu-sichuan-130g-8853334001180",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Youngpoong Rice Cake Stick Type 600g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YOUNGPOONG-YoungpoongRiceCakeStickType600g-8809054401489-1"
+        ],
+        "Quantity": "600g",
+        "Barcode_Number": "8809054401489",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "YOUNGPOONG"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/youngpoong-rice-cake-stick-type-600g-8809054401489",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Sauce 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiSauce170g-8859242900249-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "8859242900249",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/sukishi-sauce-170g-8859242900249",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hom Groon Homemade Chicken Stock 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//HOMGROON-HomGroonHomemadeChickenStock200mlPack3-8857200237420-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8857200237420",
+        "Product_Detail": null,
+        "Price": "230",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HOM GROON"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/hom-groon-homemade-chicken-stock-200ml-pack-3-8857200237420",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kibun Koban Age 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KIBUN-KibunKobanAge120g-8852172100246-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8852172100246",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KIBUN"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/kibun-koban-age-120g-8852172100246",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Talatta Anchovy Fillets in Olives Oil 48g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TALATTA-TalattaAnchovyFilletsinOlivesOil48g-0810807520157-1"
+        ],
+        "Quantity": "48g",
+        "Barcode_Number": "0810807520157",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "TALATTA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/talatta-anchovy-fillets-in-olives-oil-48g-0810807520157",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Changwon Kimchi Radish 400g",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-ChangwonKimchiRadish400g-8857200458627-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8857200458627",
+        "Product_Detail": null,
+        "Price": "140",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/changwon-kimchi-radish-400g-8857200458627",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Guyvy Baked Chicken Breast 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-GuyvyBakedChickenBreast150g-8857124252059-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8857124252059",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "GUYVY"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/guyvy-baked-chicken-breast-150g-8857124252059",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Meunlee Spinach Egg Noodles 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MEUNLEE-MeunleeSpinachEggNoodles400g-8857120160037-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8857120160037",
+        "Product_Detail": null,
+        "Price": "51",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MEUNLEE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/meunlee-spinach-egg-noodles-400g-8857120160037",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tops Brand Kelp Noodle 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsBrandKelpNoodle300g-8853474065202-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8853474065202",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tops-brand-kelp-noodle-300g-8853474065202",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pulmuone Chilled Organic Silken Tofu with Sesame 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PULMUONE-PulmuoneChilledOrganicSilkenTofuwithSesame240g-8801114148600-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8801114148600",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/pulmuone-chilled-organic-silken-tofu-with-sesame-240g-8801114148600",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hikari Sokusekinama Misoshiru Wakame 216g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HIKARI-HikariSokusekinamaMisoshiruWakame216g-4902663010494-1"
+        ],
+        "Quantity": "216g",
+        "Barcode_Number": "4902663010494",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HIKARI"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/hikari-sokusekinama-misoshiru-wakame-216g-4902663010494",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Paysan Breton Chilled Crepes Filled Chocolate 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PAYSANBRETON-PaysanBretonChilledCrepesFourreesChocolate180g-3412290057713-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "3412290057713",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PAYSAN BRETON"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/paysan-breton-chilled-crepes-filled-chocolate-180g-3412290057713",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tops Sweet Radish 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsSweetRadish200g-8853474033614-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474033614",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/tops-sweet-radish-200g-8853474033614",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sakura Udon with Soup Powder 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SAKURA-SakuraUdonwithSoupPowder180g-8850208450334-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8850208450334",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SAKURA"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/sakura-udon-with-soup-powder-180g-8850208450334",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Coles Chilled Classic Tzatziki Dip 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COLES-ColesChilledClassicTzatzikiDip200g-9300601323388-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "9300601323388",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "COLES"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/coles-chilled-classic-tzatziki-dip-200g-9300601323388",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "PureFoods Shabu Sacue Original 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PUREFOODS-PureFoodsShabuSacueOriginal100g-8853165018876-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8853165018876",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PURE FOODS"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/purefoods-shabu-sacue-original-100g-8853165018876",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "KewpieSweet Corn & Bean Salad 110g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KEWPIE-KewpieSweetCornBeanSalad110g-8852022150018-1"
+        ],
+        "Quantity": "110g",
+        "Barcode_Number": "8852022150018",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KEWPIE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/kewpiesweet-corn-bean-salad-110g-8852022150018",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Mills Chilled Mayonnaise Spread 170g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//MILLS-MillsChilledMayonnaiseSpread170gC-7036110000213-1"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "7036110000213",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Import Products /// Pantry & Ingredients",
+            "MILLS"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/mills-chilled-mayonnaise-spread-170gc-7036110000213",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Green Papaya Kimchi 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiGreenPapayaKimchi150g-8859242900713-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859242900713",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/sukishi-green-papaya-kimchi-150g-8859242900713",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sakura Fresh Udon 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SAKURA-SakuraFreshUdon200g-8850208450310-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850208450310",
+        "Product_Detail": null,
+        "Price": "31",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SAKURA"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/sakura-fresh-udon-200g-8850208450310",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hikari Maru Yu Organic Dashi Iri Miso 375g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HIKARI-HikariMaruYuOrganicDashiIriMiso375g-4902663009719-1"
+        ],
+        "Quantity": "375g",
+        "Barcode_Number": "4902663009719",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HIKARI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/hikari-maru-yu-organic-dashi-iri-miso-375g-4902663009719",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sutiluk Sanitised Fermented Sausage 65g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUTILUK-SutilukSanitisedFermentedSausage65g-8853988000492-1"
+        ],
+        "Quantity": "65g",
+        "Barcode_Number": "8853988000492",
+        "Product_Detail": null,
+        "Price": "29",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUTILUK"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sutiluk-sanitised-fermented-sausage-65g-8853988000492",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "SeaMeNOW Frozen Rich Red Snow Crab Paste 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEEMENOW-SeaMeNOWRichRedSnowCrabPaste60g-8809056560511-1?$JPEG$"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8809056560511",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SEE ME NOW"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/seamenow-frozen-rich-red-snow-crab-paste-60g-8809056560511",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "El Sabor Nacho Sliced Jalapenos 225g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELSABOR-ElSaborNachoSlicedJalapenos225g-5202175004455-1"
+        ],
+        "Quantity": "225g",
+        "Barcode_Number": "5202175004455",
+        "Product_Detail": null,
+        "Price": "155",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "EL SABOR"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/el-sabor-nacho-sliced-jalapenos-225g-5202175004455",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tarami Fruits White Peach Jelly 160g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARAMI-TaramiFruitsWhitePeachJelly160g-4955129020100-1"
+        ],
+        "Quantity": "160g",
+        "Barcode_Number": "4955129020100",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "TARAMI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tarami-fruits-white-peach-jelly-160g-4955129020100",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sloanes Angus Steak and Stout Pie 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SLOANE-SloanesAngusSteakandStoutPie250g-0736313265293-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0736313265293",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SLOANE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sloanes-angus-steak-and-stout-pie-250g-0736313265293",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Marukome Soybean Pate Miso Soup 1kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARUKOME-MarukomeSoybeanPateMisoSoup1kg-4902713115162-1"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "4902713115162",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MARUKOME"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/marukome-soybean-pate-miso-soup-1kg-4902713115162",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tokki Go Go Tokpokki 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-TokkiGoGoTokpokki180g-8859242900041-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8859242900041",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tokki-go-go-tokpokki-140g-8859242900041",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Wasabio Fresh Wasabi Paste and Soy Sauce 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WASABIO-WasabioFreshWasabiPasteandSoySauce20g-8854958001211-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8854958001211",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WASABIO"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/wasabio-fresh-wasabi-paste-and-soy-sauce-20g-8854958001211",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "SengHeng Caramel Tofu 125g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENGHENG-SengHengCaramelTofu125g-8853334001067-1"
+        ],
+        "Quantity": "125g",
+        "Barcode_Number": "8853334001067",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SENGHENG"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/sengheng-caramel-tofu-125g-8853334001067",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Smiled Mushroom Shitake Ball 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SmiledMushroomShitakeBall200g-8851590998497-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8851590998497",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/smiled-mushroom-shitake-ball-200g-8851590998497",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kataoka Ito Konnyaku Shiro 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-KataokaItoKonnyakuShiro180g-4973057090019-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "4973057090019",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/kataoka-ito-konnyaku-shiro-180g-4973057090019",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Radish Kimchi 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiRadishKimchi150g-8859242900911-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859242900911",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "48",
+        "URL": "https://www.tops.co.th/en/sukishi-radish-kimchi-150g-8859242900911",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Korean Marinade Sauce 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiKoreanMarinadeSauce180g-8859242900447-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8859242900447",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/sukishi-korean-marinade-sauce-180g-8859242900447",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Japchae 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiJapchae240g-8859242900256-1?$JPEG$"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8859242900256",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/sukishi-japchae-240g-8859242900256",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Wasabio Wasabi Paste Chef Kants Recipe 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WASABIO-WasabioWasabiPasteChefKantsRecipe15g-8854958006636-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8854958006636",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WASABIO"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/wasabio-wasabi-paste-chef-kants-recipe-15g-8854958006636",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Favory Concentrated Japanese Style Black Shabu Soup 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FAVORY-FavoryConcentratedJapaneseStyleBlackShabuSoup250g-8853474071203-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8853474071203",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/favory-concentrated-japanese-style-black-shabu-soup-250g-8853474071203",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pure Foods Thai Barbecue Sauce 275g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PUREFOODS-PureFoodsThaiBarbecueSauce275g-8853165004985-1"
+        ],
+        "Quantity": "275g",
+        "Barcode_Number": "8853165004985",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PURE FOODS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/pure-foods-thai-barbecue-sauce-275g-8853165004985",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "JV Vegetarian Seaweed Fish 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JV-JVVegetarianSeaweedFish150g-8850743050167-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850743050167",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "JV"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/jv-vegetarian-seaweed-fish-150g-8850743050167",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "YoungPoong Yopokki Cheese Topokki 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YOUNGPOONG-YoungPoongYopokkiCheeseTopokki120g-8809054400864-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8809054400864",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "YOUNGPOONG"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/youngpoong-yopokki-cheese-topokki-120g-8809054400864",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sempio Kimchi jjigae Kimchi Stew Sauce 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEMPIO-SempioKimchijjigaeKimchiStewSauce75g-8801005931465-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8801005931465",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SEMPIO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/sempio-kimchi-jjigae-kimchi-stew-sauce-75g-8801005931465",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hikari Maru Yu Organic Miso 375g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HIKARI-HikariMaruYuOrganicMiso375g-4902663009702-1"
+        ],
+        "Quantity": "375g",
+        "Barcode_Number": "4902663009702",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HIKARI"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/hikari-maru-yu-organic-miso-375g-4902663009702",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Itsuki Yakisoba 170g. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//ITSUKI-ItsukiYakisoba170gPack2-4901726012482-1"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "4901726012482",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ITSUKI"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/itsuki-yakisoba-170g-pack-2-4901726012482",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hikair Organic Miso Dashi Miso 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HIKARI-HikairOrganicMisoDashiMiso400g-0858764000435-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "0858764000435",
+        "Product_Detail": null,
+        "Price": "249",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HIKARI"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/hikair-organic-miso-dashi-miso-400g-0858764000435",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Umi Crab Stick 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UMI-UmiCrabStick250g-8854241001218-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8854241001218",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "UMI"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/umi-crab-stick-250g-8854241001218",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Daesang Poggi Kimchi 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DAESANG-DaesangPoggiKimchi500g-8801024110100-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8801024110100",
+        "Product_Detail": null,
+        "Price": "285",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "DAESANG"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/daesang-poggi-kimchi-500g-8801024110100",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Carrefour Pate Feuilletee 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARREFOUR-CarrefourPateFeuilletee230g-3270190022534-1"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "3270190022534",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "1998",
+        "URL": "https://www.tops.co.th/en/carrefour-pate-feuilletee-230g-3270190022534",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Carrefour Pate Brisee 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARREFOUR-CarrefourPateBrisee230g-3270190022527-1"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "3270190022527",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "1999",
+        "URL": "https://www.tops.co.th/en/carrefour-pate-brisee-230g-3270190022527",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hagemu Fresh Ramen 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-HagemuFreshRamen400g-8859666410119-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8859666410119",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/hagemu-fresh-ramen-400g-8859666410119",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Jamese Chesse Cabbage Kimchi 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-JameseChesseCabbageKimchi150g-8859653600288-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859653600288",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/jamese-chesse-cabbage-kimchi-150g-8859653600288",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "YoungPoong Yopokki Sweet Spicy Topokki 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YOUNGPOONG-YoungPoongYopokkiSweetSpicyTopokki140g-8809054400888-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8809054400888",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "YOUNGPOONG"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/youngpoong-yopokki-sweet-spicy-topokki-140g-8809054400888",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pulmuone Vegan Kimchi 397g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PULMUONE-PulmuoneVeganKimchi397g-8801114144800-1?$JPEG$"
+        ],
+        "Quantity": "397g",
+        "Barcode_Number": "8801114144800",
+        "Product_Detail": null,
+        "Price": "225",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/pulmuone-vegan-kimchi-397g-8801114144800",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "El Sabor Big Wraps Original 370g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELSABOR-ElSaborBigWrapsOriginal420g-5202175002154-1"
+        ],
+        "Quantity": "370g",
+        "Barcode_Number": "5202175002154",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "EL SABOR"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/el-sabor-big-wraps-original-370g-5202175002154",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Miyakoichi Yode Udon 1000g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MIYAKOICHI-MiyakoichiYodeUdon1000g-4902817755103-1"
+        ],
+        "Quantity": "1000g",
+        "Barcode_Number": "4902817755103",
+        "Product_Detail": null,
+        "Price": "209",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MIYAKOICHI"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/miyakoichi-yode-udon-1000g-4902817755103",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Anggi Neishi Doufu 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ANGGI-AnggiNeishiDoufu350g-8854683003986-1"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "8854683003986",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ANG GI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/anggi-neishi-doufu-350g-8854683003986",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Tops Vietnamese Sausage Pork&Chicken 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsVietnameseSausagePorkChicken180g-8853474005956-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474005956",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tops-vietnamese-sausage-porkchicken-180g-8853474005956",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Momotaro Nama Ramen with Shoyu Soup 2in1 120g. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOMOTARO-MomotaroNamaRamenwithShoyuSoup2in1120gPack2-9557320000025-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "9557320000025",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MOMOTARO"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/momotaro-nama-ramen-with-shoyu-soup-2in1-120g-pack-2-9557320000025",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Vegie Delights Sausages BBQ Thick 100Percent Meat Free 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//VEGIEDELIGHTS-VegieDelightsSausagesBBQThick100PercentMeatFree300g-9349174000319-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "9349174000319",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Fresh Food & Bakery",
+            "VEGIE DELIGHTS"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/vegie-delights-sausages-bbq-thick-100percent-meat-free-300g-9349174000319",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "James Chesse  Samjang Sauce  150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMESCHEESE-JamesChesseSamjangSauce150g-8859653672780-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859653672780",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "JAMES CHEESE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/james-chesse-samjang-sauce-150g-8859653672780",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Korean Style Yuzu Pickled Lotus Root 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiKoreanStyleYuzuPickledLotusRoot150g-8859242900683-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859242900683",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/sukishi-korean-style-yuzu-pickled-lotus-root-150g-8859242900683",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Wasabi Sauce 75g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartWasabiSauce75gC-8858781401477-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8858781401477",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-wasabi-sauce-75gc-8858781401477",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Changwon Kimchi Napa Cabbage 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-ChangwonKimchiNapaCabbage180g-8857200458634-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8857200458634",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/changwon-kimchi-napa-cabbage-180g-8857200458634",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Ichiban Zaru Ramen 230g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//IJIBANG-IchibanZaruRamen230g-8855009000092-1?$JPEG$"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "8855009000092",
+        "Product_Detail": null,
+        "Price": "48",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "IJIBANG"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/ichiban-zaru-ramen-230g-8855009000092",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Favory Thai Chilli Dipping Sauce 220g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FAVORY-FavoryThaiChilliDippingSauce220g-8853474071180-1?$JPEG$"
+        ],
+        "Quantity": "220g",
+        "Barcode_Number": "8853474071180",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/favory-thai-chilli-dipping-sauce-220g-8853474071180",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Purefoods Mala Sauce 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PUREFOODS-PurefoodsMalaSauce500g-8853165021036-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8853165021036",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PURE FOODS"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/purefoods-mala-sauce-500g-8853165021036",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Smiled Mushroom Shitake & Pepper Ball 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SmiledMushroomShitakePepperBall200g-8851590999494-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8851590999494",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/smiled-mushroom-shitake-pepper-ball-200g-8851590999494",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "SpaFoods  Veggie Prawn 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPAFOODS-SpaFoodsVeggiePrawn100g-8850743390232-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850743390232",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SPA FOODS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/spafoods-veggie-prawn-100g-8850743390232",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hanil Mild Udon 210g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HANIL-HanilMildUdon210g-8801085010104-1"
+        ],
+        "Quantity": "210g",
+        "Barcode_Number": "8801085010104",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HANIL"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/hanil-mild-udon-210g-8801085010104",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "CJ Sweet & Spicy Tokpokki Hot Sauce 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CJ-CJSweetSpicyTokpokkiHotSauce150g-8801007434681-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8801007434681",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "C.J."
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/cj-sweet-spicy-tokpokki-hot-sauce-150g-8801007434681",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sempio Gochujang BBQ Chicken Hot Spicy Stir Fry Sauce 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEMPIO-SempioGochujangBBQChickenHotSpicyStirFrySauce90g-8801005931496-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8801005931496",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SEMPIO"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sempio-gochujang-bbq-chicken-hot-spicy-stir-fry-sauce-90g-8801005931496",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Elsabor Cheese Dip 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELSABOR-ElsaborCheeseDip300g-5202175004288-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "5202175004288",
+        "Product_Detail": null,
+        "Price": "185",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "EL SABOR"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/elsabor-cheese-dip-300g-5202175004288",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kataoka Ita Konnyaku 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-KataokaItaKonnyaku200g-4973057090033-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "4973057090033",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/kataoka-ita-konnyaku-200g-4973057090033",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Marukome Ekimiso Ryotel No Aji 430g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARUKOME-MarukomeEkimisoRyotelNoAji430g-4902713126748-1"
+        ],
+        "Quantity": "430g",
+        "Barcode_Number": "4902713126748",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MARUKOME"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/marukome-ekimiso-ryotel-no-aji-430g-4902713126748",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hikari Junsei Shinshu Miso 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HIKARI-HikariJunseiShinshuMiso400g-4902663007531-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "4902663007531",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HIKARI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/hikari-junsei-shinshu-miso-400g-4902663007531",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Momotaro Nama Zarusoba with Soup 120g. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOMOTARO-MomotaroNamaZarusobawithSoup120gPack2-9557320000063-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "9557320000063",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOMOTARO"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/momotaro-nama-zarusoba-with-soup-120g-pack-2-9557320000063",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Yumis Aioli Dips with Pesto 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YUMI-YumisAioliDipswithPesto200g-9317444001373-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "9317444001373",
+        "Product_Detail": null,
+        "Price": "143",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Fresh Food & Bakery",
+            "YUMI"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/yumis-aioli-dips-with-pesto-200g-9317444001373",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Black Swan Tzatziki Dips 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BLACKSWAN-BlackSwanTzatzikiDips200g-9310228002986-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "9310228002986",
+        "Product_Detail": null,
+        "Price": "190",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BLACK SWAN"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/black-swan-tzatziki-dips-200g-9310228002986",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Korean Spicy Kimchi Pork Ribs Soup 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiKoreanSpicyKimchiPorkRibsSoup300g-8859242900348-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8859242900348",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/sukishi-korean-spicy-kimchi-pork-ribs-soup-300g-8859242900348",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Changwon Gochujan Sauce 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHANGWON-ChangwonGochujanSauce500g-8857127939520-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8857127939520",
+        "Product_Detail": null,
+        "Price": "140",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHANGWON"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/changwon-gochujan-sauce-500g-8857127939520",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Wasabio Wasabi Paste Chef Kants Recipe 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WASABIO-WasabioWasabiPasteChefKantsRecipe150g-8854958006643-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8854958006643",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "WASABIO"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/wasabio-wasabi-paste-chef-kants-recipe-150g-8854958006643",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Wasabio Wasabi Sauce 10g.Pack2",
+        "Product_Images": [
+            "https://assets.tops.co.th//WASABIO-WasabioWasabiSauce10gPack2-8854958001495-1"
+        ],
+        "Quantity": "10g",
+        "Barcode_Number": "8854958001495",
+        "Product_Detail": null,
+        "Price": "33",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WASABIO"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/wasabio-wasabi-sauce-10gpack2-8854958001495",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Wasabio Wasabi Paste 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WASABIO-WasabioWasabiPaste100g-8854958001228-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8854958001228",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "WASABIO"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/wasabio-wasabi-paste-100g-8854958001228",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kewpie Egg Salad with Potato 110g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KEWPIE-KewpieEggSaladwithPotato110g-8852022150032-1"
+        ],
+        "Quantity": "110g",
+        "Barcode_Number": "8852022150032",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KEWPIE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/kewpie-egg-salad-with-potato-110g-8852022150032",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Youta Vegetarian Cocktail Sausage 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YOUTA-YoutaVegetarianCocktailSausage180g-8851032520521-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8851032520521",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "YOUTA"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/youta-vegetarian-cocktail-sausage-180g-8851032520521",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Spa Foods Veggie Chinese Sausage 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPAFOODS-SpaFoodsVeggieChineseSausage200g-8850743390065-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850743390065",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SPA FOODS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/spa-foods-veggie-chinese-sausage-200g-8850743390065",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "YoungPoong Yopokki Hot Spicy Topokki 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YOUNGPOONG-YoungPoongYopokkiHotSpicyTopokki120g-8809054400871-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8809054400871",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "YOUNGPOONG"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/youngpoong-yopokki-hot-spicy-topokki-120g-8809054400871",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pulmuone Noodles With Savory Black Bean Sauce 664g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PULMUONE-PulmuoneNoodlesWithSavoryBlackBeanSauce664g-8801114151556-1?$JPEG$"
+        ],
+        "Quantity": "664g",
+        "Barcode_Number": "8801114151556",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/pulmuone-noodles-with-savory-black-bean-sauce-664g-8801114151556",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Talatta Anchovy Fillets in Olives Oil 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TALATTA-TalattaAnchovyFilletsinOlivesOil350g-8010807000693-1"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "8010807000693",
+        "Product_Detail": null,
+        "Price": "990",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "TALATTA"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/talatta-anchovy-fillets-in-olives-oil-350g-8010807000693",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Umeichiban Honey with Salted Plum 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UMEICHIBAN-UmeichibanHoneywithSaltedPlum150g-4970776100036-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "4970776100036",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "UMEICHIBAN"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/umeichiban-honey-with-salted-plum-150g-4970776100036",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Bell Gokui Gara Aji Tonkotsu Ramen Soup 42g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BEL-BellGokuiGaraAjiTonkotsuRamenSoup42g-4902504214616-1?$JPEG$"
+        ],
+        "Quantity": "42g",
+        "Barcode_Number": "4902504214616",
+        "Product_Detail": null,
+        "Price": "23",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "BEL"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/bell-gokui-gara-aji-tonkotsu-ramen-soup-42g-4902504214616",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Carrefour Anchois Marines A L Ail 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARREFOUR-CarrefourAnchoisMarinesALAil150g-3560070693436-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "3560070693436",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/carrefour-anchois-marines-a-l-ail-150g-3560070693436",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Labeyrie Red Lumpfish Roe 80g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartLabeyrieRedLumpfishRoe80gC-3292070101818-1"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "3292070101818",
+        "Product_Detail": null,
+        "Price": "490",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/thammachart-labeyrie-red-lumpfish-roe-80gc-3292070101818",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Paysan Breton Chilled 12 Crepes Vanilla 370g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PAYSANBRETON-PaysanBretonChilled12CrepesVanilla370g-3218930057392-1?$JPEG$"
+        ],
+        "Quantity": "370g",
+        "Barcode_Number": "3218930057392",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PAYSAN BRETON"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/paysan-breton-chilled-12-crepes-vanilla-370g-3218930057392",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Mango Cold Press Juice 480ml.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MangoColdPressJuice480mlC-0000048661980-1"
+        ],
+        "Quantity": "480ml",
+        "Barcode_Number": "0000048661980",
+        "Product_Detail": null,
+        "Price": "288",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/mango-cold-press-juice-480mlc-0000048661980",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Guava Cold Pressed Juice 550ml.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-GuavaColdPressedJuice550mlC-0000048604666-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "0000048604666",
+        "Product_Detail": null,
+        "Price": "228",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/guava-cold-pressed-juice-550mlc-0000048604666",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Mangosteen Cold Pressed Juice(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MangosteenColdPressedJuiceC-0000048597043-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048597043",
+        "Product_Detail": null,
+        "Price": "359",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/mangosteen-cold-pressed-juicec-0000048597043",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Tuna Marinated Shoyu(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartTunaMarinatedShoyuC-0000048585385-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048585385",
+        "Product_Detail": null,
+        "Price": "299",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/thammachart-tuna-marinated-shoyuc-0000048585385",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Marinated Shoyu Set(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartMarinatedShoyuSetC-0000048584371-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048584371",
+        "Product_Detail": null,
+        "Price": "259",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/thammachart-marinated-shoyu-setc-0000048584371",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Momotaro Yakisoba 3in1",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOMOTARO-MomotaroYakisoba3in1-9557320000308-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "9557320000308",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MOMOTARO"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/momotaro-yakisoba-3in1-9557320000308",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Momotaro Nama Tonkatsu Ramen Soup 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOMOTARO-MomotaroNamaTonkatsuRamenSoup240g-9557320000285-1"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "9557320000285",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MOMOTARO"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/momotaro-nama-tonkatsu-ramen-soup-240g-9557320000285",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Momotaro Nama Ramen with Miso Soup 120g. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOMOTARO-MomotaroNamaRamenwithMisoSoup120gPack2-9557320000261-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "9557320000261",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MOMOTARO"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/momotaro-nama-ramen-with-miso-soup-120g-pack-2-9557320000261",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Momotaro Nama Chasoba with Soup 120g. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOMOTARO-MomotaroNamaChasobawithSoup120gPack2-9557320000049-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "9557320000049",
+        "Product_Detail": null,
+        "Price": "145",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MOMOTARO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/momotaro-nama-chasoba-with-soup-120g-pack-2-9557320000049",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "EFresco Marinated Green Split Olives 185g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EFRESCO-EFrescoMarinatedGreenSplitOlives185g-9332956012945-1?$JPEG$"
+        ],
+        "Quantity": "185g",
+        "Barcode_Number": "9332956012945",
+        "Product_Detail": null,
+        "Price": "143",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Fresh Food & Bakery",
+            "EFRESCO"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/efresco-marinated-green-split-olives-185g-9332956012945",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "EFresco Kalamata Olive Whole in Brine 185g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//EFRESCO-EFrescoKalamataOliveWholeinBrine185g-9332956012921-1?$JPEG$"
+        ],
+        "Quantity": "185g",
+        "Barcode_Number": "9332956012921",
+        "Product_Detail": null,
+        "Price": "143",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Fresh Food & Bakery",
+            "EFRESCO"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/efresco-kalamata-olive-whole-in-brine-185g-9332956012921",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "James Chesse Bibim Sauce 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMESCHEESE-JamesChesseBibimSauce150g-8859653672803-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859653672803",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "JAMES CHEESE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/james-chesse-bibim-sauce-150g-8859653672803",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "James Chesse ChoGanjang 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMESCHEESE-JamesChesseChoGanjang150g-8859653672766-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859653672766",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "JAMES CHEESE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/james-chesse-choganjang-150g-8859653672766",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "James Chesse BBQ  Sauce 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JAMESCHEESE-JamesChesseBBQSauce150g-8859653672759-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8859653672759",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "JAMES CHEESE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/james-chesse-bbq-sauce-150g-8859653672759",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sukishi Stir Fried Spicy Korean Octopus 225g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUKISHI-SukishiStirFriedSpicyKoreanOctopus225g-8859242900560-1?$JPEG$"
+        ],
+        "Quantity": "225g",
+        "Barcode_Number": "8859242900560",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "SUKISHI"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/sukishi-stir-fried-spicy-korean-octopus-225g-8859242900560",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kaoloon Japche Noodle 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KAOLOON-KaoloonJapcheNoodle200g-8853843000315-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853843000315",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KAOLOON"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/kaoloon-japche-noodle-200g-8853843000315",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Favory Concentrated Thai Herb Hot Pot Soup 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FAVORY-FavoryConcentratedThaiHerbHotPotSoup250g-8853474071210-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8853474071210",
+        "Product_Detail": null,
+        "Price": "52",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "FAVORY"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/favory-concentrated-thai-herb-hot-pot-soup-250g-8853474071210",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "PureFoods Shabu Sacue Original 900g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PUREFOODS-PureFoodsShabuSacueOriginal900g-8853165017992-1"
+        ],
+        "Quantity": "900g",
+        "Barcode_Number": "8853165017992",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PURE FOODS"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/purefoods-shabu-sacue-original-900g-8853165017992",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Smiled Mushroom Shitake Jumbo Ball 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SmiledMushroomShitakeJumboBall200g-8851590999500-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8851590999500",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/smiled-mushroom-shitake-jumbo-ball-200g-8851590999500",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Youta Vegetarian Crispy Fish 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YOUTA-YoutaVegetarianCrispyFish180g-8851032510638-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8851032510638",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "YOUTA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/youta-vegetarian-crispy-fish-180g-8851032510638",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Kani Family Imitation Snow Crab Leg 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KANIFAMILY-KaniFamilyImitationSnowCrabLeg200g-8850524561424-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850524561424",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "KANI FAMILY"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/kani-family-imitation-snow-crab-leg-200g-8850524561424",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Ham&Brie Superior Spanish Ham and Sausage Set 210g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-HamBrieSuperiorSpanishHamandSausageSet210gC-8850332000917-1?$JPEG$"
+        ],
+        "Quantity": "210g",
+        "Barcode_Number": "8850332000917",
+        "Product_Detail": null,
+        "Price": "599",
+        "Labels": [
+            "Fresh Food & Bakery /// Chilled Foods /// Ready To Eat Meal",
+            "HAM&BRIE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/hambrie-superior-spanish-ham-and-sausage-set-210gc-8850332000917",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Pulmuone Organic Silken Tofu with Yuzu 236g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PULMUONE-PulmuoneOrganicSilkenTofuwithYuzu236g-8801114145975-1?$JPEG$"
+        ],
+        "Quantity": "236g",
+        "Barcode_Number": "8801114145975",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PULMUONE"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/pulmuone-organic-silken-tofu-with-yuzu-236g-8801114145975",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hanil Daeuchi Udon 480g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HANIL-HanilDaeuchiUdon480g-8801085010371-1"
+        ],
+        "Quantity": "480g",
+        "Barcode_Number": "8801085010371",
+        "Product_Detail": null,
+        "Price": "155",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HANIL"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/hanil-daeuchi-udon-480g-8801085010371",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sempio Soondubu Jjigae Spicy Tofu Stew Sauce 110g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEMPIO-SempioSoondubuJjigaeSpicyTofuStewSauce110g-8801005931472-1"
+        ],
+        "Quantity": "110g",
+        "Barcode_Number": "8801005931472",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SEMPIO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sempio-soondubu-jjigae-spicy-tofu-stew-sauce-110g-8801005931472",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Sempio Korean BBQ Bulgogi Original Stir Fry Sauce 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEMPIO-SempioKoreanBBQBulgogiOriginalStirFrySauce75g-8801005931434-1"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8801005931434",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "SEMPIO"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/sempio-korean-bbq-bulgogi-original-stir-fry-sauce-75g-8801005931434",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Elpozo Salchichon Original 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ELPOZO-ElpozoSalchichonOriginal80g-8410843105114-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8410843105114",
+        "Product_Detail": null,
+        "Price": "185",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ELPOZO"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/elpozo-salchichon-original-80g-8410843105114",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Delizie Di Calabria Spicy Spreadable Salami 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DELIZIEDICALABRIA-DelizieDiCalabriaSpicySpreadableSalami180g-8007548012474-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8007548012474",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "DELIZIE DI CALABRIA"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/delizie-di-calabria-spicy-spreadable-salami-180g-8007548012474",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Mills Chilled Marinated Herring Pieces in Curry Sauce 225g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//MILLS-MillsChilledMarinatedHerringPiecesinCurrySauce225gC-7036110211152-1"
+        ],
+        "Quantity": "225g",
+        "Barcode_Number": "7036110211152",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MILLS"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/mills-chilled-marinated-herring-pieces-in-curry-sauce-225gc-7036110211152",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Masuya Haccho Miso 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MasuyaHacchoMiso300g-4970216100282-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "4970216100282",
+        "Product_Detail": null,
+        "Price": "285",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/masuya-haccho-miso-300g-4970216100282",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hikari Enjuku Koji Stick Miso 20g. Pack 20pcs.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HIKARI-HikariEnjukuKojiStickMiso20gPack20pcs-4902663013532-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "4902663013532",
+        "Product_Detail": null,
+        "Price": "185",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "HIKARI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/hikari-enjuku-koji-stick-miso-20g-pack-20pcs-4902663013532",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hikari Shinshuya Inaka Miso 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HIKARI-HikariShinshuyaInakaMiso400g-4902663007524-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "4902663007524",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HIKARI"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/hikari-shinshuya-inaka-miso-400g-4902663007524",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Bell Gokui Gara Aji Tonkotsu Shoyu Aji Ramen Soup 39ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BEL-BellGokuiGaraAjiTonkotsuShoyuAjiRamenSoup39ml-4902504214418-1?$JPEG$"
+        ],
+        "Quantity": "39ml",
+        "Barcode_Number": "4902504214418",
+        "Product_Detail": null,
+        "Price": "23",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "BEL"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/bell-gokui-gara-aji-tonkotsu-shoyu-aji-ramen-soup-39ml-4902504214418",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hanamaruki Sokuseki Shijimi 148g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HANAMARUKI-HanamarukiSokusekiShijimi148g-4902401236063-1?$JPEG$"
+        ],
+        "Quantity": "148g",
+        "Barcode_Number": "4902401236063",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/hanamaruki-sokuseki-shijimi-148g-4902401236063",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Hanamaruki Sokuseki Asari 148g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HANAMARUKI-HanamarukiSokusekiAsari148g-4902401235066-1"
+        ],
+        "Quantity": "148g",
+        "Barcode_Number": "4902401235066",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "HANAMARUKI"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/hanamaruki-sokuseki-asari-148g-4902401235066",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Paysan Breton Chilled Crepes Filled Strawberry 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PAYSANBRETON-PaysanBretonChilledCrepesFourreesStrawberry180g-3412290057737-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "3412290057737",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "PAYSAN BRETON"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/paysan-breton-chilled-crepes-filled-strawberry-180g-3412290057737",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Carrefour Pate De Campagne 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARREFOUR-CarrefourPateDeCampagne180g-3270190203421-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "3270190203421",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CARREFOUR"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/carrefour-pate-de-campagne-180g-3270190203421",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Rougi Block Foie Gras with Truffle 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROUGIE-RougiBlockFoieGraswithTruffle75g-3161450164708-1?$JPEG$"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "3161450164708",
+        "Product_Detail": null,
+        "Price": "1499",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "ROUGIE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/rougi-block-foie-gras-with-truffle-75g-3161450164708",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "La Monegasque Anchovies Fillets in Blended Oil 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MONEGASQUE-LaMonegasqueAnchoviesFilletsinBlendedOil250g-3155890001822-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "3155890001822",
+        "Product_Detail": null,
+        "Price": "820",
+        "Labels": [
+            "Promotion /// Import Products /// Fresh Food & Bakery",
+            "MONEGASQUE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/la-monegasque-anchovies-fillets-in-blended-oil-250g-3155890001822",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart All About Salmon Platter(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartAllAboutSalmonPlatterC-0000048382809-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048382809",
+        "Product_Detail": null,
+        "Price": "1690",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "THAMMACHART"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/thammachart-all-about-salmon-platterc-0000048382809",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    },
+    {
+        "Product_Name": "Thammachart Happy Sashimi Set 1kg.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartHappySashimiSet1kgC-0000048382731-1?$JPEG$"
+        ],
+        "Quantity": "1kg",
+        "Barcode_Number": "0000048382731",
+        "Product_Detail": null,
+        "Price": "2290",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "THAMMACHART"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/thammachart-happy-sashimi-set-1kgc-0000048382731",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "chilled_foods"
+    }
+]

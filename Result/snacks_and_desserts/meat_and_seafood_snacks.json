@@ -1,0 +1,2378 @@
+[
+    {
+        "Product_Name": "(OTOP) Tongtin Toone Tuna Floss Nori Seaweed 40g",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOONE-TooneTunaFlossNoriSeaweed40g-8857127179667-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8857127179667",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Chilli pasted & Sauces",
+            "TOONE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/otop-tongtin-toone-tuna-floss-nori-seaweed-40g-8857127179667",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "(OTOP) Tongtin Gokob Fish Chips Spicy BBQ Flavour 40g",
+        "Product_Images": [
+            "https://assets.tops.co.th//GOKOB-TongtinGokobFishChipsSpicyBBQFlavour40g-8857128151150-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8857128151150",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Snack&Confectionery",
+            "GOKOB"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/otop-tongtin-gokob-fish-chips-spicy-bbq-flavour-40g-8857128151150",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "(OTOP) Tongtin Gokob Fish Chips Seaweed Flavour 40g",
+        "Product_Images": [
+            "https://assets.tops.co.th//GOKOB-TongtinGokobFishChipsSeaweedFlavour40g-8857128151143-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8857128151143",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Snack&Confectionery",
+            "GOKOB"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/otop-tongtin-gokob-fish-chips-seaweed-flavour-40g-8857128151143",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Nasreen Baked Crispy Fish Spicy Flavour 30g",
+        "Product_Images": [
+            "https://assets.tops.co.th//NASREEN-NasreenBakedCrispyFishSpicyFlavour30g-8857124642355-1?$JPEG$"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8857124642355",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "NASREEN"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/nasreen-baked-crispy-fish-spicy-flavour-30g-8857124642355",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Seaweed Olive Oil 12g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanSeaweedOliveOil15g-8857121554026-1"
+        ],
+        "Quantity": "12g",
+        "Barcode_Number": "8857121554026",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "YANGBAN"
+        ],
+        "Stock": "59",
+        "URL": "https://www.tops.co.th/en/yangban-seaweed-olive-oil-12g-8857121554026",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Lite Fish Snack Original Flavoured 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroLiteFishSnackOriginalFlavoured20g-8852044929432-1?$JPEG$"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8852044929432",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Meat Snacks",
+            "TARO"
+        ],
+        "Stock": "101",
+        "URL": "https://www.tops.co.th/en/taro-lite-fish-snack-original-flavoured-20g-8852044929432",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack Concentrated 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackConcentrated20g-8852044110267-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8852044110267",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "57",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-concentrated-20g-8852044110267",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bento Squid Sweet & Spicy 18g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENTO-BentoSquidSweetSpicy18g-8850157400107-1"
+        ],
+        "Quantity": "18g",
+        "Barcode_Number": "8850157400107",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "BENTO"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/bento-squid-sweet-spicy-18g-8850157400107",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Masita Seaweed Original 4g",
+        "Product_Images": [
+            "https://assets.tops.co.th//MASITA-MasitaSeaweedRoastedKoreanStyleOriginal5g-8850999005218-1"
+        ],
+        "Quantity": "4g",
+        "Barcode_Number": "8850999005218",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Shop by Brands /// Singha /// Masita",
+            "MASITA"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/masita-seaweed-original-4g-8850999005218",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Roll Fish Snack Spicy 13g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroRollFishSnackSpicy13g-8852044266490-1"
+        ],
+        "Quantity": "13g",
+        "Barcode_Number": "8852044266490",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/taro-roll-fish-snack-spicy-13g-8852044266490",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taotong Squid 10g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LADYBIRD-TaotongSquid10g-8850112061732-1?$JPEG$"
+        ],
+        "Quantity": "10g",
+        "Barcode_Number": "8850112061732",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TAOTONG"
+        ],
+        "Stock": "128",
+        "URL": "https://www.tops.co.th/en/taotong-squid-10g-8850112061732",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Entree BBQ Pork Classic 16g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ENTREE-EntreeBBQPorkClassic16g-8850269520021-1"
+        ],
+        "Quantity": "16g",
+        "Barcode_Number": "8850269520021",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Shop by Brands /// SINO Brands /// snack",
+            "ENTREE"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/entree-bbq-pork-classic-16g-8850269520021",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack BBQ 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackBBQ20g-8852044110366-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8852044110366",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-bbq-20g-8852044110366",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack Super Sab 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackSuperSab20g-8852044111660-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8852044111660",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-super-sab-20g-8852044111660",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokeanoi Big Roll Seaweed Japanese Style Classic Flavour 7.5g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokeanoiBigRollSeaweedJapaneseStyleClassicFlavour75g-8858702410748-1"
+        ],
+        "Quantity": "7.5g",
+        "Barcode_Number": "8858702410748",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "TAOKAENOI"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/taokeanoi-big-roll-seaweed-japanese-style-classic-flavour-75g-8858702410748",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Jack Links BBQ Beef Jerry 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JACKLINKS-JackLinksBBQBeefJerry50g-9421013441504-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "9421013441504",
+        "Product_Detail": null,
+        "Price": "169",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "JACKLINKS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/jack-links-bbq-beef-jerry-50g-9421013441504",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack Concentrated 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackConcentrated30g-8852044110281-1"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8852044110281",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-concentrated-30g-8852044110281",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Fried Seaweed Spicy 10g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiFriedSeaweedSpicy10g-8857107230449-1"
+        ],
+        "Quantity": "10g",
+        "Barcode_Number": "8857107230449",
+        "Product_Detail": null,
+        "Price": "21",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/taokaenoi-fried-seaweed-spicy-10g-8857107230449",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Fried Seaweed 10g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiFriedSeaweed10g-8857107230159-1"
+        ],
+        "Quantity": "10g",
+        "Barcode_Number": "8857107230159",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/taokaenoi-fried-seaweed-10g-8857107230159",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Sauce Coated Fish Snack Spicy Cuttlefish Flavoured 18g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroSauceCoatedFishSnackSpicyCuttlefishFlavoured18g-8852044349612-1"
+        ],
+        "Quantity": "18g",
+        "Barcode_Number": "8852044349612",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "38",
+        "URL": "https://www.tops.co.th/en/taro-sauce-coated-fish-snack-spicy-cuttlefish-flavoured-18g-8852044349612",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnack20g-8852044110168-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8852044110168",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "28",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-20g-8852044110168",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Fish Snack Extreme Hot Cuttlefish Flavoured 27g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-FishSnackExtremeHotCuttlefishFlavoured27g-8852044053519-1"
+        ],
+        "Quantity": "27g",
+        "Barcode_Number": "8852044053519",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/fish-snack-extreme-hot-cuttlefish-flavoured-27g-8852044053519",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Godbawee Seaweed Original 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GODBAWEE-GodbaweeSeaweedOriginal15g-8809146900081-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8809146900081",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "GODBAWEE"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/godbawee-seaweed-original-15g-8809146900081",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Entree Crispy Pork Rinds Classic 14g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ENTREE-EntreeCrispyPorkRindsClassic14g-8850269522759-1"
+        ],
+        "Quantity": "14g",
+        "Barcode_Number": "8850269522759",
+        "Product_Detail": null,
+        "Price": "21",
+        "Labels": [
+            "Shop by Brands /// SINO Brands /// snack",
+            "ENTREE"
+        ],
+        "Stock": "42",
+        "URL": "https://www.tops.co.th/en/entree-crispy-pork-rinds-classic-14g-8850269522759",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Sauce Coated Fish Snack Extreme Hot Cuttlefish Flavoured 18g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroSauceCoatedFishSnackExtremeHotCuttlefishFlavoured18g-8852044389717-1"
+        ],
+        "Quantity": "18g",
+        "Barcode_Number": "8852044389717",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/taro-sauce-coated-fish-snack-extreme-hot-cuttlefish-flavoured-18g-8852044389717",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Twice Seaweed 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanTwiceSeaweed50g-8801047225102-1"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8801047225102",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "YANGBAN"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/yangban-twice-seaweed-50g-8801047225102",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Big Sheet Seaweed Classic 28g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiBigSheetSeaweedClassic28g-8858702402385-1"
+        ],
+        "Quantity": "28g",
+        "Barcode_Number": "8858702402385",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "TAOKAENOI"
+        ],
+        "Stock": "78",
+        "URL": "https://www.tops.co.th/en/taokaenoi-big-sheet-seaweed-classic-28g-8858702402385",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bento Squid 18G.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENTO-BentoSquid18G-8850157400022-1"
+        ],
+        "Quantity": "18g",
+        "Barcode_Number": "8850157400022",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "BENTO"
+        ],
+        "Stock": "26",
+        "URL": "https://www.tops.co.th/en/bento-squid-18g-8850157400022",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Seasoned Laver Classic Flavour 7.8g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiSeasonedLaverClassicFlavour99g-8858702425476-1"
+        ],
+        "Quantity": "7.8g",
+        "Barcode_Number": "8858702425476",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "26",
+        "URL": "https://www.tops.co.th/en/taokaenoi-seasoned-laver-classic-flavour-78g-8858702425476",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Fried Seaweed Spicy 26g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiFriedSeaweedSpicy26g-8857107230074-1"
+        ],
+        "Quantity": "26g",
+        "Barcode_Number": "8857107230074",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "TAOKAENOI"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/taokaenoi-fried-seaweed-spicy-26g-8857107230074",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack Spicy 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackSpicy50g-8852044210417-1"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8852044210417",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// High Protein",
+            "TARO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-spicy-50g-8852044210417",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Seaweed Seasoned Laver with Olive and Sunflower Oil 12g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanSeaweedSeasonedLaverwithOliveandSunflowerOil12g-8857121554088-1"
+        ],
+        "Quantity": "12g",
+        "Barcode_Number": "8857121554088",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "YANGBAN"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/yangban-seaweed-seasoned-laver-with-olive-and-sunflower-oil-12g-8857121554088",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bento Squid Seafood 18g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENTO-BentoSquidSeafood18g-8850157400190-1"
+        ],
+        "Quantity": "18g",
+        "Barcode_Number": "8850157400190",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "BENTO"
+        ],
+        "Stock": "38",
+        "URL": "https://www.tops.co.th/en/bento-squid-seafood-18g-8850157400190",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Seaweed Olive Oil 16g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanSeaweedOliveOil20g-8801047223184-1"
+        ],
+        "Quantity": "16g",
+        "Barcode_Number": "8801047223184",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "YANGBAN"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/yangban-seaweed-olive-oil-16g-8801047223184",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Seaweed Roasted Classic 4g. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiSeaweedRoastedClassic12g-8858702425216-1"
+        ],
+        "Quantity": "4g",
+        "Barcode_Number": "8858702425216",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/taokaenoi-seaweed-roasted-classic-4g-pack-3-8858702425216",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Greatland Seaweed 45g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GREATLAND-GreatlandSeaweed45g-8851965000039-1"
+        ],
+        "Quantity": "45g",
+        "Barcode_Number": "8851965000039",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "GREATLAND"
+        ],
+        "Stock": "34",
+        "URL": "https://www.tops.co.th/en/greatland-seaweed-45g-8851965000039",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Masita Seaweed Roasted Korean Style Spicy 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MASITA-MasitaSeaweedRoastedKoreanStyleSpicy15g-8850999007519-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8850999007519",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Shop by Brands /// Singha /// Masita",
+            "MASITA"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/masita-seaweed-roasted-korean-style-spicy-15g-8850999007519",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Godbawee Seaweed Kimchi 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GODBAWEE-GodbaweeSeaweedKimchi15g-8809146900067-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8809146900067",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "GODBAWEE"
+        ],
+        "Stock": "29",
+        "URL": "https://www.tops.co.th/en/godbawee-seaweed-kimchi-15g-8809146900067",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack Korean 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackKorean20g-8852044367425-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8852044367425",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-korean-20g-8852044367425",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bento Fish Snack Soy Sauce 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENTO-BentoFishSnackSoySauce15g-8850157400589-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8850157400589",
+        "Product_Detail": null,
+        "Price": "10",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "BENTO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/bento-fish-snack-soy-sauce-15g-8850157400589",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack BBQ 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackBBQ30g-8852044110380-1"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8852044110380",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-bbq-30g-8852044110380",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack Hot Chilli 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackHotChilli50g-8852044476011-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8852044476011",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// High Protein",
+            "TARO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-hot-chilli-50g-8852044476011",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Squidy Crispy Squid 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SQUIDY-SquidyCrispySquid20g-8855588110144-1?$JPEG$"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8855588110144",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SQUIDY"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/squidy-crispy-squid-20g-8855588110144",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack BBQ 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackBBQ50g-8852044230514-1"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8852044230514",
+        "Product_Detail": null,
+        "Price": "50",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// High Protein",
+            "TARO"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-bbq-50g-8852044230514",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Double Roasted Seasoned Laver 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanDoubleRoastedSeasonedLaver15g-8857121554064-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8857121554064",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "YANGBAN"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/yangban-double-roasted-seasoned-laver-15g-8857121554064",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Seasoned Laver with Olive and Canola Oil with Himalayan Pink Salt 12g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanSeasonedLaverwithOliveandCanolaOilwithHimalayanPinkSalt12g-8857121554033-1"
+        ],
+        "Quantity": "12g",
+        "Barcode_Number": "8857121554033",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "YANGBAN"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/yangban-seasoned-laver-with-olive-and-canola-oil-with-himalayan-pink-salt-12g-8857121554033",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Roll Fish Snack Barbecue 13g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroRollFishSnackBarbecue13g-8852044236387-1"
+        ],
+        "Quantity": "13g",
+        "Barcode_Number": "8852044236387",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TARO"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/taro-roll-fish-snack-barbecue-13g-8852044236387",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Seasoned Laver Spicy Flavour 7.8g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiSeasonedLaverSpicyFlavour99g-8858702425506-1"
+        ],
+        "Quantity": "7.8g",
+        "Barcode_Number": "8858702425506",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/taokaenoi-seasoned-laver-spicy-flavour-78g-8858702425506",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "NOI Crispy Seaweed with Popping Grains Original 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NOI-NOICrispySeaweedwithPoppingGrainsOriginal40g-8850291105562-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8850291105562",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Vegan",
+            "NOI"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/noi-crispy-seaweed-with-popping-grains-original-40g-8850291105562",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Panda Seasoned Seaweed Original Flavour 6.5g. Pack 24",
+        "Product_Images": [
+            "https://assets.tops.co.th//PANDA-PandaSeasonedSeaweedOriginalFlavour65gPack24-8859380302318-1?$JPEG$"
+        ],
+        "Quantity": "6.5g",
+        "Barcode_Number": "8859380302318",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "PANDA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/panda-seasoned-seaweed-original-flavour-65g-pack-24-8859380302318",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Seaweed Sesame Oil 12g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanSeaweedSesameOil15g-8857121554019-1"
+        ],
+        "Quantity": "12g",
+        "Barcode_Number": "8857121554019",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "YANGBAN"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/yangban-seaweed-sesame-oil-12g-8857121554019",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taotong Squid 16.50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LADYBIRD-TaotongSquid1650g-8850112116111-1"
+        ],
+        "Quantity": "16.50g",
+        "Barcode_Number": "8850112116111",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TAOTONG"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/taotong-squid-1650g-8850112116111",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Squidy Crispy Squid 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SQUIDY-SquidyCrispySquid90g-8855588110168-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8855588110168",
+        "Product_Detail": null,
+        "Price": "240",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "SQUIDY"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/squidy-crispy-squid-90g-8855588110168",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taro Fish Snack Super Sab 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TARO-TaroFishSnackSuperSab30g-8852044477612-1?$JPEG$"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8852044477612",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// High Protein",
+            "TARO"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/taro-fish-snack-super-sab-30g-8852044477612",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Seaweed Twice Seasoned Leaver with Abalone and Soy Sauce 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanSeaweedTwiceSeasonedLeaverwithAbaloneandSoySauce50g-8801047228820-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8801047228820",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "YANGBAN"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/yangban-seaweed-twice-seasoned-leaver-with-abalone-and-soy-sauce-50g-8801047228820",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Fried Seaweed 26g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiFriedSeaweed26g-8857107230043-1"
+        ],
+        "Quantity": "26g",
+        "Barcode_Number": "8857107230043",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "TAOKAENOI"
+        ],
+        "Stock": "46",
+        "URL": "https://www.tops.co.th/en/taokaenoi-fried-seaweed-26g-8857107230043",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Daddy and Sons Beef Jerky Protein Snack 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DADDYANDSONS-DaddyandSonsBeefJerkyProteinSnack50g-8857200384513-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8857200384513",
+        "Product_Detail": null,
+        "Price": "140",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Meat Snacks",
+            "DADDY AND SONS"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/daddy-and-sons-beef-jerky-protein-snack-50g-8857200384513",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Seaweed Twice Seasoned Laver Anchovy And Vegetable 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanSeaweedTwiceSeasonedLaverAnchovyAndVegetable50g-8801047225119-1"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8801047225119",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "YANGBAN"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/yangban-seaweed-twice-seasoned-laver-anchovy-and-vegetable-50g-8801047225119",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bento Roasted Chilli Grill Squid 18g",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENTO-BentoRoastedChilliGrillSquid18g-8850157405331-1"
+        ],
+        "Quantity": "18g",
+        "Barcode_Number": "8850157405331",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "BENTO"
+        ],
+        "Stock": "40",
+        "URL": "https://www.tops.co.th/en/bento-roasted-chilli-grill-squid-18g-8850157405331",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Godbawee Seaweed Kimchi 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GODBAWEE-GodbaweeSeaweedKimchi15g-8809146900050-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8809146900050",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "GODBAWEE"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/godbawee-seaweed-kimchi-15g-8809146900050",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Big Roll Spicy Flavour 7.5g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiBigRollSpicyFlavour75g-8858702410779-1"
+        ],
+        "Quantity": "7.5g",
+        "Barcode_Number": "8858702410779",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "TAOKAENOI"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/taokaenoi-big-roll-spicy-flavour-75g-8858702410779",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Masita Seaweed Roasted Korean Style Original 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MASITA-MasitaSeaweedRoastedKoreanStyleOriginal15g-8850999007502-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8850999007502",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Shop by Brands /// Singha /// Masita",
+            "MASITA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/masita-seaweed-roasted-korean-style-original-15g-8850999007502",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Big Sheet Seaweed Spicy 28g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiBigSheetSeaweedSpicy28g-8858702402415-1"
+        ],
+        "Quantity": "28g",
+        "Barcode_Number": "8858702402415",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/taokaenoi-big-sheet-seaweed-spicy-28g-8858702402415",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Masita Fried Seaweed Original 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MASITA-MasitaFriedSeaweedOriginal27g-8850999001906-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8850999001906",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Shop by Brands /// Singha /// Masita",
+            "MASITA"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/masita-fried-seaweed-original-20g-8850999001906",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Masita Roast Tomyumkung Seaweed 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MASITA-MasitaRoastTomyumkungSeaweed30g-8850999009254-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8850999009254",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Shop by Brands /// Singha /// Masita",
+            "MASITA"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/masita-roast-tomyumkung-seaweed-20g-8850999009254",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Crispy Seaweed Chips 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanCrispySeaweedChips50g-8801047228394-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8801047228394",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "YANGBAN"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/yangban-crispy-seaweed-chips-50g-8801047228394",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Nico Nico Nori Aji Okazu Nori Seaweed 8.1g. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//NICONICO-NicoNicoNoriAjiOkazuNoriSeaweed81gPack3-8888339033034-1"
+        ],
+        "Quantity": "8.1g",
+        "Barcode_Number": "8888339033034",
+        "Product_Detail": null,
+        "Price": "90",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "NICO NICO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/nico-nico-nori-aji-okazu-nori-seaweed-81g-pack-3-8888339033034",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Masita Korean Style Roasted Seaweed Super Big Original Flavour 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MASITA-MasitaKoreanStyleRoastedSeaweedSuperBigOriginalFlavour20g-8850999020006-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8850999020006",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Shop by Brands /// Singha /// Masita",
+            "MASITA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/masita-korean-style-roasted-seaweed-super-big-original-flavour-20g-8850999020006",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "My Choice Crispy Squid 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceCrispySquid90g-8853474038510-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8853474038510",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-crispy-squid-90g-8853474038510",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Makuro Fish Snack with Black Sesame 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAGURO-MakuroFishSnackwithBlackSesame40g-8852020323018-1"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8852020323018",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "MAGURO"
+        ],
+        "Stock": "71",
+        "URL": "https://www.tops.co.th/en/makuro-fish-snack-with-black-sesame-40g-8852020323018",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Greatland Seaweed 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GREATLAND-GreatlandSeaweed150g-8851965000992-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8851965000992",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "GREATLAND"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/greatland-seaweed-150g-8851965000992",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "De La Lita Crispy Seaweed with Fish 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DELALITA-DeLaLitaCrispySeaweedwithFish20g-8859078002254-1?$JPEG$"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8859078002254",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "DE LA LITA"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/de-la-lita-crispy-seaweed-with-fish-20g-8859078002254",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Big Sheet Classic 56g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiBigSheetClassic56g-8858702422451-1"
+        ],
+        "Quantity": "56g",
+        "Barcode_Number": "8858702422451",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "TAOKAENOI"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/taokaenoi-big-sheet-classic-56g-8858702422451",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Greatland Japanese Rice Cracker Wasabi 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GREATLAND-GreatlandJapaneseRiceCrackerWasabi50g-8851965000084-1"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8851965000084",
+        "Product_Detail": null,
+        "Price": "36",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "GREATLAND"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/greatland-japanese-rice-cracker-wasabi-50g-8851965000084",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bento Squid Seafood Spicy Larb 18g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENTO-BentoSquidSeafoodSpicyLarb18g-8850157401340-1"
+        ],
+        "Quantity": "18g",
+        "Barcode_Number": "8850157401340",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "BENTO"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/bento-squid-seafood-spicy-larb-18g-8850157401340",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Crispy Seaweed Chips with Shrimp 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanCrispySeaweedChipswithShrimp50g-8801047228608-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8801047228608",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "YANGBAN"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/yangban-crispy-seaweed-chips-with-shrimp-50g-8801047228608",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Squidy Crispy Squid 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SQUIDY-SquidyCrispySquid60g-8855588110151-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8855588110151",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "SQUIDY"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/squidy-crispy-squid-60g-8855588110151",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Seleco Rolling Bite Roasted Rolled Grilled Squid Flavour 8.4g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SELECO-SelecoRollingBiteRoastedRolledGrilledSquidFlavour84g-8852116809914-1"
+        ],
+        "Quantity": "8.4g",
+        "Barcode_Number": "8852116809914",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "SELECO"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/seleco-rolling-bite-roasted-rolled-grilled-squid-flavour-84g-8852116809914",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Squidy Squid 19g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SQUIDY-SquidySquid19g-8855588120143-1"
+        ],
+        "Quantity": "19g",
+        "Barcode_Number": "8855588120143",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SQUIDY"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/squidy-squid-19g-8855588120143",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Maruesu Almond Kozakana Fish 48g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARUESU-MaruesuAlmondKozakanaFish48g-4978576285380-1"
+        ],
+        "Quantity": "48g",
+        "Barcode_Number": "4978576285380",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Snacks & Desserts /// Nuts & Dried Fruit /// Nuts & Seed Snacks",
+            "MARUESU"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/maruesu-almond-kozakana-fish-48g-4978576285380",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Topping Seasoned Seaweed Soy Sauce Flavour 35g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiToppingSeasonedSeaweedSoySauceFlavour35g-8858702438605-1"
+        ],
+        "Quantity": "35g",
+        "Barcode_Number": "8858702438605",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/taokaenoi-topping-seasoned-seaweed-soy-sauce-flavour-35g-8858702438605",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Gomuc Seasoned Cruncy Squid 22g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GOMUC-GomucSeasonedCruncySquid22g-8858768841838-1"
+        ],
+        "Quantity": "22g",
+        "Barcode_Number": "8858768841838",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "GOMUC"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/gomuc-seasoned-cruncy-squid-22g-8858768841838",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Fried Seaweed 41g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiFriedSeaweed41g-8858702411967-1?$JPEG$"
+        ],
+        "Quantity": "41g",
+        "Barcode_Number": "8858702411967",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/taokaenoi-fried-seaweed-41g-8858702411967",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Snacker Mega Roll Grilled Seaweed Japanese Style Classic Flavour 9g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SNACKER-SnackerMegaRollGrilledSeaweedJapaneseStyleClassicFlavour9g-8853474079827-1?$JPEG$"
+        ],
+        "Quantity": "9g",
+        "Barcode_Number": "8853474079827",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SNACKER"
+        ],
+        "Stock": "33",
+        "URL": "https://www.tops.co.th/en/snacker-mega-roll-grilled-seaweed-japanese-style-classic-flavour-9g-8853474079827",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Seleco Rolling Bite Roasted Rolled BBQ Flavour 8.4g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SELECO-SelecoRollingBiteRoastedRolledBBQFlavour84g-8852116809907-1"
+        ],
+        "Quantity": "8.4g",
+        "Barcode_Number": "8852116809907",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "SELECO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/seleco-rolling-bite-roasted-rolled-bbq-flavour-84g-8852116809907",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Masita Fried Seaweed Spicy 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MASITA-MasitaFriedSeaweedSpicy27g-8850999001913-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8850999001913",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Shop by Brands /// Singha /// Masita",
+            "MASITA"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/masita-fried-seaweed-spicy-20g-8850999001913",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Yangban Crispy Seaweed Chips with Kimchi 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANGBAN-YangbanSeaweedKimchi50g-8801047228615-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8801047228615",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "YANGBAN"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/yangban-crispy-seaweed-chips-with-kimchi-50g-8801047228615",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bento Squid Seafood Snack Super Spicy Seafood Flavour 18g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENTO-BentoSquidSeafoodSnackSuperSpicySeafoodFlavour18g-8850157403610-1"
+        ],
+        "Quantity": "18g",
+        "Barcode_Number": "8850157403610",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "BENTO"
+        ],
+        "Stock": "33",
+        "URL": "https://www.tops.co.th/en/bento-squid-seafood-snack-super-spicy-seafood-flavour-18g-8850157403610",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Irvins Salted Egg Fish Skin 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//IRVINS-IrvinsSaltedEggFishSkin105g-8885015022016-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8885015022016",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Meat Snacks",
+            "IRVINS"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/irvins-salted-egg-fish-skin-80g-8885015022016",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Big Sheet Giant Roasted Seaweed Original Flavour 24g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiBigSheetGiantRoastedSeaweedOriginalFlavour24g-8858702423502-1"
+        ],
+        "Quantity": "24g",
+        "Barcode_Number": "8858702423502",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "TAOKAENOI"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/taokaenoi-big-sheet-giant-roasted-seaweed-original-flavour-24g-8858702423502",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Boat Crispy Fish 130g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BOAT-BoatCrispyFish130g-8855357000027-1"
+        ],
+        "Quantity": "130g",
+        "Barcode_Number": "8855357000027",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "BOAT"
+        ],
+        "Stock": "45",
+        "URL": "https://www.tops.co.th/en/boat-crispy-fish-130g-8855357000027",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Snacker Mega Roll Grilled Seaweed Japanese Style Squid Flavour 9g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SNACKER-SnackerMegaRollGrilledSeaweedJapaneseStyleSquidFlavour9g-8853474079841-1?$JPEG$"
+        ],
+        "Quantity": "9g",
+        "Barcode_Number": "8853474079841",
+        "Product_Detail": null,
+        "Price": "19",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SNACKER"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/snacker-mega-roll-grilled-seaweed-japanese-style-squid-flavour-9g-8853474079841",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Masita Fried Seaweed Spicy Korean BBQ 20g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MASITA-MasitaFriedSeaweedSpicyKoreanBBQ27g-8850999003443-1"
+        ],
+        "Quantity": "20g",
+        "Barcode_Number": "8850999003443",
+        "Product_Detail": null,
+        "Price": "40",
+        "Labels": [
+            "Shop by Brands /// Singha /// Masita",
+            "MASITA"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/masita-fried-seaweed-spicy-korean-bbq-20g-8850999003443",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Gomuc Spicy Shredded Squid 24g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GOMUC-GomucSpicyShreddedSquid24g-8858768841036-1"
+        ],
+        "Quantity": "24g",
+        "Barcode_Number": "8858768841036",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "GOMUC"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/gomuc-spicy-shredded-squid-24g-8858768841036",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Big Sheet Giant Roasted Seaweed Spicy Flavour 24g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiBigSheetGiantRoastedSeaweedSpicyFlavour24g-8858702423472-1"
+        ],
+        "Quantity": "24g",
+        "Barcode_Number": "8858702423472",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "TAOKAENOI"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/taokaenoi-big-sheet-giant-roasted-seaweed-spicy-flavour-24g-8858702423472",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Squidy Baked Squid Hot and Spicy 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SQUIDY-SquidyBakedSquidHotandSpicy90g-8855588110250-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8855588110250",
+        "Product_Detail": null,
+        "Price": "235",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SQUIDY"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/squidy-baked-squid-hot-and-spicy-90g-8855588110250",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Snacker Roasted Squid 10g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SNACKER-SnackerRoastedSquid10g-8853474073177-1?$JPEG$"
+        ],
+        "Quantity": "10g",
+        "Barcode_Number": "8853474073177",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SNACKER"
+        ],
+        "Stock": "36",
+        "URL": "https://www.tops.co.th/en/snacker-roasted-squid-10g-8853474073177",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bibigo Seasoned Laver Original 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BIBIGO-BibigoSeasonedLaverOriginal15g-0807176706107-1?$JPEG$"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "0807176706107",
+        "Product_Detail": null,
+        "Price": "58",
+        "Labels": [
+            "Shop by Brands /// Snacker-Korean /// Meat & Seafood Snacks",
+            "NONE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/bibigo-seasoned-laver-original-15g-0807176706107",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Chaolay Seasoned Crispy White Scale Fish Original Flavour 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOLAY-ChaolaySeasonedCrispyWhiteScaleFishOriginalFlavour100g-8857122953149-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8857122953149",
+        "Product_Detail": null,
+        "Price": "80",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "CHAOLAY"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/chaolay-seasoned-crispy-white-scale-fish-original-flavour-100g-8857122953149",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Snacker Fried Seaweed Spicy Flavour 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SNACKER-SnackerFriedSeaweedSpicyFlavour30g-8853474078912-1?$JPEG$"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8853474078912",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "SNACKER"
+        ],
+        "Stock": "48",
+        "URL": "https://www.tops.co.th/en/snacker-fried-seaweed-spicy-flavour-30g-8853474078912",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Snacker Fried Seaweed Classic Flavour 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SNACKER-SnackerFriedSeaweedClassicFlavour30g-8853474078905-1?$JPEG$"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8853474078905",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "SNACKER"
+        ],
+        "Stock": "49",
+        "URL": "https://www.tops.co.th/en/snacker-fried-seaweed-classic-flavour-30g-8853474078905",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Irvins Hotboom Salt Egg Fish Skin 95g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//IRVINS-IrvinsHotboomSaltEggFishSkin105g-8885015022115-1?$JPEG$"
+        ],
+        "Quantity": "95g",
+        "Barcode_Number": "8885015022115",
+        "Product_Detail": null,
+        "Price": "235",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Meat Snacks",
+            "IRVINS"
+        ],
+        "Stock": "40",
+        "URL": "https://www.tops.co.th/en/irvins-hotboom-salt-egg-fish-skin-95g-8885015022115",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Muek Groob Konjac Snack with Original Mala 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MUEKGROOB-MuekGroobKonjacSnackwithOriginalMala50g-8859745200150-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8859745200150",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "MUEK GROOB"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/muek-groob-konjac-snack-with-original-mala-50g-8859745200150",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Sukishi Seasoned Squid Strips 60g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SquidGoGoSeasonedSquidStrips60g-8859242900034-1"
+        ],
+        "Quantity": "60g",
+        "Barcode_Number": "8859242900034",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Snacks & Desserts",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sukishi-seasoned-squid-strips-60g-8859242900034",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Prompleon Crispy Salmon Skin Korean Chilli 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PROMPLEON-PrompleonCrispySalmonSkinKoreanChilli40g-8857126391039-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8857126391039",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "NONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/prompleon-crispy-salmon-skin-korean-chilli-40g-8857126391039",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bento Spicy Squid Sauce 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENTO-BentoSpicySquidSauce15g-8850157400909-1"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "8850157400909",
+        "Product_Detail": null,
+        "Price": "10",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "BENTO"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/bento-spicy-squid-sauce-15g-8850157400909",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Fried Seaweed Spicy 41g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiFriedSeaweedSpicy41g-8858702411998-1?$JPEG$"
+        ],
+        "Quantity": "41g",
+        "Barcode_Number": "8858702411998",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "TAOKAENOI"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/taokaenoi-fried-seaweed-spicy-41g-8858702411998",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Maruesu Cheese Ika Dried Squid 45g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARUESU-MaruesuCheeseIkaDriedSquid45g-4978576200369-1"
+        ],
+        "Quantity": "45g",
+        "Barcode_Number": "4978576200369",
+        "Product_Detail": null,
+        "Price": "223",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "MARUESU"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/maruesu-cheese-ika-dried-squid-45g-4978576200369",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Taokaenoi Topping Seasoned Seaweed BBQ Flavour 35g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TAOKAENOI-TaokaenoiToppingSeasonedSeaweedBBQFlavour35g-8858702438582-1?$JPEG$"
+        ],
+        "Quantity": "35g",
+        "Barcode_Number": "8858702438582",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Snacks & Desserts",
+            "TAOKAENOI"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/taokaenoi-topping-seasoned-seaweed-bbq-flavour-35g-8858702438582",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Tenjung Fish Stick BBQ 35g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TENJUNG-TenjungFishStickBBQ35g-8850112000717-1"
+        ],
+        "Quantity": "35g",
+        "Barcode_Number": "8850112000717",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "TENJUNG"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/tenjung-fish-stick-bbq-35g-8850112000717",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Bibigo Seasoned Laver Wasabi 15g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BibigoSeaweedWasabi15g-0807176706404-1?$JPEG$"
+        ],
+        "Quantity": "15g",
+        "Barcode_Number": "0807176706404",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "NONE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/bibigo-seasoned-laver-wasabi-15g-0807176706404",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Canterbury Biltong Original with Coriander and Pepper Biltong 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTERBURY-CanterburyBiltongOriginalwithCorianderandPepperBiltong40g-9421019339317-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "9421019339317",
+        "Product_Detail": null,
+        "Price": "143",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "CANTERBURY BILTONG"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/canterbury-biltong-original-with-coriander-and-pepper-biltong-40g-9421019339317",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Canterbury Biltong Smokey Barbeque Biltong 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTERBURY-CanterburyBiltongSmokeyBarbequeBiltong100g-9421019330055-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "9421019330055",
+        "Product_Detail": null,
+        "Price": "340",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Meat Snacks",
+            "CANTERBURY BILTONG"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/canterbury-biltong-smokey-barbeque-biltong-100g-9421019330055",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Seatoh Crispy Fish Snack Crab Stick Flavoured 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEATOH-SeatohCrispyFishCrab40g-8853474099245-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8853474099245",
+        "Product_Detail": null,
+        "Price": "25.25",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SEATOH"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/seatoh-crispy-fish-snack-crab-stick-flavoured-40g-8853474099245",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Seatoh Crispy Fish Snack Squid Flavoured 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEATOH-SeatohCrispyFishSquid40g-8853474099238-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8853474099238",
+        "Product_Detail": null,
+        "Price": "25.25",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SEATOH"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/seatoh-crispy-fish-snack-squid-flavoured-40g-8853474099238",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Seatoh BBQ Flavoured Fish Snack 55g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEATOH-SeatohBBQFlavouredFishSnack55g-8853474096770-1?$JPEG$"
+        ],
+        "Quantity": "55g",
+        "Barcode_Number": "8853474096770",
+        "Product_Detail": null,
+        "Price": "28",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "SEATOH"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/seatoh-bbq-flavoured-fish-snack-55g-8853474096770",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Snacker Crispy Baked Squid 32g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SNACKER-SnackerCrispyBakedSquid32g-8853474073160-1?$JPEG$"
+        ],
+        "Quantity": "32g",
+        "Barcode_Number": "8853474073160",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SNACKER"
+        ],
+        "Stock": "34",
+        "URL": "https://www.tops.co.th/en/snacker-crispy-baked-squid-32g-8853474073160",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Snacker Crispy Baked Squid 16g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SNACKER-SnackerCrispyBakedSquid16g-8853474073153-1?$JPEG$"
+        ],
+        "Quantity": "16g",
+        "Barcode_Number": "8853474073153",
+        "Product_Detail": null,
+        "Price": "22.25",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SNACKER"
+        ],
+        "Stock": "28",
+        "URL": "https://www.tops.co.th/en/snacker-crispy-baked-squid-16g-8853474073153",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Canterbury Biltong Chilli Biltong 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTERBURY-CanterburyBiltongChilliBiltong40g-9421019339331-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "9421019339331",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "CANTERBURY BILTONG"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/canterbury-biltong-chilli-biltong-40g-9421019339331",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Canterbury Biltong Original with Coriander and Pepper Biltong 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTERBURY-CanterburyBiltongOriginalwithCorianderandPepperBiltong100g-9421019339027-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "9421019339027",
+        "Product_Detail": null,
+        "Price": "272",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Meat Snacks",
+            "CANTERBURY BILTONG"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/canterbury-biltong-original-with-coriander-and-pepper-biltong-100g-9421019339027",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Canterbury Biltong Chilli Biltong 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTERBURY-CanterburyBiltongChilliBiltong100g-9421019330079-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "9421019330079",
+        "Product_Detail": null,
+        "Price": "340",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Meat Snacks",
+            "CANTERBURY BILTONG"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/canterbury-biltong-chilli-biltong-100g-9421019330079",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Muek Groob Konjac Snack with Extra Mala Flavour 50g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MUEKGROOB-MuekGroobKonjacSnackwithExtraMalaFlavour50g-8859745200167-1?$JPEG$"
+        ],
+        "Quantity": "50g",
+        "Barcode_Number": "8859745200167",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "MUEK GROOB"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/muek-groob-konjac-snack-with-extra-mala-flavour-50g-8859745200167",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Gomuc Grilled Rolled Squid 13g",
+        "Product_Images": [
+            "https://assets.tops.co.th//GOMUC-GomucGrilledRolledSquid13g-8858768842460-1"
+        ],
+        "Quantity": "13g",
+        "Barcode_Number": "8858768842460",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "GOMUC"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/gomuc-grilled-rolled-squid-13g-8858768842460",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "O Yua Shrimp Chins Sweet Chili 72g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OYUA-OYuaShrimpChinsSweetChili72g-8857125593205-1?$JPEG$"
+        ],
+        "Quantity": "72g",
+        "Barcode_Number": "8857125593205",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "O YUA"
+        ],
+        "Stock": "29",
+        "URL": "https://www.tops.co.th/en/o-yua-shrimp-chins-sweet-chili-72g-8857125593205",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "O Yua Crispy Salmon Skin Crab Curry Salted Egg 72g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OYUA-OYuaCrispySkinCurry72g-8857125593113-1?$JPEG$"
+        ],
+        "Quantity": "72g",
+        "Barcode_Number": "8857125593113",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "O YUA"
+        ],
+        "Stock": "29",
+        "URL": "https://www.tops.co.th/en/o-yua-crispy-salmon-skin-crab-curry-salted-egg-72g-8857125593113",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Squidy Spicy Squid 11g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SQUIDY-SquidySpicySquid11g-8855588110243-1"
+        ],
+        "Quantity": "11g",
+        "Barcode_Number": "8855588110243",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "SQUIDY"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/squidy-spicy-squid-11g-8855588110243",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "FullFish Fish Chip BBQ Flavor 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FULLFISH-FullFishFishChipBBQFlavor50g-8855550002972-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "8855550002972",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Snacks & Desserts",
+            "FULL FISH"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/fullfish-fish-chip-bbq-flavor-40g-8855550002972",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Seatoh Crab Stick Flavoured Fish Snack 55g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEATOH-SeatohCrabStickFlavouredFishSnack55g-8853474096824-1?$JPEG$"
+        ],
+        "Quantity": "55g",
+        "Barcode_Number": "8853474096824",
+        "Product_Detail": null,
+        "Price": "28",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "SEATOH"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/seatoh-crab-stick-flavoured-fish-snack-55g-8853474096824",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "My Choice Thai Sweet Fish Snack 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICETHAI-MyChoiceThaiSweetFishSnack120g-8853474039593-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8853474039593",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Shop by Brands /// I LOVE THAILAND /// Thai Dried Fruits & Thai Snacks",
+            "MY CHOICE THAI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-thai-sweet-fish-snack-120g-8853474039593",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Seleco Super Big Bite Extra Rich Flavour Seaweed 25g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SELECO-SelecoSuperBigBiteExtraRichFlavourSeaweed25g-8852116801017-1"
+        ],
+        "Quantity": "25g",
+        "Barcode_Number": "8852116801017",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seasoned Seaweed",
+            "SELECO"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/seleco-super-big-bite-extra-rich-flavour-seaweed-25g-8852116801017",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Maruesu Ika Tanzaku 51g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARUESU-MaruesuIkaTanzaku51g-4978576288404-1?$JPEG$"
+        ],
+        "Quantity": "51g",
+        "Barcode_Number": "4978576288404",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "MARUESU"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/maruesu-ika-tanzaku-51g-4978576288404",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    },
+    {
+        "Product_Name": "Maruesu Sweet and Sour Squid Arm 40g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARUESU-MaruesuSweetandSourSquidArm40g-4978576288381-1?$JPEG$"
+        ],
+        "Quantity": "40g",
+        "Barcode_Number": "4978576288381",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Snacks & Desserts /// Meat & Seafood Snacks /// Seafood Snacks",
+            "MARUESU"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/maruesu-sweet-and-sour-squid-arm-40g-4978576288381",
+        "Category": "snacks_and_desserts",
+        "Sub_Category": "meat_and_seafood_snacks"
+    }
+]

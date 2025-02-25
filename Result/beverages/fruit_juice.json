@@ -1,0 +1,3548 @@
+[
+    {
+        "Product_Name": "(OTOP) Doikham Tomato Juice 98percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamTomatoJuice98percent1000ml-8850773510327-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850773510327",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "DOIKHAM"
+        ],
+        "Stock": "71",
+        "URL": "https://www.tops.co.th/en/otop-doikham-tomato-juice-98percent-1000ml-8850773510327",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Chrysanthemum Drink with Chamomile No Sugar Added 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamChrysanthemumDrinkwithChamomileNoSugarAdded500ml-8850773510785-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8850773510785",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "DOIKHAM"
+        ],
+        "Stock": "33",
+        "URL": "https://www.tops.co.th/en/otop-doikham-chrysanthemum-drink-with-chamomile-no-sugar-added-500ml-8850773510785",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham 99percent Tomato Juice 200ml. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-Doikham99percentTomatoJuice200mlPack4-8850773110329-1?$JPEG$"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8850773110329",
+        "Product_Detail": null,
+        "Price": "64",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "DOIKHAM"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/otop-doikham-99percent-tomato-juice-200ml-pack-4-8850773110329",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Passion Fruit 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamPassionFruit1000ml-8850773510273-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850773510273",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Mixed Juice",
+            "DOIKHAM"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/otop-doikham-passion-fruit-1000ml-8850773510273",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Traditional Chrysanthemum Drink 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamTraditionalChrysanthemumDrink500ml-8850773511379-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8850773511379",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "DOIKHAM"
+        ],
+        "Stock": "49",
+        "URL": "https://www.tops.co.th/en/otop-doikham-traditional-chrysanthemum-drink-500ml-8850773511379",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) DoiKham Aor Jao Safflower Mixed Lotus Root Pandanus Jasmine Sappan 200ml. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoiKhamAorJaoSafflowerMixedLotusRootPandanusJasmineSappan200mlPack4-8850773511669-1?$JPEG$"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8850773511669",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Herbal Juice",
+            "DOIKHAM"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/otop-doikham-aor-jao-safflower-mixed-lotus-root-pandanus-jasmine-sappan-200ml-pack-4-8850773511669",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikam Jiaogulan and Safflower Drink with Steviol Glycoside 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikamJiaogulanandSafflowerDrinkwithSteviolGlycoside500ml-8850773510594-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8850773510594",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "DOIKHAM"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/otop-doikam-jiaogulan-and-safflower-drink-with-steviol-glycoside-500ml-8850773510594",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Sam Gler Herbal Drink 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamSamGlerHerbalDrink500ml-8850773511362-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8850773511362",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "DOIKHAM"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/otop-doikham-sam-gler-herbal-drink-500ml-8850773511362",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Ice Pop Mamuang Hug Saowarot 85ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamIcePopMamuangHugSaowarot85mlPack6-8850773690043-1?$JPEG$"
+        ],
+        "Quantity": "85ml",
+        "Barcode_Number": "8850773690043",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Mixed Juice",
+            "DOIKHAM"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/otop-doikham-ice-pop-mamuang-hug-saowarot-85ml-pack-6-8850773690043",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Mango Juice 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamMangoJuice100percent1000ml-8850773510334-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850773510334",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "DOIKHAM"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/otop-doikham-mango-juice-100percent-1000ml-8850773510334",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Apricot Squash 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamApricotSquash500ml-8850773530042-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8850773530042",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Concentrated Juice",
+            "DOIKHAM"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/otop-doikham-apricot-squash-500ml-8850773530042",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Mixed Berry Juice 98percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamMixedBerryJuice98percent1000ml-8850773510341-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850773510341",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "DOIKHAM"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/otop-doikham-mixed-berry-juice-98percent-1000ml-8850773510341",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Guava Juice 98percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamGuavaJuice98percent1000ml-8850773510280-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850773510280",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "DOIKHAM"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/otop-doikham-guava-juice-98percent-1000ml-8850773510280",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) DoiKham Ice Pop Strawberry Yogurt 85ml. Pack6",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoiKhamIcePopStrawberryYogurt85mlPack-8850773690104-1?$JPEG$"
+        ],
+        "Quantity": "85ml",
+        "Barcode_Number": "8850773690104",
+        "Product_Detail": null,
+        "Price": "150",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Mixed Juice",
+            "DOIKHAM"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/otop-doikham-ice-pop-strawberry-yogurt-85ml-pack6-8850773690104",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Passion Fruit Squash 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamPassionFruitSquash500ml-8850773530035-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8850773530035",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Vegan",
+            "DOIKHAM"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/otop-doikham-passion-fruit-squash-500ml-8850773530035",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "(OTOP) Doikham Mocktail Tomato Juice with Mixed Fruit Juice 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOIKHAM-DoikhamMocktailTomatoJuicewithMixedFruitJuice1000ml-8850773510563-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850773510563",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "DOIKHAM"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/otop-doikham-mocktail-tomato-juice-with-mixed-fruit-juice-1000ml-8850773510563",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jello Boom Konjac Jelly Filled with Lychee Juice 105g",
+        "Product_Images": [
+            "https://assets.tops.co.th//TONGTIN-TongtinJelloBoomKonjacJellyFilledwithLycheeJuice105g-8857127306049-1?$JPEG$"
+        ],
+        "Quantity": "105g",
+        "Barcode_Number": "8857127306049",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Snack&Confectionery",
+            "JELLO BOOM"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/jello-boom-konjac-jelly-filled-with-lychee-juice-105g-8857127306049",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Hight Craft Pink Lady Mocktail Drink Sparkling Drink Pink Lady 325 ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//TONGTIN-TongtinHightCraftPinkLadyMocktailDrinkSparklingDrinkPinkLady325ml-8857126881356-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8857126881356",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Beverages",
+            "HIGHT CRAFT"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/hight-craft-pink-lady-mocktail-drink-sparkling-drink-pink-lady-325-ml-8857126881356",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Hight Craft Pina Colada Mocktail Drink Sparkling Pineapple Coconut325ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//TONGTIN-TongtinHightCraftPinaColadaMocktailDrinkSparklingPineappleCoconut325ml-8857126881349-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8857126881349",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Beverages",
+            "HIGHT CRAFT"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/hight-craft-pina-colada-mocktail-drink-sparkling-pineapple-coconut325ml-8857126881349",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Hight Craft Kiwi Mojito Mocktail Drink Sparkling Kiwi Mix Mojito 325ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//TONGTIN-TongtinHightCraftKiwiMojitoMocktailDrinkSparklingKiwiMixMojito325ml-8857126881387-1?$JPEG$"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8857126881387",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Shop by Brands /// TopsTongtin /// Beverages",
+            "HIGHT CRAFT"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/hight-craft-kiwi-mojito-mocktail-drink-sparkling-kiwi-mix-mojito-325ml-8857126881387",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Minute Made Pulpy C Boost Orange 290ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MINUTEMAID-MinuteMadePulpyCBoostOrange290ml-8851959003350-1"
+        ],
+        "Quantity": "290ml",
+        "Barcode_Number": "8851959003350",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MINUTE MAID"
+        ],
+        "Stock": "84",
+        "URL": "https://www.tops.co.th/en/minute-made-pulpy-c-boost-orange-290ml-8851959003350",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco 100percent Sainamphueng Orange Juice 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-Tipco100percentSainamphuengOrangeJuice200mlPack3-8851013778934-1?$JPEG$"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8851013778934",
+        "Product_Detail": null,
+        "Price": "64",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "TIPCO"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/tipco-100percent-sainamphueng-orange-juice-200ml-pack-3-8851013778934",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Cocomax Coconut Water 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COCOMAX-CocomaxCoconutWater100percent1ltr-8850161161247-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8850161161247",
+        "Product_Detail": null,
+        "Price": "71",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "COCOMAX"
+        ],
+        "Stock": "128",
+        "URL": "https://www.tops.co.th/en/cocomax-coconut-water-100percent-1ltr-8850161161247",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Coco Dee Water Coconut 99percent 1 Ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COCODEE-CocoDeeWaterCoconut99percent1Ltr-8850388541082-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8850388541082",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Healthiful /// Health Specific /// Low in Fat",
+            "COCODEE"
+        ],
+        "Stock": "33",
+        "URL": "https://www.tops.co.th/en/coco-dee-water-coconut-99percent-1-ltr-8850388541082",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Apple Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoAppleJuice1ltr-8851013798499-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013798499",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "52",
+        "URL": "https://www.tops.co.th/en/tipco-apple-juice-1ltr-8851013798499",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "UFC Refresh Coconut Water 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFC-UFCRefreshCoconutWater100percent1ltr-0848014000018-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "0848014000018",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "UFC"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/ufc-refresh-coconut-water-100percent-1ltr-0848014000018",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Sai Nam Phueng Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSaiNamPhuengJuice1ltr-8851013778491-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013778491",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "39",
+        "URL": "https://www.tops.co.th/en/tipco-sai-nam-phueng-juice-1ltr-8851013778491",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Unif Veggie Mixed Berry 100percent 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//UNIF-UnifVeggieMixedBerry100percent200mlPack3-8850388540078-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8850388540078",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "UNIF"
+        ],
+        "Stock": "36",
+        "URL": "https://www.tops.co.th/en/unif-veggie-mixed-berry-100percent-200ml-pack-3-8850388540078",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Sunsweet Prune Juice 946ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNSWEET-SunsweetPruneJuice946ml-0070450113285-1?$JPEG$"
+        ],
+        "Quantity": "946ml",
+        "Barcode_Number": "0070450113285",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "SUNSWEET"
+        ],
+        "Stock": "57",
+        "URL": "https://www.tops.co.th/en/sunsweet-prune-juice-946ml-0070450113285",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Apple Juice 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeAppleJuice200mlPack3-8853333010107-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8853333010107",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "49",
+        "URL": "https://www.tops.co.th/en/malee-apple-juice-200ml-pack-3-8853333010107",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Ocean Spray Cranberry Juice 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//OCEANSPRAY-OceanSprayCranberryJuice1000ml-0031200449481-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "0031200449481",
+        "Product_Detail": null,
+        "Price": "196",
+        "Labels": [
+            "International Products /// USA /// Beverages",
+            "OCEAN SPRAY"
+        ],
+        "Stock": "70",
+        "URL": "https://www.tops.co.th/en/ocean-spray-cranberry-juice-1000ml-0031200449481",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Super Kid Orange Juice 110ml. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSuperKidOrangeJuice110mlPack4-8851013794927-1?$JPEG$"
+        ],
+        "Quantity": "110ml",
+        "Barcode_Number": "8851013794927",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "40",
+        "URL": "https://www.tops.co.th/en/tipco-super-kid-orange-juice-110ml-pack-4-8851013794927",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Coconut Water 100percent 310ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaCoconutWater100percent310ml-8854761001101-1"
+        ],
+        "Quantity": "310ml",
+        "Barcode_Number": "8854761001101",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "CHABAA"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/chabaa-coconut-water-100percent-310ml-8854761001101",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Coco Namhom Coconut Water 100percent 350ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeCocoNamhomCoconutWater100percent350mlPack6-8853333018172-1"
+        ],
+        "Quantity": "350ml",
+        "Barcode_Number": "8853333018172",
+        "Product_Detail": null,
+        "Price": "150",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/malee-coco-namhom-coconut-water-100percent-350ml-pack-6-8853333018172",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Super Kid Apple 110ml. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSuperKidApple110mlPack4-8851013798925-1?$JPEG$"
+        ],
+        "Quantity": "110ml",
+        "Barcode_Number": "8851013798925",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/tipco-super-kid-apple-110ml-pack-4-8851013798925",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Apple Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeAppleJuice1ltr-8853333000023-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333000023",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "57",
+        "URL": "https://www.tops.co.th/en/malee-apple-juice-1ltr-8853333000023",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Coconut Water 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaCoconutWater100percent1ltr-8854761180011-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8854761180011",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "CHABAA"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/chabaa-coconut-water-100percent-1ltr-8854761180011",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "All Co Co 100percent Pure Organic Nam Hom Coconut Water 235ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ALLCOCO-AllCoCo100percentPureOrganicNamHomCoconutWater235ml-8859129900249-1"
+        ],
+        "Quantity": "235ml",
+        "Barcode_Number": "8859129900249",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "ALL CO CO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/all-co-co-100percent-pure-organic-nam-hom-coconut-water-235ml-8859129900249",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Minute Made Pulpy C Boost Lemon 290ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MINUTEMAID-MinuteMadePulpyCBoostLemon290ml-8851959003374-1"
+        ],
+        "Quantity": "290ml",
+        "Barcode_Number": "8851959003374",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MINUTE MAID"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/minute-made-pulpy-c-boost-lemon-290ml-8851959003374",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "J Mix Grape Juice 25percent with Nata De Coco 270ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//J-MIX-JMixGrapeJuice10percentwithNataDeCoco270ml-8850548006727-1?$JPEG$"
+        ],
+        "Quantity": "270ml",
+        "Barcode_Number": "8850548006727",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Jelly Juice",
+            "J-MIX"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/j-mix-grape-juice-25percent-with-nata-de-coco-270ml-8850548006727",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Robinsons Orange Juice No Sugar 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROBINSONS-RobinsonsOrangeJuiceNoSugar1ltr-5000147030125-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "5000147030125",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "ROBINSONS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/robinsons-orange-juice-no-sugar-1ltr-5000147030125",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Coco Coconut Water 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeCocoCoconutWater100percent1000ml-8853333017571-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8853333017571",
+        "Product_Detail": null,
+        "Price": "74",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "42",
+        "URL": "https://www.tops.co.th/en/malee-coco-coconut-water-100percent-1000ml-8853333017571",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Unif Green Veggie Juice 100percent 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//UNIF-UnifGreenVeggieJuice100percent200mlPack3-8850388546087-1?$JPEG$"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8850388546087",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "UNIF"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/unif-green-veggie-juice-100percent-200ml-pack-3-8850388546087",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Mandarin Orange Juice with Orange Pulp 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaMandarinOrangeJuicewithOrangePulp100percent1ltr-8854761370115-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8854761370115",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "CHABAA"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/chabaa-mandarin-orange-juice-with-orange-pulp-100percent-1ltr-8854761370115",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Cocomax Coconut Water 100percent 350ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//COCOMAX-CocomaxCoconutWater100percent350mlPack6-8850161161070-1"
+        ],
+        "Quantity": "350ml",
+        "Barcode_Number": "8850161161070",
+        "Product_Detail": null,
+        "Price": "146",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "COCOMAX"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/cocomax-coconut-water-100percent-350ml-pack-6-8850161161070",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco 100percent Homsuwan Pineapple Juice 970ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-Tipco100percentHomsuwanPineappleJuice970ml-8851013782498-1?$JPEG$"
+        ],
+        "Quantity": "970ml",
+        "Barcode_Number": "8851013782498",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "TIPCO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tipco-100percent-homsuwan-pineapple-juice-970ml-8851013782498",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Orange Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoOrangeJuice1ltr-8851013793494-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013793494",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/tipco-orange-juice-1ltr-8851013793494",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Super Kid Grape 110ml. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSuperKidGrape110mlPack4-8851013797928-1?$JPEG$"
+        ],
+        "Quantity": "110ml",
+        "Barcode_Number": "8851013797928",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "47",
+        "URL": "https://www.tops.co.th/en/tipco-super-kid-grape-110ml-pack-4-8851013797928",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Mandarin Orange Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeMandarinOrangeJuice1ltr-8853333000016-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333000016",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/malee-mandarin-orange-juice-1ltr-8853333000016",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Guava Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoGuavaJuice1ltr-8851013795498-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013795498",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "30",
+        "URL": "https://www.tops.co.th/en/tipco-guava-juice-1ltr-8851013795498",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Coco Coconut Water 100percent 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeCocoCoconutWater100percent330ml-8853333015393-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "8853333015393",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/malee-coco-coconut-water-100percent-330ml-8853333015393",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Robinsons Lemon Juice No Sugar 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROBINSONS-RobinsonsLemonJuiceNoSugar1ltr-5000147030651-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "5000147030651",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "ROBINSONS"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/robinsons-lemon-juice-no-sugar-1ltr-5000147030651",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "JMix Orange Juice 25percent with Nata De Coco 270ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//J-MIX-JMixOrangeJuice10percentwithNataDeCoco270ml-8850548006680-1?$JPEG$"
+        ],
+        "Quantity": "270ml",
+        "Barcode_Number": "8850548006680",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Jelly Juice",
+            "J-MIX"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/jmix-orange-juice-25percent-with-nata-de-coco-270ml-8850548006680",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Orange Juice 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeOrangeJuice200mlPack3-8853333010046-1?$JPEG$"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8853333010046",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/malee-orange-juice-200ml-pack-3-8853333010046",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Pineapple Juice 970ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoPineappleJuice970ml-8851013799496-1?$JPEG$"
+        ],
+        "Quantity": "970ml",
+        "Barcode_Number": "8851013799496",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/tipco-pineapple-juice-970ml-8851013799496",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Grape Juice 200ml Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeGrapeJuice200mlPack3-8853333010091-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8853333010091",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/malee-grape-juice-200ml-pack-3-8853333010091",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Tangerine Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoTangerineJuice1ltr-8851013794491-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013794491",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/tipco-tangerine-juice-1ltr-8851013794491",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Apple Juice 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaAppleJuice100percent1000ml-8854761020010-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8854761020010",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "CHABAA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/chabaa-apple-juice-100percent-1000ml-8854761020010",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Mixed Fruit Juice Cranberry 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoMixedFruitJuiceCranberry1ltr-8851013768492-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013768492",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/tipco-mixed-fruit-juice-cranberry-1ltr-8851013768492",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "UFC Orange Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFC-UFCOrangeJuice100percent1ltr-8850025519016-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8850025519016",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "UFC"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/ufc-orange-juice-100percent-1ltr-8850025519016",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Tangerine Orange Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeTangerineOrangeJuice1ltr-8853333001815-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333001815",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/malee-tangerine-orange-juice-1ltr-8853333001815",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Splash Minute Maid Orange 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPLASH-SplashMinuteMaidOrange250ml-8851959122921-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8851959122921",
+        "Product_Detail": null,
+        "Price": "13",
+        "Labels": [
+            "Beverages /// Soft Drink & Mixers /// Flavored Soft Drinks",
+            "SPLASH"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/splash-minute-maid-orange-250ml-8851959122921",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "UFC Refresh Coconut Water 100percent 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFC-UFCRefreshCoconutWater100percent500ml-0848014000025-1"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "0848014000025",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "UFC"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/ufc-refresh-coconut-water-100percent-500ml-0848014000025",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "JMix Strawberry Juice 25percent with Nata De Coco 270ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//J-MIX-JMixStrawberryJuice10percentwithNataDeCoco270ml-8850548006697-1?$JPEG$"
+        ],
+        "Quantity": "270ml",
+        "Barcode_Number": "8850548006697",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Jelly Juice",
+            "J-MIX"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/jmix-strawberry-juice-25percent-with-nata-de-coco-270ml-8850548006697",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Squeeze Pasteurized Valencia Orange Juice 1ltr. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSqueezePasteurizedValenciaOrangeJuice1ltrPack2-8851013793241-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013793241",
+        "Product_Detail": null,
+        "Price": "197",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "TIPCO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tipco-squeeze-pasteurized-valencia-orange-juice-1ltr-pack-2-8851013793241",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Robinsons NAS Apple and Blackcurrant Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ROBINSONS-RobinsonsNASAppleJuice1L-5000147030149-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "5000147030149",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "ROBINSONS"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/robinsons-nas-apple-and-blackcurrant-juice-1ltr-5000147030149",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Red Grape Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoRedGrapeJuice1ltr-8851013797492-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013797492",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tipco-red-grape-juice-1ltr-8851013797492",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Shogun Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoShogunJuice1ltr-8851013791490-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013791490",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tipco-shogun-juice-1ltr-8851013791490",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Smile Pasteurized Orange Juice 1ltr. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//SMILE-SmilePasteurizedOrangeJuice1ltrPack2-8852108110646-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8852108110646",
+        "Product_Detail": null,
+        "Price": "203",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "SMILE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/smile-pasteurized-orange-juice-1ltr-pack-2-8852108110646",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Pomelo Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaPomeloJuice100percent1ltr-8854761060115-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8854761060115",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "CHABAA"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/chabaa-pomelo-juice-100percent-1ltr-8854761060115",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Fontana Apple Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FONTANA-FontanaAppleJuice100percent1ltr-5290074002245-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "5290074002245",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FONTANA"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/fontana-apple-juice-100percent-1ltr-5290074002245",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "UFC Valvet Coconut Milk Drink 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFC-UFCValvetCoconutMilkDrink1000ml-8850025071002-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850025071002",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "UFC"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/ufc-valvet-coconut-milk-drink-1000ml-8850025071002",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Sainampeung Orange Juice With Orange Pulp 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeSainampeungOrangeJuiceWithOrangePulp1ltr-8853333013580-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8853333013580",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/malee-sainampeung-orange-juice-with-orange-pulp-1000ml-8853333013580",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Tangerine Orange Juice 100percent 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeTangerineOrangeJuice100percent200mlPack3-8853333010053-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8853333010053",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/malee-tangerine-orange-juice-100percent-200ml-pack-3-8853333010053",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Pineapple Juice 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleePineappleJuice1ltr-8853333000047-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8853333000047",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/malee-pineapple-juice-100percent-1000ml-8853333000047",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Veggie Aloevera and White Grape Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoVeggieAloeveraandWhiteGrapeJuice1ltr-8851013788490-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013788490",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tipco-veggie-aloevera-and-white-grape-juice-1ltr-8851013788490",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Pomegranate and Mixed Fruit Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoPomegranateandMixedFruitJuice1ltr-8851013767495-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013767495",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tipco-pomegranate-and-mixed-fruit-juice-1ltr-8851013767495",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Peach with Mango Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaPeachwithMangoJuice1ltr-8854761070114-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8854761070114",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Mixed Juice",
+            "CHABAA"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/chabaa-peach-with-mango-juice-1ltr-8854761070114",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Mandarin Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoMandarinJuice1ltr-8851013771492-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013771492",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "TIPCO"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/tipco-mandarin-juice-1ltr-8851013771492",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Floridas Natural 100percent Florida Ruby Red Grapefruit Chilled Juice 414ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FLORIDASNATURAL-FloridasNatural100percentFloridaRubyRedGrapefruitChilledJuice414ml-0016300166445-1"
+        ],
+        "Quantity": "414ml",
+        "Barcode_Number": "0016300166445",
+        "Product_Detail": null,
+        "Price": "110",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FLORIDAS NATURAL"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/floridas-natural-100percent-florida-ruby-red-grapefruit-chilled-juice-414ml-0016300166445",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Tomato Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaTomatoJuice100percent1ltr-8854761130115-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8854761130115",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "CHABAA"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/chabaa-tomato-juice-100percent-1ltr-8854761130115",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Si Thong Orange Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSiThongOrangeJuice1ltr-8851013787493-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013787493",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/tipco-si-thong-orange-juice-1ltr-8851013787493",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Unif All You Need Miced Vegetable and Friut Juice With Berries Collagen 300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UNIF-UnifAllYouNeedMicedVegetableandFriutJuiceWithBerriesCollagen300ml-8850388545059-1"
+        ],
+        "Quantity": "300ml",
+        "Barcode_Number": "8850388545059",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "UNIF"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/unif-all-you-need-miced-vegetable-and-friut-juice-with-berries-collagen-300ml-8850388545059",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Unif All You Need Green Veggie Juice 100percent 300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UNIF-UnifAllYouNeedGreenVeggieJuice100percent300ml-8850388545028-1?$JPEG$"
+        ],
+        "Quantity": "300ml",
+        "Barcode_Number": "8850388545028",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "UNIF"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/unif-all-you-need-green-veggie-juice-100percent-300ml-8850388545028",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Harvey Fresh Orange Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HARVEYFRESH-HarveyFreshOrangeJuice1ltr-9311697100128-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "9311697100128",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "HARVEY FRESH"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/harvey-fresh-orange-juice-1ltr-9311697100128",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Tangerine Orange Juice with Orange Pulp 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeTangerineOrangeJuicewithOrangePulp1ltr-8853333016383-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333016383",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/malee-tangerine-orange-juice-with-orange-pulp-1ltr-8853333016383",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Smile Pasteurized Shogun Orange Juice with Collagen 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SMILE-SmilePasteurizedShogunOrangeJuicewithCollagen1ltr-8852108110912-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8852108110912",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "SMILE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/smile-pasteurized-shogun-orange-juice-with-collagen-1ltr-8852108110912",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Fontana Orange Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FONTANA-FontanaOrangeJuice100percent1ltr-5290074002221-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "5290074002221",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FONTANA"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/fontana-orange-juice-100percent-1ltr-5290074002221",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Sunquick Orange 800ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNQUICK-SunquickOrange800ml-8850332501070-1?$JPEG$"
+        ],
+        "Quantity": "800ml",
+        "Barcode_Number": "8850332501070",
+        "Product_Detail": null,
+        "Price": "188",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Beverages",
+            "SUNQUICK"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/sunquick-orange-800ml-8850332501070",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Granny Smith Green Apple Juice Mixed White Grape Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeGrannySmithGreenAppleJuiceMixedWhiteGrapeJuice100percent1ltr-8853333018042-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333018042",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/malee-granny-smith-green-apple-juice-mixed-white-grape-juice-100percent-1ltr-8853333018042",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Veggie Tomato Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoVeggieTomatoJuice1ltr-8851013779498-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013779498",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/tipco-veggie-tomato-juice-1ltr-8851013779498",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Coconut Water 100percent 350ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeCoconutWater100percent350ml-8853333025255-1"
+        ],
+        "Quantity": "350ml",
+        "Barcode_Number": "8853333025255",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/malee-coconut-water-100percent-350ml-8853333025255",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Super Fruit Essence Pomegranate Extract Juice 110ml. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSuperFruitEssencePomegranateExtractJuice110mlPack4-8851013790929-1?$JPEG$"
+        ],
+        "Quantity": "110ml",
+        "Barcode_Number": "8851013790929",
+        "Product_Detail": null,
+        "Price": "108",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/tipco-super-fruit-essence-pomegranate-extract-juice-110ml-pack-4-8851013790929",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Coconut Juice Cocotini 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoCoconutJuiceCocotini100percent1ltr-8851013702496-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013702496",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "TIPCO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tipco-coconut-juice-cocotini-100percent-1ltr-8851013702496",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Wang Lao Ji herbal drink 310ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//WANGLAOJI-WangLaoJiherbaldrink310mlPack-8859007200164-1?$JPEG$"
+        ],
+        "Quantity": "310ml",
+        "Barcode_Number": "8859007200164",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "WANG LAO JI"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/wang-lao-ji-herbal-drink-310ml-pack-6-8859007200164",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Wang Lao Ji herbal drink 310ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//WANGLAOJI-WangLaoJiherbaldrink310ml-8859007200058-1?$JPEG$"
+        ],
+        "Quantity": "310ml",
+        "Barcode_Number": "8859007200058",
+        "Product_Detail": null,
+        "Price": "29.17",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "WANG LAO JI"
+        ],
+        "Stock": "19",
+        "URL": "https://www.tops.co.th/en/wang-lao-ji-herbal-drink-310ml-8859007200058",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tansansu Korean Honey Lemon 360ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TANSANSU-TansansuHoneyLemon360ml-8858891311024-1?$JPEG$"
+        ],
+        "Quantity": "360ml",
+        "Barcode_Number": "8858891311024",
+        "Product_Detail": null,
+        "Price": "18",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Mixed Juice",
+            "TANSANSU"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/tansansu-korean-honey-lemon-360ml-8858891311024",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Squeeze Pasteurized Tangerine with Orangepulp and Sac Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSqueezePasteurizedTangerinewithOrangepulpandSacJuice1ltr-8851013760298-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013760298",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "TIPCO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tipco-squeeze-pasteurized-tangerine-with-orangepulp-and-sac-juice-1ltr-8851013760298",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Lychee Juice 20percebt 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaLycheeJuice20percebt1ltr-8854761150113-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8854761150113",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Mixed Juice",
+            "CHABAA"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/chabaa-lychee-juice-20percebt-1ltr-8854761150113",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Pomegranate Juice Mixed Fruit Juice 100percent 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleePomegranateJuiceMixedFruitJuice100percent200mlPack3-8853333017892-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8853333017892",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/malee-pomegranate-juice-mixed-fruit-juice-100percent-200ml-pack-3-8853333017892",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Shiny Apple Juice Aomori 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SHINY-ShinyAppleJuiceAomori1000ml-4970180100196-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "4970180100196",
+        "Product_Detail": null,
+        "Price": "283",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "SHINY"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/shiny-apple-juice-aomori-1000ml-4970180100196",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Fontana Lemonade Juice Drink 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FONTANA-FontanaLemonadeJuiceDrink1ltr-5290074002764-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "5290074002764",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FONTANA"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/fontana-lemonade-juice-drink-1ltr-5290074002764",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Cherry Berry Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoCherryBerryJuice1ltr-8851013773496-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013773496",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tipco-cherry-berry-juice-1ltr-8851013773496",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Unif All You Need Mixed Vegetable and Fruit Juice with Tomato 300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UNIF-UnifAllYouNeedMixedVegetableandFruitJuicewithTomato300ml-8850388540962-1"
+        ],
+        "Quantity": "300ml",
+        "Barcode_Number": "8850388540962",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sodium",
+            "UNIF"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/unif-all-you-need-mixed-vegetable-and-fruit-juice-with-tomato-300ml-8850388540962",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Ceres Grapefruit Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CERES-CeresGrapefruitJuice100percent1ltr-6001240100417-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "6001240100417",
+        "Product_Detail": null,
+        "Price": "135",
+        "Labels": [
+            "International Products /// NEW ZEALAND /// Beverages",
+            "CERES"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/ceres-grapefruit-juice-100percent-1ltr-6001240100417",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Koh Coconut Coconut Water 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KOHCOCONUT-KohCoconutCoconutWater100percent1ltr-0845163046539-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "0845163046539",
+        "Product_Detail": null,
+        "Price": "80",
+        "Labels": [
+            "Promotion /// Thankyou-sea-2025-dec /// Beverages",
+            "KOH COCONUT"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/koh-coconut-coconut-water-100percent-1ltr-0845163046539",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Profiber Mixed Vegetable and Fruit Juice Green Apple Formula 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoProfiberMixedVegetableandFruitJuiceGreenAppleFormula1ltr-8851013765491-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013765491",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "TIPCO"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/tipco-profiber-mixed-vegetable-and-fruit-juice-green-apple-formula-1ltr-8851013765491",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Kato 25percent Strawberry Juice with Nata De Coco 250g. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//KATO-Kato25percentStrawberryJuicewithNataDeCoco280gPack6-8850624395226-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850624395226",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Jelly Juice",
+            "KATO"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/kato-25percent-strawberry-juice-with-nata-de-coco-250g-pack-6-8850624395226",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Kato 25percent Orange Juice with Nata De Coco 250g. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//KATO-Kato25percentOrangeJuicewithNataDeCoco280gPack6-8850624293317-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8850624293317",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Jelly Juice",
+            "KATO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/kato-25percent-orange-juice-with-nata-de-coco-250g-pack-6-8850624293317",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Fontana Apple Grape And Pomegranate Juice100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FONTANA-FontanaAppleGrapeAndPomegranateJuice100percent1ltr-5290074002252-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "5290074002252",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FONTANA"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/fontana-apple-grape-and-pomegranate-juice100percent-1ltr-5290074002252",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Grape Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeGrapeJuice1ltr-8853333000030-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333000030",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/malee-grape-juice-1ltr-8853333000030",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Pomegranate Juice Mixed Fruit Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleePomegranateJuiceMixedFruitJuice100percent1ltr-8853333017915-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333017915",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/malee-pomegranate-juice-mixed-fruit-juice-100percent-1ltr-8853333017915",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Tropical Lychee Juice 20percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeTropicalLycheeJuice20percent1ltr-8853333017779-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333017779",
+        "Product_Detail": null,
+        "Price": "54",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/malee-tropical-lychee-juice-20percent-1ltr-8853333017779",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Kiwi and Grape Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoKiwiandGrapeJuice1ltr-8851013775490-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013775490",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/tipco-kiwi-and-grape-juice-1ltr-8851013775490",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Fontana Mixed Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FONTANA-FontanaMixedJuice100percent1ltr-5290074001736-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "5290074001736",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FONTANA"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/fontana-mixed-juice-100percent-1ltr-5290074001736",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Smile Pasteurized Orange Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SMILE-SmilePasteurizedOrangeJuice1ltr-8852108110011-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8852108110011",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "SMILE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/smile-pasteurized-orange-juice-1ltr-8852108110011",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "UFC Pineapple Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFC-UFCPineappleJuice100percent1ltr-8850025515018-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8850025515018",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "UFC"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/ufc-pineapple-juice-100percent-1ltr-8850025515018",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Red Grape Juice 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaRedGrapeJuice100percent1000ml-8854761010110-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8854761010110",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "CHABAA"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/chabaa-red-grape-juice-100percent-1000ml-8854761010110",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Tomato Juice 100percent 200ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeTomatoJuice100percent200mlPack3-8853333011623-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8853333011623",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/malee-tomato-juice-100percent-200ml-pack-3-8853333011623",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Tomato Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeTomatoJuice1ltr-8853333000054-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333000054",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/malee-tomato-juice-1ltr-8853333000054",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Smile Pasteurized Orange Juice with Pulp 1ltr. Pack2",
+        "Product_Images": [
+            "https://assets.tops.co.th//SMILE-SmilePasteurizedOrangeJuicewithPulp1ltrPack2-8852108110615-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8852108110615",
+        "Product_Detail": null,
+        "Price": "200",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "SMILE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/smile-pasteurized-orange-juice-with-pulp-1ltr-pack2-8852108110615",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Waan Thai Aloe Vera Juice 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-WaanThaiAloeVeraJuice250ml-8857118240116-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8857118240116",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "NONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/waan-thai-aloe-vera-juice-250ml-8857118240116",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Pineapple Juice 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaPineappleJuice100percent1000ml-8854761120116-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8854761120116",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "CHABAA"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/chabaa-pineapple-juice-100percent-1000ml-8854761120116",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Squeeze Pasteurized Fuji Apple Juice with Grape 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSqueezePasteurizedFujiAppleJuicewithGrape1ltr-8851013766290-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013766290",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "TIPCO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tipco-squeeze-pasteurized-fuji-apple-juice-with-grape-1ltr-8851013766290",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Profiber Mixed Vegetable and Fruit Juice Cherry Berry Formula 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoProfiberMixedVegetableandFruitJuiceCherryBerryFormula1ltr-8851013762490-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013762490",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "TIPCO"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tipco-profiber-mixed-vegetable-and-fruit-juice-cherry-berry-formula-1ltr-8851013762490",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Tangerine Juice with Oragange Sacs 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaTangerineJuicewithOragangeSacs100percent1000ml-8854761000111-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8854761000111",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "CHABAA"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/chabaa-tangerine-juice-with-oragange-sacs-100percent-1000ml-8854761000111",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Apple 100Percen Less Sweet 180ml. Pack 3",
+        "Product_Images": [
+            "https://assets.tops.co.th//SOFY-TipcoApple100PercenLessSweet180mlPack-8850779745945-1?$JPEG$"
+        ],
+        "Quantity": "180ml",
+        "Barcode_Number": "8850779745945",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tipco-apple-100percen-less-sweet-180ml-pack-3-8850779745945",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Unif Veggie Mixed Berry 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UNIF-UnifVeggieMixedBerry100percent1000ml-8850388540092-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850388540092",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "UNIF"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/unif-veggie-mixed-berry-100percent-1000ml-8850388540092",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Chabaa Young Coconut Juice with Coconut Flesh Less Sugar 230ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHABAA-ChabaaYoungCoconutJuicewithCoconutFleshLessSugar230ml-8854761001415-1?$JPEG$"
+        ],
+        "Quantity": "230ml",
+        "Barcode_Number": "8854761001415",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "CHABAA"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/chabaa-young-coconut-juice-with-coconut-flesh-less-sugar-230ml-8854761001415",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Guava Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeGuavaJuice100percent1ltr-8853333003291-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333003291",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/malee-guava-juice-100percent-1ltr-8853333003291",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Squeeze Pasteurized 100percent Sai Nam Phueng Orange Juice 1ltr. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSqueezePasteurized100percentSaiNamPhuengOrangeJuice1ltrPack2-8851013778248-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013778248",
+        "Product_Detail": null,
+        "Price": "197",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "TIPCO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tipco-squeeze-pasteurized-100percent-sai-nam-phueng-orange-juice-1ltr-pack-2-8851013778248",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Mangosteen Mixed Fruit Juice 100percent 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoMangosteenMixedFruitJuice100percent1ltr-8851013781491-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013781491",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/tipco-mangosteen-mixed-fruit-juice-100percent-1ltr-8851013781491",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Bickfords Lemon Flavoured 750ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BICKFORD-BickfordsLemonFlavoured750ml-9311755200739-1"
+        ],
+        "Quantity": "750ml",
+        "Barcode_Number": "9311755200739",
+        "Product_Detail": null,
+        "Price": "133",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "BICKFORD"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/bickfords-lemon-flavoured-750ml-9311755200739",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Happy Mate Apple Cider Forest Honey 200ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HAPPYMATE-HappyMateAppleCiderForestHoney200ml-8856891002539-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8856891002539",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Digestive Health",
+            "HAPPY MATE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/happy-mate-apple-cider-forest-honey-200ml-8856891002539",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Bickfords Lime Juice Flavoured 750ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BICKFORD-BickfordsLimeJuiceFlavoured750ml-9311755000025-1"
+        ],
+        "Quantity": "750ml",
+        "Barcode_Number": "9311755000025",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Thankyou-gbf-2025-oct /// Beverages",
+            "BICKFORD"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/bickfords-lime-juice-flavoured-750ml-9311755000025",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Real Simple Smoothie Mango and Pineapple 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//REALSIMPLE-RealSimpleSmoothieMangoandPineapple250ml-8854761950218-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8854761950218",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "REAL SIMPLE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/real-simple-smoothie-mango-and-pineapple-250ml-8854761950218",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Waan Thai Malva Nut Juice 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-WaanThaiMalvaNutJuice250ml-8857118240123-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8857118240123",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/waan-thai-malva-nut-juice-250ml-8857118240123",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Healti Plus Berry Mixed FruitJuice With Collgen and GarcinicExtract 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeHealtiPlusBerryMixedFruitJuiceWithCollgenandGarcinicExtract1ltr-8853333013597-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333013597",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "MALEE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/malee-healti-plus-berry-mixed-fruitjuice-with-collgen-and-garcinicextract-1ltr-8853333013597",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Unif 100percent Mixed Vegetable and Fruit Juice with Beet Root Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//UNIF-Unif100percentMixedVegetableandFruitJuicewithBeetRootJuice1ltr-8850388547480-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8850388547480",
+        "Product_Detail": null,
+        "Price": "76",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "UNIF"
+        ],
+        "Stock": "18",
+        "URL": "https://www.tops.co.th/en/unif-100percent-mixed-vegetable-and-fruit-juice-with-beet-root-juice-1ltr-8850388547480",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Squeeze Pasteurized Valencia Orange Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSqueezePasteurizedValenciaOrangeJuice1ltr-8851013793296-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013793296",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "TIPCO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tipco-squeeze-pasteurized-valencia-orange-juice-1ltr-8851013793296",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Homestyle Fiber Flow Green Veggies 100percent 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleeHomestyleFiberFlowGreenVeggies100percent1000ml-8853333026061-1?$JPEG$"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8853333026061",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Free From MSG or Preservatives",
+            "MALEE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/malee-homestyle-fiber-flow-green-veggies-100percent-1000ml-8853333026061",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Sunquick Mandarin Orange 330cc.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNQUICK-SunquickMandarinOrange330cc-8850332501056-1?$JPEG$"
+        ],
+        "Quantity": "330cc",
+        "Barcode_Number": "8850332501056",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Beverages",
+            "SUNQUICK"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sunquick-mandarin-orange-330cc-8850332501056",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco 32Veggie & Mixed Fruit Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-Tipco32VeggieMixedFruitJuice1ltr-8851013760496-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013760496",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "TIPCO"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/tipco-32veggie-mixed-fruit-juice-1ltr-8851013760496",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Profiber Mixed Vegetable and Fruit Juice Pomegranate Formula 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoProfiberMixedVegetableandFruitJuicePomegranateFormula1ltr-8851013748494-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013748494",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Healthiful /// Health Specific /// Free From MSG or Preservatives",
+            "TIPCO"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tipco-profiber-mixed-vegetable-and-fruit-juice-pomegranate-formula-1ltr-8851013748494",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Sunquick Mixed Berries Flavoured 800ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNQUICK-SunquickMixedBerriesFlavoured800ml-8850332501162-1"
+        ],
+        "Quantity": "800ml",
+        "Barcode_Number": "8850332501162",
+        "Product_Detail": null,
+        "Price": "188",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Beverages",
+            "SUNQUICK"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/sunquick-mixed-berries-flavoured-800ml-8850332501162",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee 100Percent Pasteurized Mandarin Orange Juice Squeezed from Mandarin Oranges 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-Malee100PercentPasteurizedMandarinOrangeJuiceSqueezedfromMandarinOranges1ltr-8853333014440-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333014440",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "MALEE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/malee-100percent-pasteurized-mandarin-orange-juice-squeezed-from-mandarin-oranges-1ltr-8853333014440",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Sunquick Orange 330cc.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNQUICK-SunquickOrange330cc-8850332501087-1"
+        ],
+        "Quantity": "330cc",
+        "Barcode_Number": "8850332501087",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Beverages",
+            "SUNQUICK"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/sunquick-orange-330cc-8850332501087",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Sunquick Mixed Fruit 800ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNQUICK-SunquickMixedFruit800ml-8850332501049-1"
+        ],
+        "Quantity": "800ml",
+        "Barcode_Number": "8850332501049",
+        "Product_Detail": null,
+        "Price": "188",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Beverages",
+            "SUNQUICK"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/sunquick-mixed-fruit-800ml-8850332501049",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jelly B Drinkable Konjac Jelly Grape 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JELLYB-JellyBDrinkableKonjacJellyGrape150ml-8804074500808-1?$JPEG$"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8804074500808",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "JELLYB"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/jelly-b-drinkable-konjac-jelly-grape-150ml-8804074500808",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jelly B Drinkable Konjac Jelly Blueberry 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JELLYB-JellyBDrinkableKonjacJellyBlueberry150ml-8804074000056-1?$JPEG$"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8804074000056",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "JELLYB"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/jelly-b-drinkable-konjac-jelly-blueberry-150ml-8804074000056",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Pasteurized Sai Num Phueng Orange Juice 1ltr. Pack 2",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleePasteurizedSaiNumPhuengOrangeJuice1ltrPack2-8853333004663-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333004663",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "MALEE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/malee-pasteurized-sai-num-phueng-orange-juice-1ltr-pack-2-8853333004663",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Sunquick Mandarin Orange 800ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNQUICK-SunquickMandarinOrange800ml-8850332501094-1"
+        ],
+        "Quantity": "800ml",
+        "Barcode_Number": "8850332501094",
+        "Product_Detail": null,
+        "Price": "188",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Beverages",
+            "SUNQUICK"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/sunquick-mandarin-orange-800ml-8850332501094",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jelly B Drinkable Konjac Jelly Peach 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JELLYB-JellyBDrinkableKonjacJellyPeach150ml-8804074500785-1?$JPEG$"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8804074500785",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "JELLYB"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/jelly-b-drinkable-konjac-jelly-peach-150ml-8804074500785",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Teisseire Peach Syrup 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEISSEIRE-TeisseirePeachSyrup600ml-3092718637699-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "3092718637699",
+        "Product_Detail": null,
+        "Price": "284",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "TEISSEIRE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/teisseire-peach-syrup-600ml-3092718637699",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Floridas Natural Most Pulp 100Percent Pure Orange Juice 1500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//FLORIDASNATURAL-FloridasNaturalMostPulp100PercentPureOrangeJuice1500ml-0016300168357-1"
+        ],
+        "Quantity": "1500ml",
+        "Barcode_Number": "0016300168357",
+        "Product_Detail": null,
+        "Price": "250",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "FLORIDAS NATURAL"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/floridas-natural-most-pulp-100percent-pure-orange-juice-1500ml-0016300168357",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Smile Pasteurized Carrot Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SMILE-SmilePasteurizedCarrotJuice1ltr-8852108110332-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8852108110332",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "SMILE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/smile-pasteurized-carrot-juice-1ltr-8852108110332",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jelly B Drinkable Konjac Jelly Watermelon 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JELLYB-JellyBDrinkableKonjacJellyWatermelon150ml-8804074500884-1?$JPEG$"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8804074500884",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "JELLYB"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/jelly-b-drinkable-konjac-jelly-watermelon-150ml-8804074500884",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jelly B Drinkable Konjac Jelly Apple 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JELLYB-JellyBDrinkableKonjacJellyApple150ml-8804074500822-1?$JPEG$"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8804074500822",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "JELLYB"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/jelly-b-drinkable-konjac-jelly-apple-150ml-8804074500822",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Manobu Chrysanthemum Tea 350ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MANOBU-ManobuChrysanthemumTea350ml-8854561000274-1"
+        ],
+        "Quantity": "350ml",
+        "Barcode_Number": "8854561000274",
+        "Product_Detail": null,
+        "Price": "26",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "MANOBU"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/manobu-chrysanthemum-tea-350ml-8854561000274",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Squeeze Pasteurized Cherry Berry Juice with Grape 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSqueezePasteurizedCherryBerryJuicewithGrape1ltr-8851013773298-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013773298",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "TIPCO"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/tipco-squeeze-pasteurized-cherry-berry-juice-with-grape-1ltr-8851013773298",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Pfanner Apfel Gespritzt Sparkling 0.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNLEE-PfannerApfelGespritztSparkling05ltr-0000090167607-1?$JPEG$"
+        ],
+        "Quantity": "0.5l",
+        "Barcode_Number": "0000090167607",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "PFANNER"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/pfanner-apfel-gespritzt-sparkling-05ltr-0000090167607",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Sunquick Lemon Mix Flavor 800ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SUNQUICK-SunquickLemonMixFlavor800ml-9556107215089-1"
+        ],
+        "Quantity": "800ml",
+        "Barcode_Number": "9556107215089",
+        "Product_Detail": null,
+        "Price": "188",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Beverages",
+            "SUNQUICK"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sunquick-lemon-mix-flavor-800ml-9556107215089",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Pasteurized Sai Num Phueng Orange Juice 300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleePasteurizedSaiNumPhuengOrangeJuice300ml-8853333004618-1"
+        ],
+        "Quantity": "300ml",
+        "Barcode_Number": "8853333004618",
+        "Product_Detail": null,
+        "Price": "41",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "MALEE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/malee-pasteurized-sai-num-phueng-orange-juice-300ml-8853333004618",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Smile Pasteurized Apple Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SMILE-SmilePasteurizedAppleJuice1ltr-8852108110080-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8852108110080",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "SMILE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/smile-pasteurized-apple-juice-1ltr-8852108110080",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jelly B Drinkable Konjac Jelly Orange 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JELLYB-JellyBDrinkableKonjacJellyOrange150ml-8804074000490-1?$JPEG$"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8804074000490",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "JELLYB"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/jelly-b-drinkable-konjac-jelly-orange-150ml-8804074000490",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Seiken Aomori Japanese Apple Juice 100ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SEIKEN-SeikenAomoriJapaneseAppleJuice100ml-4958757000094-1?$JPEG$"
+        ],
+        "Quantity": "100ml",
+        "Barcode_Number": "4958757000094",
+        "Product_Detail": null,
+        "Price": "319",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "SEIKEN"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/seiken-aomori-japanese-apple-juice-100ml-4958757000094",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Squeeze Pasteurized Shogun Orange Juice 300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSqueezePasteurizedShogunOrangeJuice300ml-8851013791285-1?$JPEG$"
+        ],
+        "Quantity": "300ml",
+        "Barcode_Number": "8851013791285",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "TIPCO"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tipco-squeeze-pasteurized-shogun-orange-juice-300ml-8851013791285",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Tipco Squeeze Pasteurized Pomegranate Juice with Mixed Fruit 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TIPCO-TipcoSqueezePasteurizedPomegranateJuicewithMixedFruit1ltr-8851013767297-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8851013767297",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "TIPCO"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/tipco-squeeze-pasteurized-pomegranate-juice-with-mixed-fruit-1ltr-8851013767297",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "B Nature Strawberry Drinks 230ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BENATURE-BNatureStrawberryDrinks230ml-8859316800017-1"
+        ],
+        "Quantity": "230ml",
+        "Barcode_Number": "8859316800017",
+        "Product_Detail": null,
+        "Price": "30",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "BE NATURE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/b-nature-strawberry-drinks-230ml-8859316800017",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Momlike Banana Blossom Juice with Date Palm and Lemon 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOMLIKE-MomlikeBananaBlossomJuicewithDatePalmandLemon250ml-8859274200157-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8859274200157",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Healthiful /// Health Specific /// Low in Sugar",
+            "MOMLIKE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/momlike-banana-blossom-juice-with-date-palm-and-lemon-250ml-8859274200157",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Happy Mate Organic Apple Cider with Farm Honey 200ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//HAPPYMATE-HappyMateOrganicAppleCiderwithFarmHoney200mlPack6-8856891000795-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "8856891000795",
+        "Product_Detail": null,
+        "Price": "258",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Digestive Health",
+            "HAPPY MATE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/happy-mate-organic-apple-cider-with-farm-honey-200ml-pack-6-8856891000795",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Vita Apple And Grape Juice 100percent 1000ml. Pack2",
+        "Product_Images": [
+            "https://assets.tops.co.th//VITA-VitaAppleJuice100percent1000mlPack2-8856382008118-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8856382008118",
+        "Product_Detail": null,
+        "Price": "265",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "VITA"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/vita-apple-and-grape-juice-100percent-1000ml-pack2-8856382008118",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Real Simple Smoothie Peach and Raspberry and Orange and Pomegranate 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//REALSIMPLE-RealSimpleSmoothiePeachandRaspberryandOrangeandPomegranate250ml-8854761950225-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8854761950225",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "REAL SIMPLE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/real-simple-smoothie-peach-and-raspberry-and-orange-and-pomegranate-250ml-8854761950225",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Kagome Mix Vegetable and Fruit Juice with Carrot and Grape 100percent 200ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KAGOME-KagomeMixVegetableandFruitJuicewithCarrotandGrape100percent200ml-4901306006962-1"
+        ],
+        "Quantity": "200ml",
+        "Barcode_Number": "4901306006962",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "KAGOME"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/kagome-mix-vegetable-and-fruit-juice-with-carrot-and-grape-100percent-200ml-4901306006962",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Pfanner Cloudy Apple Juice 100Percen 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PFANNER-PfannerCloudyAppleJuice100Percen1ltr-9006900221249-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "9006900221249",
+        "Product_Detail": null,
+        "Price": "127",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "PFANNER"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/pfanner-cloudy-apple-juice-100percen-1ltr-9006900221249",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Cantabile Peach Iced Tea Drink 230ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTABILE-CantabilePeachIcedTea230ml-8809253648746-1?$JPEG$"
+        ],
+        "Quantity": "230ml",
+        "Barcode_Number": "8809253648746",
+        "Product_Detail": null,
+        "Price": "31",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "CANTABILE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/cantabile-peach-iced-tea-drink-230ml-8809253648746",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Cantabile Blueberry Flavored 230ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CANTABILE-CantabileBlueberry230ml-8809253644687-1?$JPEG$"
+        ],
+        "Quantity": "230ml",
+        "Barcode_Number": "8809253644687",
+        "Product_Detail": null,
+        "Price": "31",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "CANTABILE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/cantabile-blueberry-flavored-230ml-8809253644687",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jelly B Drinkable Konjac Jelly Lychee 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JELLYB-JellyBDrinkableKonjacJellyLychee150ml-8804074000254-1?$JPEG$"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8804074000254",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "JELLYB"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/jelly-b-drinkable-konjac-jelly-lychee-150ml-8804074000254",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Orangina Orange Juice Sparkling 330ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SENKA-OranginaOrangeJuiceSparkling330ml-4000140703881-1?$JPEG$"
+        ],
+        "Quantity": "330ml",
+        "Barcode_Number": "4000140703881",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "ORANGINA"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/orangina-orange-juice-sparkling-330ml-4000140703881",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Teisseire Grenadine Syrup 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEISSEIRE-TeisseireGrenadine600ml-3092718637095-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "3092718637095",
+        "Product_Detail": null,
+        "Price": "284",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "TEISSEIRE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/teisseire-grenadine-syrup-600ml-3092718637095",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Teisseire Green Mint Syrup 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEISSEIRE-TeisseireGreenMint600ml-3092718637033-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "3092718637033",
+        "Product_Detail": null,
+        "Price": "284",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "TEISSEIRE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/teisseire-green-mint-syrup-600ml-3092718637033",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Pfanner Orange Drink Juice 25Percen 1.5ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PFANNER-PfannerOrangeDrinkJuice25Percen15ltr-9006900013073-1?$JPEG$"
+        ],
+        "Quantity": "1.5l",
+        "Barcode_Number": "9006900013073",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "PFANNER"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/pfanner-orange-drink-juice-25percen-15ltr-9006900013073",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "HomLamoon Chrysanthemum Drink 300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HOMLAMOON-HomLamoonChrysanthemumDrink300ml-8857200269254-1"
+        ],
+        "Quantity": "300ml",
+        "Barcode_Number": "8857200269254",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "HOMLAMOON"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/homlamoon-chrysanthemum-drink-300ml-8857200269254",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Bel Normande Sparkling Red Grape Juice 750ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BELNORMANDE-BelNormandeSparklingRedGrapeJuice750ml-3104935391329-1"
+        ],
+        "Quantity": "750ml",
+        "Barcode_Number": "3104935391329",
+        "Product_Detail": null,
+        "Price": "302",
+        "Labels": [
+            "Beverages /// Fruit Juice /// 100% Juice",
+            "BEL NORMANDE"
+        ],
+        "Stock": "38",
+        "URL": "https://www.tops.co.th/en/bel-normande-sparkling-red-grape-juice-750ml-3104935391329",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Teisseire Strawberry Syrup 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEISSEIRE-TeisseireStrawberry600ml-3092718637392-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "3092718637392",
+        "Product_Detail": null,
+        "Price": "227",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "TEISSEIRE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/teisseire-strawberry-syrup-600ml-3092718637392",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Teisseire Lemon Syrup 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEISSEIRE-TeisseireLemon600ml-3092718637002-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "3092718637002",
+        "Product_Detail": null,
+        "Price": "284",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "TEISSEIRE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/teisseire-lemon-syrup-600ml-3092718637002",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Pfanner Apple Juice 100Percen 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PFANNER-PfannerAppleJuice100Percen1ltr-9006900017507-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "9006900017507",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "PFANNER"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/pfanner-apple-juice-100percen-1ltr-9006900017507",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Miss Julie Corn Milk 180ml.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTOR-MissJulieCornMilk180mlC-8859378600013-1?$JPEG$"
+        ],
+        "Quantity": "180ml",
+        "Barcode_Number": "8859378600013",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "DOCTOR"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/miss-julie-corn-milk-180mlc-8859378600013",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Pasteurized Tangerine Orange Juice with Orange Pulp and Sac 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleePasteurizedTangerineOrangeJuicewithOrangePulpandSac1ltr-8853333014273-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333014273",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "MALEE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/malee-pasteurized-tangerine-orange-juice-with-orange-pulp-and-sac-1ltr-8853333014273",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Malee Pasteurized Pomegranate Juice with White Grape and Apple 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MALEE-MaleePasteurizedPomegranateJuicewithWhiteGrapeandApple1ltr-8853333012606-1"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "8853333012606",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "MALEE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/malee-pasteurized-pomegranate-juice-with-white-grape-and-apple-1ltr-8853333012606",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Hello Boy Cream Soda 40ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//HELLOBOY-HelloBoyCreamSoda40ml-8850297605073-1?$JPEG$"
+        ],
+        "Quantity": "40ml",
+        "Barcode_Number": "8850297605073",
+        "Product_Detail": null,
+        "Price": "8",
+        "Labels": [
+            "Beverages /// Fruit Juice /// Concentrated Juice",
+            "HELLO BOY"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/hello-boy-cream-soda-40ml-8850297605073",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Jelly B Drinkable Konjac Jelly Mango 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//JELLYB-JellyBDrinkableKonjacJellyMango150ml-8804074000063-1?$JPEG$"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8804074000063",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "JELLYB"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/jelly-b-drinkable-konjac-jelly-mango-150ml-8804074000063",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Coolpis Peach Juice with Yogurt 230ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//COOLPIS-CoolpisPeachJuicewithYogurt230ml-8801047291138-1?$JPEG$"
+        ],
+        "Quantity": "230ml",
+        "Barcode_Number": "8801047291138",
+        "Product_Detail": null,
+        "Price": "36",
+        "Labels": [
+            "International Products /// SOUTH KOREA /// Beverages",
+            "COOLPIS"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/coolpis-peach-juice-with-yogurt-230ml-8801047291138",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Teisseire Passion Fruit Syrup 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEISSEIRE-TeisseirePassionFruit600ml-3092718637453-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "3092718637453",
+        "Product_Detail": null,
+        "Price": "284",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "TEISSEIRE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/teisseire-passion-fruit-syrup-600ml-3092718637453",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Teisseire Lemon Lime Syrup 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEISSEIRE-TeisseireLemonLime600ml-3092718637361-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "3092718637361",
+        "Product_Detail": null,
+        "Price": "227",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "TEISSEIRE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/teisseire-lemon-lime-syrup-600ml-3092718637361",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Teisseire Blackcurrant 600ml",
+        "Product_Images": [
+            "https://assets.tops.co.th//TEISSEIRE-TeisseireBlackcurrant600ml-3092718637309-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "3092718637309",
+        "Product_Detail": null,
+        "Price": "284",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "TEISSEIRE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/teisseire-blackcurrant-600ml-3092718637309",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    },
+    {
+        "Product_Name": "Martinellis Apple Juice 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARTINELLIS-MartinellisAppleJuice1ltr-0041244010103-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "0041244010103",
+        "Product_Detail": null,
+        "Price": "359",
+        "Labels": [
+            "Promotion /// Import Products /// Beverages",
+            "MARTINELLIS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/martinellis-apple-juice-1ltr-0041244010103",
+        "Category": "beverages",
+        "Sub_Category": "fruit_juice"
+    }
+]

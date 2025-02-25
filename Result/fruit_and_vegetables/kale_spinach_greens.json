@@ -1,0 +1,290 @@
+[
+    {
+        "Product_Name": "My Choice Bok Choy Special",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceBokChoySpecial-0000030068032-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000030068032",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-bok-choy-special-0000030068032",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "Dr.Baby Chinese Morning Glory 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTORVEGETABLES-DrBabyChineseMorningGlory200gC-0000033440026-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000033440026",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "DOCTOR VEGETABLES"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/drbaby-chinese-morning-glory-200gc-0000033440026",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "N&P Pak Choy 150g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NP-NPPakChoy150gC-8858738401741-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8858738401741",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "N&P"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/np-pak-choy-150gc-8858738401741",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "N&P Organic Chinese Kale 180g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NP-NPOrganicChineseKale180gC-8858738401895-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8858738401895",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "N&P"
+        ],
+        "Stock": "99",
+        "URL": "https://www.tops.co.th/en/np-organic-chinese-kale-180gc-8858738401895",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "Dr.Organic Morning Glory 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTORVEGETABLES-DrOrganicMorningGlory200gC-0000046652065-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000046652065",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "DOCTOR VEGETABLES"
+        ],
+        "Stock": "96",
+        "URL": "https://www.tops.co.th/en/drorganic-morning-glory-200gc-0000046652065",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "Dr.Pak Choi 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTORVEGETABLES-DrPakChoi200gC-0000038685064-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000038685064",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "DOCTOR VEGETABLES"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/drpak-choi-200gc-0000038685064",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "Dr.Baby Chinese Kale 200g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTORVEGETABLES-DrBabyChineseKale200gC-0000033439020-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000033439020",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "DOCTOR VEGETABLES"
+        ],
+        "Stock": "99",
+        "URL": "https://www.tops.co.th/en/drbaby-chinese-kale-200gc-0000033439020",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "My Choice Young Kale 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceYoungKale250g-0000030171015-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0000030171015",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-young-kale-250g-0000030171015",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "My Choice Acacia Special 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceAcaciaSpecial150g-0000030090033-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "0000030090033",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-acacia-special-150g-0000030090033",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "My Choice Kale 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceKale250g-0209200039593-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0209200039593",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-kale-250g-0209200039593",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "My Choice Chinese Cabbage Special 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceChineseCabbageSpecial250g-0209200039586-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0209200039586",
+        "Product_Detail": null,
+        "Price": "37",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-chinese-cabbage-special-250g-0209200039586",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "N&P Morning Glory 180g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NP-NPMorningGlory180g-8858738401666-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8858738401666",
+        "Product_Detail": null,
+        "Price": "28",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "N&P"
+        ],
+        "Stock": "99",
+        "URL": "https://www.tops.co.th/en/np-morning-glory-180gc-8858738401666",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "N&P Spinach 150g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NP-NPSpinach150g-8858738401642-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8858738401642",
+        "Product_Detail": null,
+        "Price": "36",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "N&P"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/np-spinach-150gc-8858738401642",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "Dr.Kale 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTORVEGETABLES-DrKale250gC-0000033454023-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0000033454023",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "DOCTOR VEGETABLES"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/drkale-250gc-0000033454023",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "My Choice Organic Ivy Gourd 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceOrganicIvyGourd150g-0000037194048-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "0000037194048",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-organic-ivy-gourd-150g-0000037194048",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    },
+    {
+        "Product_Name": "My Choice Organic Chinese Kale 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceOrganicChineseKale200g-0000030768062-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000030768062",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-organic-chinese-kale-200g-0000030768062",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "kale_spinach_greens"
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "Product_Name": "Gatorade No Sugar Strawberry 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GATORADE-GatoradeNoSugarStrawberry500ml-8858998587216-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8858998587216",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "GATORADE"
+        ],
+        "Stock": "77",
+        "URL": "https://www.tops.co.th/en/gatorade-no-sugar-strawberry-500ml-8858998587216",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Pocari Sweat Citrus Flavour 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//POCARISWEAT-PocariSweatCitrusFlavour500ml-8859453985011-1"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8859453985011",
+        "Product_Detail": null,
+        "Price": "27",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "POCARI SWEAT"
+        ],
+        "Stock": "132",
+        "URL": "https://www.tops.co.th/en/pocari-sweat-citrus-flavour-500ml-8859453985011",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Gatorade Lemon Lime Flavour 500ml. Pack 12",
+        "Product_Images": [
+            "https://assets.tops.co.th//GATORADE-GatoradeLemonLimeFlavour500mlPack12-8858998597086-1"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8858998597086",
+        "Product_Detail": null,
+        "Price": "288",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "GATORADE"
+        ],
+        "Stock": "60",
+        "URL": "https://www.tops.co.th/en/gatorade-lemon-lime-flavour-500ml-pack-12-8858998597086",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Gatorade Lemon Lime Flavour 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GATORADE-GatoradeLemonLimeFlavour500ml-8858998587025-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8858998587025",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// GATORADE",
+            "GATORADE"
+        ],
+        "Stock": "728",
+        "URL": "https://www.tops.co.th/en/gatorade-lemon-lime-flavour-500ml-8858998587025",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Carabowdang Energy Drink 150cc. Pack 10",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARABOWDANG-CarabowdangEnergyDrink150ccPack10-8855790000066-1?$JPEG$"
+        ],
+        "Quantity": "150cc",
+        "Barcode_Number": "8855790000066",
+        "Product_Detail": null,
+        "Price": "88",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "CARABOWDANG"
+        ],
+        "Stock": "108",
+        "URL": "https://www.tops.co.th/en/carabowdang-energy-drink-150cc-pack-10-8855790000066",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "TWCarabowdang Energy Drink 150cc.Pack 50 000018",
+        "Product_Images": [
+            "https://assets.tops.co.th//CARABOWDANG-TWCarabowdangEnergyDrink150ccPack50000018-0000039675064-1"
+        ],
+        "Quantity": "150cc",
+        "Barcode_Number": "0000039675064",
+        "Product_Detail": null,
+        "Price": "435",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "CARABOWDANG"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/twcarabowdang-energy-drink-150ccpack-50-000018-0000039675064",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "C Vitt Vitamin Lemon 140ml. Pack 10",
+        "Product_Images": [
+            "https://assets.tops.co.th//C-VITT-CVittVitaminLemon140mlPack10-8851123237017-1"
+        ],
+        "Quantity": "140ml",
+        "Barcode_Number": "8851123237017",
+        "Product_Detail": null,
+        "Price": "158",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "C-VITT"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/c-vitt-vitamin-lemon-140ml-pack-10-8851123237017",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Gatorade Blue Blast Flavour 500ml. Pack 12",
+        "Product_Images": [
+            "https://assets.tops.co.th//GATORADE-GatoradeBlueBlastFlavour500mlPack12-8858998597116-1"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8858998597116",
+        "Product_Detail": null,
+        "Price": "288",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "GATORADE"
+        ],
+        "Stock": "40",
+        "URL": "https://www.tops.co.th/en/gatorade-blue-blast-flavour-500ml-pack-12-8858998597116",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Gatorade Blue Blast Flavour 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//GATORADE-GatoradeBlueBlastFlavour500ml-8858998587056-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8858998587056",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Shop by Brands /// Pepsi Beverage /// GATORADE",
+            "GATORADE"
+        ],
+        "Stock": "486",
+        "URL": "https://www.tops.co.th/en/gatorade-blue-blast-flavour-500ml-8858998587056",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "PH Plus Water with Vitamin B Drink 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PHPLUS-PHPlusWaterwithVitaminBDrink550ml-8858891306402-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8858891306402",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "PH PLUS"
+        ],
+        "Stock": "55",
+        "URL": "https://www.tops.co.th/en/ph-plus-water-with-vitamin-b-drink-550ml-8858891306402",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "C Vitt Vitamin Orange 140ml. Pack 10",
+        "Product_Images": [
+            "https://assets.tops.co.th//C-VITT-CVittVitaminOrange140mlPack10-8851123237048-1"
+        ],
+        "Quantity": "140ml",
+        "Barcode_Number": "8851123237048",
+        "Product_Detail": null,
+        "Price": "158",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "C-VITT"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/c-vitt-vitamin-orange-140ml-pack-10-8851123237048",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "C Vit Vitamin Pomegrante 140ml. Pack 10",
+        "Product_Images": [
+            "https://assets.tops.co.th//C-VITT-CVitVitaminPomegrante140mlPack10-8851123237079-1"
+        ],
+        "Quantity": "140ml",
+        "Barcode_Number": "8851123237079",
+        "Product_Detail": null,
+        "Price": "158",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "C-VITT"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/c-vit-vitamin-pomegrante-140ml-pack-10-8851123237079",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "C Vitt Vitamin Orange 1000ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//C-VITT-CVittVitaminOrange1000ml-8850274025306-1"
+        ],
+        "Quantity": "1000ml",
+        "Barcode_Number": "8850274025306",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "C-VITT"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/c-vitt-vitamin-orange-1000ml-8850274025306",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Sponsor Electrolyte Original Flavoured 325ml. Pack 6",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPONSOR-SponsorElectrolyteOriginalFlavoured325mlPack6-8850228004999-1"
+        ],
+        "Quantity": "325ml",
+        "Barcode_Number": "8850228004999",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "SPONSOR"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/sponsor-electrolyte-original-flavoured-325ml-pack-6-8850228004999",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Sponsor Electrolyte Beverage Original Flavoured 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPONSOR-SponsorElectrolyteBeverageOriginalFlavoured250ml-8850228000403-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8850228000403",
+        "Product_Detail": null,
+        "Price": "12",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "SPONSOR"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/sponsor-electrolyte-beverage-original-flavoured-250ml-8850228000403",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Yanhee Vitamin Water 460ml. Pack 12",
+        "Product_Images": [
+            "https://assets.tops.co.th//YANHEE-YanheeVitaminWater460mlPack12-8859159800137-1"
+        ],
+        "Quantity": "460ml",
+        "Barcode_Number": "8859159800137",
+        "Product_Detail": null,
+        "Price": "180",
+        "Labels": [
+            "Healthiful /// Alternative Healthy Lifestyle /// Low in Sugar",
+            "YANHEE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/yanhee-vitamin-water-460ml-pack-12-8859159800137",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "C Vitt Vitamin Passion Fruit 140ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CVITT-CVittVitaminPassionFruit140ml-8851123237475-1?$JPEG$"
+        ],
+        "Quantity": "140ml",
+        "Barcode_Number": "8851123237475",
+        "Product_Detail": null,
+        "Price": "16",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "C-VITT"
+        ],
+        "Stock": "41",
+        "URL": "https://www.tops.co.th/en/c-vitt-vitamin-passion-fruit-140ml-8851123237475",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Sponsor Original 420ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPONSOR-SponsorOriginal420ml-8850228006979-1"
+        ],
+        "Quantity": "420ml",
+        "Barcode_Number": "8850228006979",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "SPONSOR"
+        ],
+        "Stock": "34",
+        "URL": "https://www.tops.co.th/en/sponsor-original-420ml-8850228006979",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Red Bull Energy Drink 250ml. Pack 4",
+        "Product_Images": [
+            "https://assets.tops.co.th//REDBULL-RedBullEnergyDrink250mlPack4-9002490100490-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "9002490100490",
+        "Product_Detail": null,
+        "Price": "269",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "RED BULL"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/red-bull-energy-drink-250ml-pack-4-9002490100490",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Calpis Lacto Original 300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CALPIS-CalpisLactoOriginal300ml-8851123238021-1"
+        ],
+        "Quantity": "300ml",
+        "Barcode_Number": "8851123238021",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "CALPIS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/calpis-lacto-original-300ml-8851123238021",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Ready Energy Drink 150cc.",
+        "Product_Images": [
+            "https://assets.tops.co.th//READY-ReadyEnergyDrink150cc-8850228001615-1"
+        ],
+        "Quantity": "150cc",
+        "Barcode_Number": "8850228001615",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "READY"
+        ],
+        "Stock": "39",
+        "URL": "https://www.tops.co.th/en/ready-energy-drink-150cc-8850228001615",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Hi Vitamin Mixed Berry 145ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//HI-HiVitaminMixedBerry150ml-8850228006559-1?$JPEG$"
+        ],
+        "Quantity": "145ml",
+        "Barcode_Number": "8850228006559",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "HI"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/hi-vitamin-mixed-berry-145ml-8850228006559",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "C Vitt Plus Vitamin C and Collagen 140ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//C-VITTPLUS-CVittPlusVitaminCandCollagen140ml-8851123237185-1?$JPEG$"
+        ],
+        "Quantity": "140ml",
+        "Barcode_Number": "8851123237185",
+        "Product_Detail": null,
+        "Price": "20",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "C-VITT PLUS"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/c-vitt-plus-vitamin-c-and-collagen-140ml-8851123237185",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Sponsor Active Vitamin C Lemon 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPONSORACTIVE-SponsorActiveVitaminCLemon250ml-8850228001752-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8850228001752",
+        "Product_Detail": null,
+        "Price": "12",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "SPONSOR ACTIVE"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/sponsor-active-vitamin-c-lemon-250ml-8850228001752",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Moove Protein Water Lemon Splash Flavored 400ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOOVE-MooveProteinWaterLemonSplashFlavored400ml-8854561002681-1?$JPEG$"
+        ],
+        "Quantity": "400ml",
+        "Barcode_Number": "8854561002681",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "MOOVE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/moove-protein-water-lemon-splash-flavored-400ml-8854561002681",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Ready Boost Energy Drink 150ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//READY-ReadyBoostEnergyDrink150ml-8850228001899-1"
+        ],
+        "Quantity": "150ml",
+        "Barcode_Number": "8850228001899",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Functional Drinks",
+            "READY"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/ready-boost-energy-drink-150ml-8850228001899",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Sponsor Electrolyte Beverage Original Flavoured 250ml. Pack 24",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPONSOR-SponsorElectrolyteBeverageOriginalFlavoured250mlPack24-8850228010082-1"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "8850228010082",
+        "Product_Detail": null,
+        "Price": "243",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "SPONSOR"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/sponsor-electrolyte-beverage-original-flavoured-250ml-pack-24-8850228010082",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Red Bull Energy Drink 250ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//REDBULL-RedBullEnergyDrink250ml-9002490221249-1?$JPEG$"
+        ],
+        "Quantity": "250ml",
+        "Barcode_Number": "9002490221249",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "RED BULL"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/red-bull-energy-drink-250ml-9002490221249",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Moove Protein Water Mixed Berry Flavored 400ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOOVE-MooveProteinWaterMixedBerryFlavored400ml-8854561002674-1?$JPEG$"
+        ],
+        "Quantity": "400ml",
+        "Barcode_Number": "8854561002674",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Promotion /// Fresh /// Beverages",
+            "MOOVE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/moove-protein-water-mixed-berry-flavored-400ml-8854561002674",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "TWM150 150cc.Pack 50 212267",
+        "Product_Images": [
+            "https://assets.tops.co.th//M-150-TWM150150ccPack50212267-0000037218027-1"
+        ],
+        "Quantity": "150cc",
+        "Barcode_Number": "0000037218027",
+        "Product_Detail": null,
+        "Price": "525",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "M-150"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/twm150-150ccpack-50-212267-0000037218027",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    },
+    {
+        "Product_Name": "Sting Strawberry Blast 300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//STING-StingStrawberryBlast300ml-8858998584482-1?$JPEG$"
+        ],
+        "Quantity": "300ml",
+        "Barcode_Number": "8858998584482",
+        "Product_Detail": null,
+        "Price": "15",
+        "Labels": [
+            "Beverages /// Functional Drinks /// Energy & Sports Drinks",
+            "STING"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/sting-strawberry-blast-300ml-8858998584482",
+        "Category": "beverages",
+        "Sub_Category": "functional_drinks"
+    }
+]

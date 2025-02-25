@@ -1,0 +1,812 @@
+[
+    {
+        "Product_Name": "One Pig Bacon Pro 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ONEPIG-OnePigBaconPro200g-8859694480672-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859694480672",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ONE PIG"
+        ],
+        "Stock": "43",
+        "URL": "https://www.tops.co.th/en/one-pig-bacon-pro-200g-8859694480672",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "One Pig Bologna Chili 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ONEPIG-OnePigBolognaChili200g-8859694480535-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859694480535",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ONE PIG"
+        ],
+        "Stock": "41",
+        "URL": "https://www.tops.co.th/en/one-pig-bologna-chili-200g-8859694480535",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "One Pig Cocktail 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ONEPIG-OnePigCocktail250g-8859694480399-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8859694480399",
+        "Product_Detail": null,
+        "Price": "72",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ONE PIG"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/one-pig-cocktail-250g-8859694480399",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Tops Pork Ball 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsPorkBall100g-8853474080779-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8853474080779",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TOPS"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/tops-pork-ball-100g-8853474080779",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "One Pig Bologna 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ONEPIG-OnePigBologna200g-8859694480450-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859694480450",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ONE PIG"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/one-pig-bologna-200g-8859694480450",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "One Pig Smoked Ham 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ONEPIG-OnePigSmokedHam120g-8859694480795-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8859694480795",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "ONE PIG"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/one-pig-smoked-ham-120g-8859694480795",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "(OTOP) Nai Ood Five Spices Pork Leg Stew 2500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NaiOodFiveSpicesPorkLegStew2500g-8852020910997-1?$JPEG$"
+        ],
+        "Quantity": "2500g",
+        "Barcode_Number": "8852020910997",
+        "Product_Detail": null,
+        "Price": "599",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/otop-nai-ood-five-spices-pork-leg-stew-2500g-8852020910997",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Cottage Bacon 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMBacon150g-8850826507175-1?$JPEG$"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850826507175",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/tgm-cottage-bacon-150g-8850826507175",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chao Sua Crispy Pork 30g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaoSuaCrispyPork30g-8852240050060-1"
+        ],
+        "Quantity": "30g",
+        "Barcode_Number": "8852240050060",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "CHAO SUA"
+        ],
+        "Stock": "124",
+        "URL": "https://www.tops.co.th/en/chao-sua-crispy-pork-30g-8852240050060",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Smoked Round Ham 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMSmokedRoundHam120g-8850826506611-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8850826506611",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/tgm-smoked-round-ham-120g-8850826506611",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Chaosua Snax Crispy Pork Stick Original Flaver 110g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CHAOSUA-ChaosuaCrispyPorkStickOriginalFlaver110g-8852240040184-1"
+        ],
+        "Quantity": "110g",
+        "Barcode_Number": "8852240040184",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CHAOSUA SNAX"
+        ],
+        "Stock": "56",
+        "URL": "https://www.tops.co.th/en/chaosua-snax-crispy-pork-stick-original-flaver-110g-8852240040184",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Arabiki Sausage 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMArabikiSausage100g-8850826507908-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826507908",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/tgm-arabiki-sausage-100g-8850826507908",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Toast Ham 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMToastHam90g-8850826500220-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850826500220",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/tgm-toast-ham-90g-8850826500220",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Cheese Cocktail 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMCheeseCocktail90g-8850826505935-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850826505935",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "60",
+        "URL": "https://www.tops.co.th/en/tgm-cheese-cocktail-90g-8850826505935",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Ham Sandwich 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMHamSandwich100g-8850826505720-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826505720",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/tgm-ham-sandwich-100g-8850826505720",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Chaili Arabiki Sausage 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMChailiArabikiSausage100g-8850826508264-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826508264",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tgm-chaili-arabiki-sausage-100g-8850826508264",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Ham Sandwich A 95g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMHamSandwichA95g-8850826506260-1?$JPEG$"
+        ],
+        "Quantity": "95g",
+        "Barcode_Number": "8850826506260",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/tgm-ham-sandwich-a-95g-8850826506260",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Picnic Bacon 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMPicnicBacon120g-8850826506598-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8850826506598",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "47",
+        "URL": "https://www.tops.co.th/en/tgm-picnic-bacon-120g-8850826506598",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Haus Salami 70g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceHausSalami70g-8853474021970-1?$JPEG$"
+        ],
+        "Quantity": "70g",
+        "Barcode_Number": "8853474021970",
+        "Product_Detail": null,
+        "Price": "122",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-haus-salami-70g-8853474021970",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Cheese Arabiki Sausage 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMCheeseArabikiSausage75g-8850826509414-1?$JPEG$"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8850826509414",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/tgm-cheese-arabiki-sausage-75g-8850826509414",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thai Sausage Chili Pork Balona 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAISAUSAGE-ThaiSausageChiliPorkBalona90g-8850807915203-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850807915203",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAI SAUSAGE"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/thai-sausage-chili-pork-balona-90g-8850807915203",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "BKP Smoked Crispy Chicken Frank 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BKP-BKPSmokedCrispyChickenFrank500g-8850653794731-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8850653794731",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "BKP"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/bkp-smoked-crispy-chicken-frank-500g-8850653794731",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Fresh Esarn Sausage 270g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenFreshEsarnSausage270g-8850269010768-1"
+        ],
+        "Quantity": "270g",
+        "Barcode_Number": "8850269010768",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/skhonkaen-fresh-esarn-sausage-270g-8850269010768",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Smoked Paris Ham 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSmokedParisHam150g-8853474037292-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8853474037292",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-paris-ham-150g-8853474037292",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Smoked Bacon 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMSmokedBacon180g-8850826500527-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8850826500527",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/tgm-smoked-bacon-180g-8850826500527",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Bacon Barbeque Sliced 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMBaconBarbequeSliced120g-8850826505638-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8850826505638",
+        "Product_Detail": null,
+        "Price": "125",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "TGM"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/tgm-bacon-barbeque-sliced-120g-8850826505638",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Ham 4x4 Promotion 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMHam4x4Promotion300g-8850826507236-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8850826507236",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tgm-ham-4x4-promotion-300g-8850826507236",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Canadian Bacon 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMCanadianBacon90g-8850826504754-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850826504754",
+        "Product_Detail": null,
+        "Price": "83",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tgm-canadian-bacon-90g-8850826504754",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Roast Ham 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMRoastHam80g-8850826506055-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8850826506055",
+        "Product_Detail": null,
+        "Price": "73",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/tgm-roast-ham-80g-8850826506055",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Betagro Ham Classic 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroHamClassic120g-8856294044280-1"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8856294044280",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "BETAGRO"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/betagro-ham-classic-120g-8856294044280",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thai Sausage Smoked  Sausage Mini 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAISAUSAGE-ThaiSausageSmokedSausageMini100g-8850826506284-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850826506284",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAI SAUSAGE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/thai-sausage-smoked-sausage-mini-100g-8850826506284",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "S.Khonkaen Authentic Vietnamese Sausage 150g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SKHONKAEN-SKhonkaenAuthenticVietnameseSausage150g-8850269018986-1"
+        ],
+        "Quantity": "150g",
+        "Barcode_Number": "8850269018986",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "S.KHONKAEN"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/skhonkaen-authentic-vietnamese-sausage-150g-8850269018986",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Captain Jerky Pork With Coriander Seeds Recipe 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CAPTAIN-CaptainJerkyPorkWithCorianderSeedsRecipe100g-8857126611052-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8857126611052",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "CAPTAIN"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/captain-jerky-pork-with-coriander-seeds-recipe-100g-8857126611052",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thammachart Just Smoked Salmon 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAMMACHART-ThammachartJustSmokedSalmon80g-8858781400258-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8858781400258",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAMMACHART"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/thammachart-just-smoked-salmon-80g-8858781400258",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Moodee Fermented Sausage 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MOODEE-MoodeeFermentedSausage100g-8850269045081-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8850269045081",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MOODEE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/moodee-fermented-sausage-100g-8850269045081",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Arabiki Sausage Truffle Flavor 75g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMArabikiSausageTruffleFlavor75g-8850826509544-1?$JPEG$"
+        ],
+        "Quantity": "75g",
+        "Barcode_Number": "8850826509544",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/tgm-arabiki-sausage-truffle-flavor-75g-8850826509544",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Pepper Roast Ham 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMPepperRoastHam80g-8850826506062-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8850826506062",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tgm-pepper-roast-ham-80g-8850826506062",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Blacksalmon Smoked Norway Salmon 100g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BlacksalmonSmokedNorwaySalmon100g-8859166400023-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8859166400023",
+        "Product_Detail": null,
+        "Price": "249",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/blacksalmon-smoked-norway-salmon-100g-8859166400023",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Smoked Jumbo Sausage Promotion 380g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMSmokedJumboSausagePromotion380g-8850826507212-1?$JPEG$"
+        ],
+        "Quantity": "380g",
+        "Barcode_Number": "8850826507212",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/tgm-smoked-jumbo-sausage-promotion-380g-8850826507212",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Liver Sausage 130g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMLiverSausage130g-8850826500206-1?$JPEG$"
+        ],
+        "Quantity": "130g",
+        "Barcode_Number": "8850826500206",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tgm-liver-sausage-130g-8850826500206",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "My Choice Smoked Bacon 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSmokedBacon180g-8853474039692-1?$JPEG$"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474039692",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/my-choice-smoked-bacon-180g-8853474039692",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "TGM Cocktail Sausage Crispy 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TGM-TGMCocktailSausageCrispy90g-8850826509636-1?$JPEG$"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850826509636",
+        "Product_Detail": null,
+        "Price": "78",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TGM"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/tgm-cocktail-sausage-crispy-90g-8850826509636",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Thai Sausage Pork Balona 90g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//THAISAUSAGE-ThaiSausagePorkBalona90g-8850807915210-1"
+        ],
+        "Quantity": "90g",
+        "Barcode_Number": "8850807915210",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "THAI SAUSAGE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/thai-sausage-pork-balona-90g-8850807915210",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "C.P. Bacon 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPBacon200g-8850554102031-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8850554102031",
+        "Product_Detail": null,
+        "Price": "171",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "C.P."
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/cp-bacon-200g-8850554102031",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    },
+    {
+        "Product_Name": "Itoham Arabiki Gourmet Wienner 140g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ITOHAM-ItohamArabikiGourmetWienner140g-8856294054524-1"
+        ],
+        "Quantity": "140g",
+        "Barcode_Number": "8856294054524",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "ITOHAM"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/itoham-arabiki-gourmet-wienner-140g-8856294054524",
+        "Category": "fresh_food_bakery",
+        "Sub_Category": "deli_meat"
+    }
+]

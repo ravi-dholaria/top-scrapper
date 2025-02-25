@@ -1,0 +1,416 @@
+[
+    {
+        "Product_Name": "Red Dragon Fruit",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-RedDragonFruit-0219435000008-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0219435000008",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "25",
+        "URL": "https://www.tops.co.th/en/red-dragon-fruit-0219435000008",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Vietnamese Dragon Fruit",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-VietnameseDragonFruit-0218960000002-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218960000002",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/vietnamese-dragon-fruit-0218960000002",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "GI My Choice Ban Phaeo Young Coconut",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-GIMyChoiceBanPhaeoYoungCoconut-0000038412066-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000038412066",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/gi-my-choice-ban-phaeo-young-coconut-0000038412066",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "GI Bankha Pineapple",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BaankaPineapple-0000048191548-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000048191548",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/gi-bankha-pineapple-0000048191548",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Namdokmai Mango",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NamdokmaiMango-0218533000002-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218533000002",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/namdokmai-mango-0218533000002",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Choice Sonya Watermelon",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSonyaWatermelon-0218349000005-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218349000005",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/my-choice-sonya-watermelon-0218349000005",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "GI Organic Coconut",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-GIOrganicCoconut-0000045696060-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000045696060",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "34",
+        "URL": "https://www.tops.co.th/en/gi-organic-coconut-0000045696060",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Dr.Golden Banana Pack(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTORVEGETABLES-DrGoldenBananaPackC-0000038375064-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000038375064",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "DOCTOR VEGETABLES"
+        ],
+        "Stock": "77",
+        "URL": "https://www.tops.co.th/en/drgolden-banana-packc-0000038375064",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Chioce Gimju Guava",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChioceGimjuGuava-0218244000001-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218244000001",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/my-chioce-gimju-guava-0218244000001",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Hom Suwan Pineapple",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-HomSuwanPineapple-8850779100256-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8850779100256",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/hom-suwan-pineapple-8850779100256",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Choice Kinnaree Watermelon",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceKinnareeWatermelon-0218962000000-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218962000000",
+        "Product_Detail": null,
+        "Price": "39",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/my-choice-kinnaree-watermelon-0218962000000",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Back Sugar Watermelon",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-BackSugarWatermelon-0219040000004-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0219040000004",
+        "Product_Detail": null,
+        "Price": "59",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/back-sugar-watermelon-0219040000004",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "GI My Choice Tradsithong Pineapple",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-GIMyChoiceTradsithongPineapple-0000020422967-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000020422967",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/gi-my-choice-tradsithong-pineapple-0000020422967",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Keaw Mango",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-KeawMango-0210826000003-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0210826000003",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "27",
+        "URL": "https://www.tops.co.th/en/keaw-mango-0210826000003",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Premium Japanese Melon",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-PremiumJapaneseMelon-0219099000000-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0219099000000",
+        "Product_Detail": null,
+        "Price": "119",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/premium-japanese-melon-0219099000000",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Khaituek Mango",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-KhaituekMango-0214921000005-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0214921000005",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/khaituek-mango-0214921000005",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Choice Japanese Premium Melon",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceJapanesePremiumMelon-0218219000005-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218219000005",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/my-choice-japanese-premium-melon-0218219000005",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Choice Khakdam Papaya",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceKhakdamPapaya-0218539000006-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218539000006",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-khakdam-papaya-0218539000006",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Choice Premium Dates 500g",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoicePremiumDates500g-0000044224066-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0000044224066",
+        "Product_Detail": null,
+        "Price": "499",
+        "Labels": [
+            "Fruits & Vegetables /// Tropical fruits & Melon /// Tropical fruits",
+            "MY CHOICE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/my-choice-premium-dates-500g-0000044224066",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Choice Premium Dates",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoicePremiumDates-0214442000003-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0214442000003",
+        "Product_Detail": null,
+        "Price": "969",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/my-choice-premium-dates-0214442000003",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Choice Dates 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-MyChoiceDates300g-0000048603638-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "0000048603638",
+        "Product_Detail": null,
+        "Price": "299",
+        "Labels": [
+            "Fruits & Vegetables /// Tropical fruits & Melon /// Tropical fruits",
+            "MY CHOICE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/my-choice-dates-300g-0000048603638",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "My Choice Japanese Premium Orange Melon",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceJapanesePremiumOrangeMelon-0218158000005-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218158000005",
+        "Product_Detail": null,
+        "Price": "159",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-japanese-premium-orange-melon-0218158000005",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    },
+    {
+        "Product_Name": "Golden pears 650.-",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-VLychee380BhtC-0000047683174-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000047683174",
+        "Product_Detail": null,
+        "Price": "650",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/golden-pears-650-0000047683174",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tropical_fruits_melon"
+    }
+]

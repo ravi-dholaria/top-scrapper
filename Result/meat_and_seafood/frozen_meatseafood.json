@@ -1,0 +1,470 @@
+[
+    {
+        "Product_Name": "Q Fresh Frozen Raw Peeled Tail on Shrimp 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//QFRESH-QFreshFrozenRawPeeledTailonShrimp500g-8850468825347-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8850468825347",
+        "Product_Detail": null,
+        "Price": "189",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "QFRESH"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/q-fresh-frozen-raw-peeled-tail-on-shrimp-500g-8850468825347",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Nornuea Round Thai Wagyu Beef 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NORNUEA-NornueaRoundThaiWagyuBeef200g-0612020099997-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0612020099997",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NORNUEA"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/nornuea-round-thai-wagyu-beef-200g-0612020099997",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Meat Works Australian Wagyu Beef Patties 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MEATWORKS-MeatWorksAustralianWagyuBeefPatties300g-8858949800722-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8858949800722",
+        "Product_Detail": null,
+        "Price": "280",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MEAT WORKS"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/meat-works-australian-wagyu-beef-patties-300g-8858949800722",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Pangasius Dory Fillet Premium Grade 170g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARINEPLUS-MarinePlusFrozenPangasiusDoryFilletPremiumGrade170g-8853474094059-1?$JPEG$"
+        ],
+        "Quantity": "170g",
+        "Barcode_Number": "8853474094059",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-pangasius-dory-fillet-premium-grade-170g-8853474094059",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Yummy Tale Shrimp Paste 120g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//YUMMYTAIL-YummyTaleShrimpPaste120g-8854433000821-1?$JPEG$"
+        ],
+        "Quantity": "120g",
+        "Barcode_Number": "8854433000821",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "YUMMY TAIL"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/yummy-tale-shrimp-paste-120g-8854433000821",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Q Fresh Peeled Tail on Shrimp Size L 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//QFRESH-QFreshPeeledTailonShrimpSizeL240g-8850468825286-1"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8850468825286",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "QFRESH"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/q-fresh-peeled-tail-on-shrimp-size-l-240g-8850468825286",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "S Pure Black Pepper Pork Loin 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureBlackPepperPorkLoin200g-8852043064738-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8852043064738",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "S PURE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/s-pure-black-pepper-pork-loin-200g-8852043064738",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Yummy Tale by Marine Gold Easy Peel Shrimp 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARINEGOLD-YummyTalebyMarineGoldEasyPeelShrimp400g-8854433000500-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8854433000500",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE GOLD"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/yummy-tale-by-marine-gold-easy-peel-shrimp-400g-8854433000500",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Nornuea Happy Thaiwagyu Set Thai Wagyu Beef 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NORNUEA-NornueaHappyThaiwagyuSetThaiWagyuBeef300g-4912030000997-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "4912030000997",
+        "Product_Detail": null,
+        "Price": "299",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NORNUEA"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/nornuea-happy-thaiwagyu-set-thai-wagyu-beef-300g-4912030000997",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Nornuea Brisket Thai Wagyu Beef 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NORNUEA-NornueaBrisketThaiWagyuBeef200g-0912020099998-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0912020099998",
+        "Product_Detail": null,
+        "Price": "220",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NORNUEA"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/nornuea-brisket-thai-wagyu-beef-200g-0912020099998",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Tops Frozen Hygienic Shoulder Cartilage 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsFrozenHygienicShoulderCartilage500g-0000048013260-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0000048013260",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "TOPS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/tops-frozen-hygienic-shoulder-cartilage-500g-0000048013260",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "S Pure Pork Loin Steak in Truffle Sauce 200 g",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SPurePorkLoinSteakinTruffleSauce200g-8852043071415-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8852043071415",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/s-pure-pork-loin-steak-in-truffle-sauce-200-g-8852043071415",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Raw Vannamei White Shrimp Tail off 80g",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARINEPLUS-MarinePlusFrozenRawVannameiWhiteShrimpTailoff80g-8853474094097-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474094097",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-raw-vannamei-white-shrimp-tail-off-80g-8853474094097",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Nornuea Tenderloin Thai Wagyu Beef 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NORNUEA-NornueaTenderloinThaiWagyuBeef200g-0313020099993-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0313020099993",
+        "Product_Detail": null,
+        "Price": "450",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NORNUEA"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/nornuea-tenderloin-thai-wagyu-beef-200g-0313020099993",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Goldenbay Frozen Hake Fillets Skinless Boneless 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-GoldenbayFrozenHakeFilletsSkinlessBoneless200g-8858867809173-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8858867809173",
+        "Product_Detail": null,
+        "Price": "215",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/goldenbay-frozen-hake-fillets-skinless-boneless-200g-8858867809173",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Raw Vannamei White Shrimp Tail On 80g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARINEPLUS-MarinePlusFrozenRawVannameiWhiteShrimpTailOn80g-8853474094073-1?$JPEG$"
+        ],
+        "Quantity": "80g",
+        "Barcode_Number": "8853474094073",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-raw-vannamei-white-shrimp-tail-on-80g-8853474094073",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Super Egg Kao Suan Kwang Grilled Chicken with Dripping Sauce 550g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SuperEggKaoSuanKwangGrilledChickenwithDrippingSauce550g-8859585100016-1"
+        ],
+        "Quantity": "550g",
+        "Barcode_Number": "8859585100016",
+        "Product_Detail": null,
+        "Price": "175",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "NONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/super-egg-kao-suan-kwang-grilled-chicken-with-dripping-sauce-550g-8859585100016",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Sun Dried Snake Skin Gourami Fish 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARINEPLUS-MarinePlusFrozenSunDriedSnakeSkinGouramiFish200g-8853474097265-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474097265",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-sun-dried-snake-skin-gourami-fish-200g-8853474097265",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Marine Plus Frozen Sun Dried Snake Head Fish 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MARINEPLUS-MarinePlusFrozenSunDriedSnakeHeadFish200g-8853474097302-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474097302",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "MARINE PLUS"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/marine-plus-frozen-sun-dried-snake-head-fish-200g-8853474097302",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "CP Original Soya Duck 2kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPOriginalSoyaDuck2kgC-8850653603170-1?$JPEG$"
+        ],
+        "Quantity": "2kg",
+        "Barcode_Number": "8850653603170",
+        "Product_Detail": null,
+        "Price": "429",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "CP"
+        ],
+        "Stock": "41",
+        "URL": "https://www.tops.co.th/en/cp-original-soya-duck-2kg-8850653603170",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Frozen River Prawn 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-FrozenRiverPrawn300g-8857200381833-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8857200381833",
+        "Product_Detail": null,
+        "Price": "259",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/frozen-river-prawn-300g-8857200381833",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "US Frozen Beef Shortplate Sliced 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-USFrozenBeefShortplateSliced250g-8858867809692-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8858867809692",
+        "Product_Detail": null,
+        "Price": "265.25",
+        "Labels": [
+            "Meat & Seafood /// Frozen Meat&Seafood  /// Frozen Meat",
+            "NONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/us-frozen-beef-shortplate-sliced-250g-8858867809692",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "TSM Charcoal Grilled Chicken Skewers with Authentic Teriyaki Sauce 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TSM-TSMCharcoalGrilledChickenSkewerswithAuthenticTeriyakiSauce400g-8858782502166-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8858782502166",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Fresh /// Fresh Food & Bakery",
+            "TSM"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/tsm-charcoal-grilled-chicken-skewers-with-authentic-teriyaki-sauce-400g-8858782502166",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "My Choice Frozen Chilean Sea Bass Size 180g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceFrozenChileanSeaBassSize180g-8853474056361-1"
+        ],
+        "Quantity": "180g",
+        "Barcode_Number": "8853474056361",
+        "Product_Detail": null,
+        "Price": "899",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-frozen-chilean-sea-bass-size-180g-8853474056361",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "CP Frozen Boiled Shrimp 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPFrozenBoiledShrimp400gC-8858684503308-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "8858684503308",
+        "Product_Detail": null,
+        "Price": "299",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Meat & Seafood",
+            "CP"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/cp-frozen-boiled-shrimp-400g-8858684503308",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    },
+    {
+        "Product_Name": "Q Fresh Frozen Cooked Peeled Tail on Shrimp M 240g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//QFRESH-QFreshFrozenCookedPeeledTailonShrimpM240g-8850468825385-1"
+        ],
+        "Quantity": "240g",
+        "Barcode_Number": "8850468825385",
+        "Product_Detail": null,
+        "Price": "189",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "QFRESH"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/q-fresh-frozen-cooked-peeled-tail-on-shrimp-m-240g-8850468825385",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "frozen_meatseafood"
+    }
+]

@@ -1,0 +1,650 @@
+[
+    {
+        "Product_Name": "S Pure Chicken Fillet 400g. (C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenFillet400gC-0000035706021-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "0000035706021",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "70",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-fillet-400g-c-0000035706021",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Thigh 450g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenThigh450gC-0000035708025-1?$JPEG$"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "0000035708025",
+        "Product_Detail": null,
+        "Price": "114",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "91",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-thigh-450gc-0000035708025",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Wing 420g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenWing420gC-0000035704027-1?$JPEG$"
+        ],
+        "Quantity": "420g",
+        "Barcode_Number": "0000035704027",
+        "Product_Detail": null,
+        "Price": "113",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "93",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-wing-420gc-0000035704027",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "My Choice Soya Duck with Giblets and Sweet Chili Dipping Sauce",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSoyaDuckwithGibletsandSweetChiliDippingSauce-8853474043835-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474043835",
+        "Product_Detail": null,
+        "Price": "449",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-soya-duck-with-giblets-and-sweet-chili-dipping-sauce-8853474043835",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Skinless Breast 400g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenSkinlessBreast400gC-0000035705024-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "0000035705024",
+        "Product_Detail": null,
+        "Price": "124",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "87",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-skinless-breast-400gc-0000035705024",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "U Farm Chicken Boneless Thigh 260g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFARM-UFarmChickenBonelessThigh260gC-0000048364102-1?$JPEG$"
+        ],
+        "Quantity": "260g",
+        "Barcode_Number": "0000048364102",
+        "Product_Detail": null,
+        "Price": "77",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "U FARM"
+        ],
+        "Stock": "84",
+        "URL": "https://www.tops.co.th/en/u-farm-chicken-boneless-thigh-260gc-0000048364102",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Middle Wing 420g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenMiddleWing420gC-0000035703020-1?$JPEG$"
+        ],
+        "Quantity": "420g",
+        "Barcode_Number": "0000035703020",
+        "Product_Detail": null,
+        "Price": "137",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "77",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-middle-wing-420gc-0000035703020",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "U Farm Ground Chicken Breast 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFARM-UFarmGroundChickenBreast250gC-0000048364171-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0000048364171",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "U FARM"
+        ],
+        "Stock": "90",
+        "URL": "https://www.tops.co.th/en/u-farm-ground-chicken-breast-250gc-0000048364171",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "U Farm Chicken Breast Skinless 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFARM-UFarmChickenBreastSkinless250gC-0000048364058-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0000048364058",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "U FARM"
+        ],
+        "Stock": "78",
+        "URL": "https://www.tops.co.th/en/u-farm-chicken-breast-skinless-250gc-0000048364058",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "U Farm Chicken Fillet 260g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFARM-UFarmChickenFillet260gC-0000048364133-1?$JPEG$"
+        ],
+        "Quantity": "260g",
+        "Barcode_Number": "0000048364133",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "U FARM"
+        ],
+        "Stock": "91",
+        "URL": "https://www.tops.co.th/en/u-farm-chicken-fillet-260gc-0000048364133",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Drumstick 470g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenDrumstick470gC-0000035707028-1?$JPEG$"
+        ],
+        "Quantity": "470g",
+        "Barcode_Number": "0000035707028",
+        "Product_Detail": null,
+        "Price": "110",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "96",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-drumstick-470gc-0000035707028",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Boneless Leg 400g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenBonelessLeg400gC-0000048206532-1?$JPEG$"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "0000048206532",
+        "Product_Detail": null,
+        "Price": "114",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-boneless-leg-400gc-0000048206532",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "U Farm Chicken Middle Wing 230g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//UFARM-UFarmChickenMiddleWing230gC-0000048364157-1?$JPEG$"
+        ],
+        "Quantity": "230g",
+        "Barcode_Number": "0000048364157",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "U FARM"
+        ],
+        "Stock": "98",
+        "URL": "https://www.tops.co.th/en/u-farm-chicken-middle-wing-230gc-0000048364157",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Betagro Marinated Ground Pork Pork & Chicken in Tube 100g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroMarinatedGroundPorkPorkChickeninTube100gC-8852043071095-1"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8852043071095",
+        "Product_Detail": null,
+        "Price": "25",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "BETAGRO"
+        ],
+        "Stock": "99",
+        "URL": "https://www.tops.co.th/en/betagro-marinated-ground-pork-pork-chicken-in-tube-100gc-8852043071095",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Liver 350g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenLiver350gC-0000035709039-1?$JPEG$"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "0000035709039",
+        "Product_Detail": null,
+        "Price": "105",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-liver-350gc-0000035709039",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Leg 500g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenLeg500gC-0000035709022-1?$JPEG$"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0000035709022",
+        "Product_Detail": null,
+        "Price": "118",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "97",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-leg-500gc-0000035709022",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "James The Butcher Chicken Cut Middle Wing 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsChickenCutMiddleWing300gTM-8853474011469-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8853474011469",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "JAMES THE BUTCHER"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/james-the-butcher-chicken-cut-middle-wing-300g-8853474011469",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "James The Butcher Chicken Skinless Breast 375g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsChickenSkinlessBreast375gTM-8853474011445-1?$JPEG$"
+        ],
+        "Quantity": "375g",
+        "Barcode_Number": "8853474011445",
+        "Product_Detail": null,
+        "Price": "78",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "JAMES THE BUTCHER"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/james-the-butcher-chicken-skinless-breast-375g-8853474011445",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tops Ground Chicken Grade A 300g. TM",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsGroundChickenGradeA300gTM-8853474011568-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8853474011568",
+        "Product_Detail": null,
+        "Price": "58",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "TOPS"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/tops-ground-chicken-grade-a-300g-tm-8853474011568",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tyson Chicken Nuggets 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TYSON-TysonChickenNuggets200g-8859617200134-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859617200134",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Meat & Seafood",
+            "TYSON"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/tyson-chicken-nuggets-200g-8859617200134",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Ground Chicken 100g. Pack 3(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureGroundChicken100gPack3C-8852043200433-1?$JPEG$"
+        ],
+        "Quantity": "100g",
+        "Barcode_Number": "8852043200433",
+        "Product_Detail": null,
+        "Price": "94",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/s-pure-ground-chicken-100g-pack-3c-8852043200433",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "S Pure Chicken Feet 350g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//SPURE-SPureChickenFeet350gC-0000035713029-1?$JPEG$"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "0000035713029",
+        "Product_Detail": null,
+        "Price": "70",
+        "Labels": [
+            "Promotion /// Thankyou-betagro-2025-nov /// Meat & Seafood",
+            "S PURE"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/s-pure-chicken-feet-350gc-0000035713029",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Betagro Korat Chicken(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//BETAGRO-BetagroKoratChickenC-0211751000007-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0211751000007",
+        "Product_Detail": null,
+        "Price": "190",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "BETAGRO"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/betagro-korat-chickenc-0211751000007",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tyson Crispy Chicken Strips 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TYSON-TysonCrispyChickenStrips200g-8859646800114-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859646800114",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Meat & Seafood",
+            "TYSON"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/tyson-crispy-chicken-strips-200g-8859646800114",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tyson Chicken Karage 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TYSON-TysonChickenKarage200g-8859646800138-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859646800138",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Meat & Seafood",
+            "TYSON"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tyson-chicken-karage-200g-8859646800138",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tops Chicken Thigh 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsChickenThigh300g-8853474030330-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8853474030330",
+        "Product_Detail": null,
+        "Price": "56",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "TOPS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tops-chicken-thigh-300g-8853474030330",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tyson Grilled Tender Chicken 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TYSON-TysonGrilledTenderChicken200g-8859646800145-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859646800145",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Meat & Seafood",
+            "TYSON"
+        ],
+        "Stock": "24",
+        "URL": "https://www.tops.co.th/en/tyson-grilled-tender-chicken-200g-8859646800145",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tyson Buffalo Chicken Wing Stick 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TYSON-TysonBuffaloChickenWingStick200g-8859646800121-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8859646800121",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Meat & Seafood",
+            "TYSON"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/tyson-buffalo-chicken-wing-stick-200g-8859646800121",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tops Chicken Drum Stick 450g. TM",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsChickenDrumStick450gTM-8853474011575-1?$JPEG$"
+        ],
+        "Quantity": "450g",
+        "Barcode_Number": "8853474011575",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "TOPS"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tops-chicken-drum-stick-450g-tm-8853474011575",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "James The Butcher Skinless Chicken Breast Sliced 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsSkinlessChickenBreastSliced200g-8853474030002-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474030002",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "JAMES THE BUTCHER"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/james-the-butcher-skinless-chicken-breast-sliced-200g-8853474030002",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Frozen Duck Breast 600g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-FrozenDuckBreast600g-8851873200576-1"
+        ],
+        "Quantity": "600g",
+        "Barcode_Number": "8851873200576",
+        "Product_Detail": null,
+        "Price": "340",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/frozen-duck-breast-600g-8851873200576",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Frozen Duck Bone in Leg 600g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-FrozenDuckBoneinLeg600g-8851873200637-1"
+        ],
+        "Quantity": "600g",
+        "Barcode_Number": "8851873200637",
+        "Product_Detail": null,
+        "Price": "239",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "NONE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/frozen-duck-bone-in-leg-600g-8851873200637",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "James The Butcher Chicken Thigh 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TOPS-TopsChickenThigh350gTM-8853474011582-1"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "8853474011582",
+        "Product_Detail": null,
+        "Price": "60",
+        "Labels": [
+            "Promotion /// Fresh /// Meat & Seafood",
+            "JAMES THE BUTCHER"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/james-the-butcher-chicken-thigh-350g-8853474011582",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Tyson Classic Fried Chicken 600g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//TYSON-TysonClassicFriedChicken600g-8859646800152-1?$JPEG$"
+        ],
+        "Quantity": "600g",
+        "Barcode_Number": "8859646800152",
+        "Product_Detail": null,
+        "Price": "199",
+        "Labels": [
+            "Promotion /// Thankyou-kcg-2025-aug /// Fresh Food & Bakery",
+            "TYSON"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/tyson-classic-fried-chicken-600g-8859646800152",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "CP Original Soya Duck 2kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//CP-CPOriginalSoyaDuck2kgC-8850653603170-1?$JPEG$"
+        ],
+        "Quantity": "2kg",
+        "Barcode_Number": "8850653603170",
+        "Product_Detail": null,
+        "Price": "429",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fresh Food & Bakery",
+            "CP"
+        ],
+        "Stock": "41",
+        "URL": "https://www.tops.co.th/en/cp-original-soya-duck-2kg-8850653603170",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    },
+    {
+        "Product_Name": "Butterball Bone in Turkey Breast Medium 1.8to3kg.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BUTTERBALL-ButterballBoneinTurkeyBreastMedium18to3kg-0212641000008-1"
+        ],
+        "Quantity": "3kg",
+        "Barcode_Number": "0212641000008",
+        "Product_Detail": null,
+        "Price": "1050",
+        "Labels": [
+            "Promotion /// Import Products /// Meat & Seafood",
+            "BUTTERBALL"
+        ],
+        "Stock": "4000",
+        "URL": "https://www.tops.co.th/en/butterball-bone-in-turkey-breast-medium-18to3kg-0212641000008",
+        "Category": "meat_and_seafood",
+        "Sub_Category": "poultry"
+    }
+]

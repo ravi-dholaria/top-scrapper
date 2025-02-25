@@ -1,0 +1,524 @@
+[
+    {
+        "Product_Name": "My Choice Cucumber",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceCucumber-0000020909079-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000020909079",
+        "Product_Detail": null,
+        "Price": "29",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-cucumber-0000020909079",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Tomato 400g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceTomato400g-0000032614022-1"
+        ],
+        "Quantity": "400g",
+        "Barcode_Number": "0000032614022",
+        "Product_Detail": null,
+        "Price": "49",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/my-choice-tomato-400g-0000032614022",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Cherry Tomato 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSpecialCherryTomato200g-0000030162044-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000030162044",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-cherry-tomato-200g-0000030162044",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Long Cucumber Special 350g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceLongCucumberSpecial350g-0000030099067-1"
+        ],
+        "Quantity": "350g",
+        "Barcode_Number": "0000030099067",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/my-choice-long-cucumber-special-350g-0000030099067",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Dr.Tomato 300g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTORVEGETABLES-DrTomato300gC-0000033437026-1?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "0000033437026",
+        "Product_Detail": null,
+        "Price": "45",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "DOCTOR VEGETABLES"
+        ],
+        "Stock": "92",
+        "URL": "https://www.tops.co.th/en/drtomato-300gc-0000033437026",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Dr.Cucumber 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//DOCTORVEGETABLES-DrCucumber250g-0000033432021-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0000033432021",
+        "Product_Detail": null,
+        "Price": "32",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "DOCTOR VEGETABLES"
+        ],
+        "Stock": "97",
+        "URL": "https://www.tops.co.th/en/drcucumber-250gc-0000033432021",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Sweet Tomato 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSweetTomato200g-8853474066070-1?$JPEG$"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474066070",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-sweet-tomato-200g-8853474066070",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Japanese Cucumber Special",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceJapaneseCucumberSpecial-0218317000006-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0218317000006",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-japanese-cucumber-special-0218317000006",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Red Plum Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceRedPlumTomatoes200g-8853474043057-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474043057",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/my-choice-red-plum-tomatoes-200g-8853474043057",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "N&P Cucumber 250g.(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NP-NPCucumber250gC-8858738401673-1?$JPEG$"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8858738401673",
+        "Product_Detail": null,
+        "Price": "28",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "N&P"
+        ],
+        "Stock": "98",
+        "URL": "https://www.tops.co.th/en/np-cucumber-250gc-8858738401673",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Solarino Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSolarinoTomatoes200g-8853474052233-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474052233",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/my-choice-solarino-tomatoes-200g-8853474052233",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Teardrop Tomato 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceTeardropTomato250g-0000020908973-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0000020908973",
+        "Product_Detail": null,
+        "Price": "35",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-teardrop-tomato-250g-0000020908973",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Vin Red Cherry Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceVinRedCherryTomatoes200g-8853474028382-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474028382",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/my-choice-vin-red-cherry-tomatoes-200g-8853474028382",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Beef Tomato",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceBeefTomato-0217668000000-1"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0217668000000",
+        "Product_Detail": null,
+        "Price": "129",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/my-choice-beef-tomato-0217668000000",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Holland Cucumber 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceHollandCucumber250g-8853474038305-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "8853474038305",
+        "Product_Detail": null,
+        "Price": "65",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "5",
+        "URL": "https://www.tops.co.th/en/my-choice-holland-cucumber-250g-8853474038305",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Queen Tomato 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-QueenTomato300g-0000048143721-1"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "0000048143721",
+        "Product_Detail": null,
+        "Price": "55",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/queen-tomato-300g-0000048143721",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Confetto Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceConfettoTomatoes200g-8853474052226-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474052226",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-confetto-tomatoes-200g-8853474052226",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Yellow Sweet Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-YellowSweetTomatoes200g-0000048634588-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000048634588",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/yellow-sweet-tomatoes-200g-0000048634588",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Snack Slim Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceSnackSlimTomatoes200g-8853474052219-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474052219",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/my-choice-snack-slim-tomatoes-200g-8853474052219",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Yellow Plum Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceYellowPlumTomatoes200g-8853474042883-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474042883",
+        "Product_Detail": null,
+        "Price": "79",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-yellow-plum-tomatoes-200g-8853474042883",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Sumsung Seeda Tomato 250g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SumsungSeedaTomato250g-0000032354027-1"
+        ],
+        "Quantity": "250g",
+        "Barcode_Number": "0000032354027",
+        "Product_Detail": null,
+        "Price": "22",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/sumsung-seeda-tomato-250g-0000032354027",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Mixed Heirloom Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceMixedHeirloomTomatoes200g-8853474050246-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474050246",
+        "Product_Detail": null,
+        "Price": "115",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/my-choice-mixed-heirloom-tomatoes-200g-8853474050246",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Orange Sweet Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-OrangeSweetTomatoes200g-0000048634571-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000048634571",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/orange-sweet-tomatoes-200g-0000048634571",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Strawberry Tomatoes 300g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceStrawberryTomatoes200g-8853474039982-1-2?$JPEG$"
+        ],
+        "Quantity": "300g",
+        "Barcode_Number": "8853474039982",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/my-choice-strawberry-tomatoes-300g-8853474039982",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Beef Tomatoes 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceBeefTomatoes500g-8853474050222-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "8853474050222",
+        "Product_Detail": null,
+        "Price": "155",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/my-choice-beef-tomatoes-500g-8853474050222",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Tubberk Tomato 500g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-TubberkTomato500g-0000048118668-1"
+        ],
+        "Quantity": "500g",
+        "Barcode_Number": "0000048118668",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/tubberk-tomato-500g-0000048118668",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "My Choice Baby Plum Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceBabyPlumTomatoes200g-8853474050253-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "8853474050253",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "3",
+        "URL": "https://www.tops.co.th/en/my-choice-baby-plum-tomatoes-200g-8853474050253",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Take Me Home Heirloom Tomato 200g(C",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-TakeMeHomeHeirloomTomato200gC-0000039680075-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000039680075",
+        "Product_Detail": null,
+        "Price": "120",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "2000",
+        "URL": "https://www.tops.co.th/en/take-me-home-heirloom-tomato-200gc-0000039680075",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    },
+    {
+        "Product_Name": "Green Sweet Tomatoes 200g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-GreenSweetTomatoes200g-0000048634564-1"
+        ],
+        "Quantity": "200g",
+        "Barcode_Number": "0000048634564",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/green-sweet-tomatoes-200g-0000048634564",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "tomatoes_cucumbers"
+    }
+]

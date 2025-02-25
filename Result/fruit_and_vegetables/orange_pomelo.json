@@ -1,0 +1,146 @@
+[
+    {
+        "Product_Name": "Navel Orange",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-NavelOrange-0219105000000-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0219105000000",
+        "Product_Detail": null,
+        "Price": "149",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "8",
+        "URL": "https://www.tops.co.th/en/navel-orange-0219105000000",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "orange_pomelo"
+    },
+    {
+        "Product_Name": "GI My Choice Tabtimsiam Special Pomelo",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-GIMyChoiceTabtimsiamSpecialPomelo-8853474040865-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474040865",
+        "Product_Detail": null,
+        "Price": "299",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/gi-my-choice-tabtimsiam-special-pomelo-8853474040865",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "orange_pomelo"
+    },
+    {
+        "Product_Name": "GI My Choice Khaothangkwa Pomelo",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceKhaothangkwaPomelo-0000024968096-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0000024968096",
+        "Product_Detail": null,
+        "Price": "179",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/gi-my-choice-khaothangkwa-pomelo-0000024968096",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "orange_pomelo"
+    },
+    {
+        "Product_Name": "Sainamphung Orange 700g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-SainamphungOrange700g-0000031842020-1?$JPEG$"
+        ],
+        "Quantity": "700g",
+        "Barcode_Number": "0000031842020",
+        "Product_Detail": null,
+        "Price": "219",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "34",
+        "URL": "https://www.tops.co.th/en/sainamphung-orange-700g-0000031842020",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "orange_pomelo"
+    },
+    {
+        "Product_Name": "My Choice Thanathorn Orange Pack",
+        "Product_Images": [
+            "https://assets.tops.co.th//MYCHOICE-MyChoiceThanathornOrangePack-8853474017539-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "8853474017539",
+        "Product_Detail": null,
+        "Price": "139",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fruits & Vegetables",
+            "MY CHOICE"
+        ],
+        "Stock": "37",
+        "URL": "https://www.tops.co.th/en/my-choice-thanathorn-orange-pack-8853474017539",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "orange_pomelo"
+    },
+    {
+        "Product_Name": "Wogan Orange",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-AUSMandarinOrange-0214145000003-1?$JPEG$"
+        ],
+        "Quantity": "null",
+        "Barcode_Number": "0214145000003",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// Fresh /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/wogan-orange-0214145000003",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "orange_pomelo"
+    },
+    {
+        "Product_Name": "Taiwanese Variety Mandarin Pack 800g.Carton",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-TaiwaneseVarietyMandarinPack800gCarton-0000048593335-1?$JPEG$"
+        ],
+        "Quantity": "800g",
+        "Barcode_Number": "0000048593335",
+        "Product_Detail": null,
+        "Price": "735",
+        "Labels": [
+            "Fruits & Vegetables /// Orange & Pomelo /// Orange",
+            "NONE"
+        ],
+        "Stock": "1",
+        "URL": "https://www.tops.co.th/en/taiwanese-variety-mandarin-pack-800gcarton-0000048593335",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "orange_pomelo"
+    },
+    {
+        "Product_Name": "Taiwanese Variety Mandarin Pack 800g.",
+        "Product_Images": [
+            "https://assets.tops.co.th//NONE-TaiwaneseVarietyMandarinPack800g-0000048546218-1?$JPEG$"
+        ],
+        "Quantity": "800g",
+        "Barcode_Number": "0000048546218",
+        "Product_Detail": null,
+        "Price": "109",
+        "Labels": [
+            "Promotion /// Chinese New Year 2025 /// Fruits & Vegetables",
+            "NONE"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/taiwanese-variety-mandarin-pack-800g-0000048546218",
+        "Category": "fruit_and_vegetables",
+        "Sub_Category": "orange_pomelo"
+    }
+]

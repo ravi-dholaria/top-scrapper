@@ -1,0 +1,920 @@
+[
+    {
+        "Product_Name": "Kodomo Protect Bacteria Baby Fabric Softener 600ml. Three Plus",
+        "Product_Images": [
+            "https://assets.tops.co.th//KODOMO-KodomoProtectBacteriaBabyFabricSoftener600mlThreePlus-8850002020887-1?$JPEG$"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "8850002020887",
+        "Product_Detail": null,
+        "Price": "42",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "KODOMO"
+        ],
+        "Stock": "84",
+        "URL": "https://www.tops.co.th/en/kodomo-protect-bacteria-baby-fabric-softener-600ml-three-plus-8850002020887",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Kodomo Liquid Baby Detergent Anti Bacteria 580ml. Three Plus",
+        "Product_Images": [
+            "https://assets.tops.co.th//KODOMO-KodomoLiquidBabyDetergentAntiBacteria600mlThreePlus-8850002020856-1?$JPEG$"
+        ],
+        "Quantity": "580ml",
+        "Barcode_Number": "8850002020856",
+        "Product_Detail": null,
+        "Price": "96",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "KODOMO"
+        ],
+        "Stock": "96",
+        "URL": "https://www.tops.co.th/en/kodomo-liquid-baby-detergent-anti-bacteria-580ml-three-plus-8850002020856",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Family Touch Liquid Mild 570ml. Refll",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildFamilyTouchLiquidMild570mlRefll-8851123347815-1?$JPEG$"
+        ],
+        "Quantity": "570ml",
+        "Barcode_Number": "8851123347815",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "95",
+        "URL": "https://www.tops.co.th/en/babi-mild-family-touch-liquid-mild-570ml-refll-8851123347815",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Liquid Detergent New Born Blue 1300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyLiquidDetergentNewBornBlue1300ml-8851989064802-1"
+        ],
+        "Quantity": "1300ml",
+        "Barcode_Number": "8851989064802",
+        "Product_Detail": null,
+        "Price": "209",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "57",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-liquid-detergent-new-born-blue-1300ml-8851989064802",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Fabric Softener Pink Floral 570ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildFabricSoftenerPinkFloral570ml-8851123340045-1?$JPEG$"
+        ],
+        "Quantity": "570ml",
+        "Barcode_Number": "8851123340045",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "38",
+        "URL": "https://www.tops.co.th/en/babi-mild-fabric-softener-pink-floral-570ml-8851123340045",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Liquid Baby Detergent 570ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildLiquidBabyDetergent570ml-8851123347112-1?$JPEG$"
+        ],
+        "Quantity": "570ml",
+        "Barcode_Number": "8851123347112",
+        "Product_Detail": null,
+        "Price": "95",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "58",
+        "URL": "https://www.tops.co.th/en/babi-mild-liquid-baby-detergent-570ml-8851123347112",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Kodomo Liquid Baby Detergent Organic Olive Oil  580ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KODOMO-KodomoLiquidBabyDetergentNewBorn600ml-8850002015685-1?$JPEG$"
+        ],
+        "Quantity": "580ml",
+        "Barcode_Number": "8850002015685",
+        "Product_Detail": null,
+        "Price": "96",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "KODOMO"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/kodomo-liquid-baby-detergent-organic-olive-oil-580ml-8850002015685",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Fabric Softener Pink 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyFabricSoftenerPink550ml-8851989060224-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989060224",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "37",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-fabric-softener-pink-550ml-8851989060224",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Fabric Softener Morning Fresh Blue 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyFabricSoftenerMorningFreshBlue550ml-8851989060545-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989060545",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "46",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-fabric-softener-morning-fresh-blue-550ml-8851989060545",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Baby Mind Ultra Mild Baby Fabric Softener Pure Natural 570ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabyMindUltraMildBabyFabricSoftenerPureNatural570ml-8851123376419-1?$JPEG$"
+        ],
+        "Quantity": "570ml",
+        "Barcode_Number": "8851123376419",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "35",
+        "URL": "https://www.tops.co.th/en/baby-mind-ultra-mild-baby-fabric-softener-pure-natural-570ml-8851123376419",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Ultra Mild Baby Fabric Wash Sakura White 530ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildUltraMildBabyFabricWashSakuraWhite570mlRefill-8851123742313-1?$JPEG$"
+        ],
+        "Quantity": "530ml",
+        "Barcode_Number": "8851123742313",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Mom & Kids",
+            "BABI MILD"
+        ],
+        "Stock": "29",
+        "URL": "https://www.tops.co.th/en/babi-mild-ultra-mild-baby-fabric-wash-sakura-white-530ml-refill-8851123742313",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Fabric Softener Natural Time 550ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyFabricSoftenerNaturalTime550mlRefill-8851989062945-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989062945",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "88",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-fabric-softener-natural-time-550ml-refill-8851989062945",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Liquid Baby Detergent Blue 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeLiquidBabyDetergentBlue550ml-8851989060163-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989060163",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "42",
+        "URL": "https://www.tops.co.th/en/d-nee-liquid-baby-detergent-blue-550ml-8851989060163",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Baby Mind Ultra Mild Baby Fabric Softener Sakura White 570ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabyMindUltraMildBabyFabricSoftenerSakuraWhite570ml-8851123376433-1?$JPEG$"
+        ],
+        "Quantity": "570ml",
+        "Barcode_Number": "8851123376433",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/baby-mind-ultra-mild-baby-fabric-softener-sakura-white-570ml-8851123376433",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Deluxe Liquid Detergent Morning Delight 1100ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeDeluxeLiquidDetergentMorningDelight1100ml-8851989066639-1?$JPEG$"
+        ],
+        "Quantity": "1100ml",
+        "Barcode_Number": "8851989066639",
+        "Product_Detail": null,
+        "Price": "209",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/d-nee-deluxe-liquid-detergent-morning-delight-1100ml-8851989066639",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Liquid Detergent New Born Plus Violet 1300ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyLiquidDetergentNewBornPlusViolet1300ml-8851989064826-1"
+        ],
+        "Quantity": "1300ml",
+        "Barcode_Number": "8851989064826",
+        "Product_Detail": null,
+        "Price": "209",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-liquid-detergent-new-born-plus-violet-1300ml-8851989064826",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Dnee Baby Dishwashing Organic White Tea 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DneeBabyDishwashingOrganicWhiteTea500ml-8851989065663-1"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8851989065663",
+        "Product_Detail": null,
+        "Price": "75",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/dnee-baby-dishwashing-organic-white-tea-500ml-8851989065663",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Baby Liquid Detergent Organic Chamomile Baby Touch 2400ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildBabyLiquidDetergentOrganicChamomileBabyTouch2400ml-8851123742689-1"
+        ],
+        "Quantity": "2400ml",
+        "Barcode_Number": "8851123742689",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "14",
+        "URL": "https://www.tops.co.th/en/babi-mild-baby-liquid-detergent-organic-chamomile-baby-touch-2400ml-8851123742689",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Liquid Baby Detergent Pink 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeLiquidBabyDetergentPink550ml-8851989060309-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989060309",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "36",
+        "URL": "https://www.tops.co.th/en/d-nee-liquid-baby-detergent-pink-550ml-8851989060309",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Liquid Baby Detergent Organic Aloe Vera Green 550ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeLiquidBabyDetergentOrganicAloeVeraGreen550mlRefill-8851989062204-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989062204",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "36",
+        "URL": "https://www.tops.co.th/en/d-nee-liquid-baby-detergent-organic-aloe-vera-green-550ml-refill-8851989062204",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Baby Fabric Softener Cotton Milk 1500ml. Refil",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildBabyFabricSoftenerCottonMilk1500mlRefil-8851123376068-1?$JPEG$"
+        ],
+        "Quantity": "1500ml",
+        "Barcode_Number": "8851123376068",
+        "Product_Detail": null,
+        "Price": "85",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "31",
+        "URL": "https://www.tops.co.th/en/babi-mild-baby-fabric-softener-cotton-milk-1500ml-refil-8851123376068",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Bottle Wash 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildBottleWash570ml-8851123348119-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851123348119",
+        "Product_Detail": null,
+        "Price": "87",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/babi-mild-bottle-wash-550ml-8851123348119",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Baby Liquid Detergent Organic Chamomile Baby Touch 2400ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildBabyLiquidDetergentOrganicChamomileBabyTouch2400ml-8851123742610-1"
+        ],
+        "Quantity": "2400ml",
+        "Barcode_Number": "8851123742610",
+        "Product_Detail": null,
+        "Price": "165",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/babi-mild-baby-liquid-detergent-organic-chamomile-baby-touch-2400ml-8851123742610",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Baby Liquid Detergent Organic Chamomile Sweet Almond 570ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildBabyLiquidDetergentOrganicChamomileSweetAlmond570ml-8851123742405-1"
+        ],
+        "Quantity": "570ml",
+        "Barcode_Number": "8851123742405",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/babi-mild-baby-liquid-detergent-organic-chamomile-sweet-almond-570ml-8851123742405",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Kodomo Baby Bottle Liquid Cleanser 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//KODOMO-KodomoBabyBottleLiquidCleanser600ml-8850002016989-1"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "8850002016989",
+        "Product_Detail": null,
+        "Price": "69",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "KODOMO"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/kodomo-baby-bottle-liquid-cleanser-600ml-8850002016989",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby New Born Fabric Softener Night Wash Violet 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyNewBornFabricSoftenerNightWashViolet550ml-8851989061504-1?$JPEG$"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989061504",
+        "Product_Detail": null,
+        "Price": "57",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-new-born-fabric-softener-night-wash-violet-550ml-8851989061504",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Deluxe Liquid Detergent Beautiful Dream 1100ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeDeluxeLiquidDetergentBeautifulDream1100ml-8851989066646-1?$JPEG$"
+        ],
+        "Quantity": "1100ml",
+        "Barcode_Number": "8851989066646",
+        "Product_Detail": null,
+        "Price": "209",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "4",
+        "URL": "https://www.tops.co.th/en/d-nee-deluxe-liquid-detergent-beautiful-dream-1100ml-8851989066646",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Concentrated Fabric Softener Lavender 450ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyConcentratedFabricSoftenerLavender450ml-8851989065854-1?$JPEG$"
+        ],
+        "Quantity": "450ml",
+        "Barcode_Number": "8851989065854",
+        "Product_Detail": null,
+        "Price": "84",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "15",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-concentrated-fabric-softener-lavender-450ml-8851989065854",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Pureen Organic Bottle Cleanser 550ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//PUREEN-PureenOrganicBottleCleanser550mlRefill-8850848017539-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8850848017539",
+        "Product_Detail": null,
+        "Price": "89",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "PUREEN"
+        ],
+        "Stock": "17",
+        "URL": "https://www.tops.co.th/en/pureen-organic-bottle-cleanser-550ml-refill-8850848017539",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Liquid Detergent New Born 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyLiquidDetergentNewBorn550ml-8851989064291-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989064291",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-liquid-detergent-new-born-550ml-8851989064291",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Liquid Baby Detergent Violet 550ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeLiquidBabyDetergentViolet550mlRefill-8851989061528-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989061528",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/d-nee-liquid-baby-detergent-violet-550ml-refill-8851989061528",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Baby Liquid Detergent with Softener Collection Butterbear 530ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildBabyLiquidDetergentwithSoftenerCollectionButterbear530ml-8851123743006-1?$JPEG$"
+        ],
+        "Quantity": "530ml",
+        "Barcode_Number": "8851123743006",
+        "Product_Detail": null,
+        "Price": "77",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "89",
+        "URL": "https://www.tops.co.th/en/babi-mild-baby-liquid-detergent-with-softener-collection-butterbear-530ml-8851123743006",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Pipper Standard Bottle and Nipple Cleaner Gentle Fresh 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PIPPER-PipperStandardBottleandNippleCleanerGentleFresh500ml-8859160501542-1"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8859160501542",
+        "Product_Detail": null,
+        "Price": "196",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "PIPPER"
+        ],
+        "Stock": "2",
+        "URL": "https://www.tops.co.th/en/pipper-standard-bottle-and-nipple-cleaner-gentle-fresh-500ml-8859160501542",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Lamoon Baby Organic Bottle and Nipple Cleanser 450ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//LAMOON-LamoonBabyOrganicBottleandNippleCleanser450mlRefill-8858978500877-1"
+        ],
+        "Quantity": "450ml",
+        "Barcode_Number": "8858978500877",
+        "Product_Detail": null,
+        "Price": "146",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "LAMOON"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/lamoon-baby-organic-bottle-and-nipple-cleanser-450ml-refill-8858978500877",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Lamoon Baby Organic Laundry Liquid 700ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//LAMOON-LamoonBabyOrganicLaundryLiquid700mlRefill-8858978500891-1"
+        ],
+        "Quantity": "700ml",
+        "Barcode_Number": "8858978500891",
+        "Product_Detail": null,
+        "Price": "198",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "LAMOON"
+        ],
+        "Stock": "20",
+        "URL": "https://www.tops.co.th/en/lamoon-baby-organic-laundry-liquid-700ml-refill-8858978500891",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Pureen Organic Baby Liquid Detergent 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//PUREEN-PureenOrganicBabyLiquidDetergent600ml-8850848017584-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8850848017584",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "PUREEN"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/pureen-organic-baby-liquid-detergent-550ml-8850848017584",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Lamoon Organic Baby Accessories Cleanser 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LAMOON-LamoonOrganicBabyAccessoriesCleanser500ml-8858978500198-1"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8858978500198",
+        "Product_Detail": null,
+        "Price": "189",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "LAMOON"
+        ],
+        "Stock": "12",
+        "URL": "https://www.tops.co.th/en/lamoon-organic-baby-accessories-cleanser-500ml-8858978500198",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Lamoon Baby Organic Laundry Liquid 750ml. Bottle",
+        "Product_Images": [
+            "https://assets.tops.co.th//LAMOON-LamoonBabyOrganicLaundryLiquid750mlBottle-8858978500884-1"
+        ],
+        "Quantity": "750ml",
+        "Barcode_Number": "8858978500884",
+        "Product_Detail": null,
+        "Price": "220",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "LAMOON"
+        ],
+        "Stock": "11",
+        "URL": "https://www.tops.co.th/en/lamoon-baby-organic-laundry-liquid-750ml-bottle-8858978500884",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Lamoon Baby Organic Bottle and Nipple Cleanser 500ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//LAMOON-LamoonBabyOrganicBottleandNippleCleanser500ml-8858978500860-1"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8858978500860",
+        "Product_Detail": null,
+        "Price": "187",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "LAMOON"
+        ],
+        "Stock": "16",
+        "URL": "https://www.tops.co.th/en/lamoon-baby-organic-bottle-and-nipple-cleanser-500ml-8858978500860",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Fabric Softener Pink 2800ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyFabricSoftenerPink2800ml-8851989060606-1?$JPEG$"
+        ],
+        "Quantity": "2800ml",
+        "Barcode_Number": "8851989060606",
+        "Product_Detail": null,
+        "Price": "195",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "D NEE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-fabric-softener-pink-2800ml-8851989060606",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Babi Mild Bottle Wash Pump 590ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//BABIMILD-BabiMildBottleWashPump590ml-8851123348034-1"
+        ],
+        "Quantity": "590ml",
+        "Barcode_Number": "8851123348034",
+        "Product_Detail": null,
+        "Price": "111",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "BABI MILD"
+        ],
+        "Stock": "23",
+        "URL": "https://www.tops.co.th/en/babi-mild-bottle-wash-pump-590ml-8851123348034",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Smarter Baby Liquid Detergent Morning Fresh 600ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//SMARTER-SmarterBabyLiquidDetergentMorningFresh600ml-8853474076055-1"
+        ],
+        "Quantity": "600ml",
+        "Barcode_Number": "8853474076055",
+        "Product_Detail": null,
+        "Price": "82",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "SMARTER"
+        ],
+        "Stock": "6",
+        "URL": "https://www.tops.co.th/en/smarter-baby-liquid-detergent-morning-fresh-600ml-8853474076055",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Ecostore Laundry Liquid Baby Ultra Sensitive 1ltr.",
+        "Product_Images": [
+            "https://assets.tops.co.th//ECOSTORE-EcostoreLaundryLiquidBabyUltraSensitive1ltr-9420015010206-1?$JPEG$"
+        ],
+        "Quantity": "1l",
+        "Barcode_Number": "9420015010206",
+        "Product_Detail": null,
+        "Price": "419",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Household & Merit",
+            "ECO STORE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/ecostore-laundry-liquid-baby-ultra-sensitive-1ltr-9420015010206",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Liquid Baby Detergent Organic Aloe Vera Green 1300ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeLiquidBabyDetergentOrganicAloeVeraGreen1300mlRefill-8851989064833-1"
+        ],
+        "Quantity": "1300ml",
+        "Barcode_Number": "8851989064833",
+        "Product_Detail": null,
+        "Price": "209",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Mom & Kids",
+            "D NEE"
+        ],
+        "Stock": "32",
+        "URL": "https://www.tops.co.th/en/d-nee-liquid-baby-detergent-organic-aloe-vera-green-1300ml-refill-8851989064833",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Liquid Baby Detergent Honey Star Pink 1300ml. Refill",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeLiquidBabyDetergentHoneyStarPink1300mlRefill-8851989064819-1?$JPEG$"
+        ],
+        "Quantity": "1300ml",
+        "Barcode_Number": "8851989064819",
+        "Product_Detail": null,
+        "Price": "209",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Mom & Kids",
+            "D NEE"
+        ],
+        "Stock": "21",
+        "URL": "https://www.tops.co.th/en/d-nee-liquid-baby-detergent-honey-star-pink-1300ml-refill-8851989064819",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Organic Baby Liquid Detergent Smiling Baby 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeOrganicBabyLiquidDetergentSmilingBaby550ml-8851989066196-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989066196",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Mom & Kids",
+            "D NEE"
+        ],
+        "Stock": "9",
+        "URL": "https://www.tops.co.th/en/d-nee-organic-baby-liquid-detergent-smiling-baby-550ml-8851989066196",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Natural Baby Liquid Detergent Indoor Care 400ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeNaturalBabyLiquidDetergentIndoorCare400ml-8851989066189-1"
+        ],
+        "Quantity": "400ml",
+        "Barcode_Number": "8851989066189",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Mom & Kids",
+            "D NEE"
+        ],
+        "Stock": "10",
+        "URL": "https://www.tops.co.th/en/d-nee-natural-baby-liquid-detergent-indoor-care-400ml-8851989066189",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Natural Baby Liquid Detergent Blooming Peony 400ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeNaturalBabyLiquidDetergentBloomingPeony400ml-8851989066165-1"
+        ],
+        "Quantity": "400ml",
+        "Barcode_Number": "8851989066165",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Mom & Kids",
+            "D NEE"
+        ],
+        "Stock": "22",
+        "URL": "https://www.tops.co.th/en/d-nee-natural-baby-liquid-detergent-blooming-peony-400ml-8851989066165",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Baby Liquid Detergent Organic Always Happy 550ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeBabyLiquidDetergentOrganicAlwaysHappy550ml-8851989066219-1"
+        ],
+        "Quantity": "550ml",
+        "Barcode_Number": "8851989066219",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Mom & Kids",
+            "D NEE"
+        ],
+        "Stock": "7",
+        "URL": "https://www.tops.co.th/en/d-nee-baby-liquid-detergent-organic-always-happy-550ml-8851989066219",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "D Nee Natural Baby Liquid Detergent Bright and Shine 400ml.",
+        "Product_Images": [
+            "https://assets.tops.co.th//DNEE-DNeeNaturalBabyLiquidDetergentBrightandShine400ml-8851989066172-1"
+        ],
+        "Quantity": "400ml",
+        "Barcode_Number": "8851989066172",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Promotion /// cnycleaning-8-jan-18-feb-2025 /// Mom & Kids",
+            "D NEE"
+        ],
+        "Stock": "13",
+        "URL": "https://www.tops.co.th/en/d-nee-natural-baby-liquid-detergent-bright-and-shine-400ml-8851989066172",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    },
+    {
+        "Product_Name": "Baby Bottle and Utensil Cleanser 500ml. Value Pack",
+        "Product_Images": [
+            "https://assets.tops.co.th//MAGIABOTANICA-BabyBottleandUtensilCleanser500mlValuePack-8857123552181-1?$JPEG$"
+        ],
+        "Quantity": "500ml",
+        "Barcode_Number": "8857123552181",
+        "Product_Detail": null,
+        "Price": "99",
+        "Labels": [
+            "Mom & Kids /// Baby Cleaning /// Bottle Detergent",
+            "MAGIABOTANICA"
+        ],
+        "Stock": "100",
+        "URL": "https://www.tops.co.th/en/baby-bottle-and-utensil-cleanser-500ml-value-pack-8857123552181",
+        "Category": "mom_and_kids",
+        "Sub_Category": "baby_cleaning"
+    }
+]

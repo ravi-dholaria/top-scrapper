@@ -1,0 +1,147 @@
+promotion_otop_16jan_28feb_2025 = [
+  "https://www.tops.co.th/en/campaign/promotion-otop-16jan-28feb-2025/fresh-food-bakery",
+  "https://www.tops.co.th/en/campaign/promotion-otop-16jan-28feb-2025/snacks-and-desserts",
+  "https://www.tops.co.th/en/campaign/promotion-otop-16jan-28feb-2025/pantry-and-ingredients",
+  "https://www.tops.co.th/en/campaign/promotion-otop-16jan-28feb-2025/beverages",
+  "https://www.tops.co.th/en/campaign/promotion-otop-16jan-28feb-2025/healthiful"
+]
+fruit_and_vegetables = [
+  "https://www.tops.co.th/en/fruit-and-vegetables/vegetables",
+  "https://www.tops.co.th/en/fruit-and-vegetables/fresh-fruit",
+  "https://www.tops.co.th/en/fruit-and-vegetables/preserved-fruit-and-vegetables",
+  "https://www.tops.co.th/en/fruit-and-vegetables/tropical-fruits-melon",
+  "https://www.tops.co.th/en/fruit-and-vegetables/salad",
+  "https://www.tops.co.th/en/fruit-and-vegetables/apples-pears",
+  "https://www.tops.co.th/en/fruit-and-vegetables/kale-spinach-greens",
+  "https://www.tops.co.th/en/fruit-and-vegetables/tomatoes-cucumbers",
+  "https://www.tops.co.th/en/fruit-and-vegetables/grapes-cherries-berries",
+  "https://www.tops.co.th/en/fruit-and-vegetables/orange-pomelo"
+]
+pantry_and_ingredients = [
+  "https://www.tops.co.th/en/pantry-and-ingredients/seasonings-and-spices",
+  "https://www.tops.co.th/en/pantry-and-ingredients/sauces",
+  "https://www.tops.co.th/en/pantry-and-ingredients/instant-noodles-and-porridge",
+  "https://www.tops.co.th/en/pantry-and-ingredients/cereal",
+  "https://www.tops.co.th/en/pantry-and-ingredients/baking-and-dessert-ingredients",
+  "https://www.tops.co.th/en/pantry-and-ingredients/canned-food",
+  "https://www.tops.co.th/en/pantry-and-ingredients/flour-noodles-and-pasta",
+  "https://www.tops.co.th/en/pantry-and-ingredients/condiments",
+  "https://www.tops.co.th/en/pantry-and-ingredients/preserves-spreads",
+  "https://www.tops.co.th/en/pantry-and-ingredients/cooking-oils",
+  "https://www.tops.co.th/en/pantry-and-ingredients/rice",
+  "https://www.tops.co.th/en/pantry-and-ingredients/sugar-and-sweeteners",
+  "https://www.tops.co.th/en/pantry-and-ingredients/dried-ingredients"
+]
+fresh_food_bakery = [
+  "https://www.tops.co.th/en/fresh-food-bakery/frozen-food",
+  "https://www.tops.co.th/en/fresh-food-bakery/chilled-foods",
+  "https://www.tops.co.th/en/fresh-food-bakery/deli-meat",
+  "https://www.tops.co.th/en/fresh-food-bakery/cheese",
+  "https://www.tops.co.th/en/fresh-food-bakery/bakery",
+  "https://www.tops.co.th/en/fresh-food-bakery/ice-cream",
+  "https://www.tops.co.th/en/fresh-food-bakery/fresh-milk",
+  "https://www.tops.co.th/en/fresh-food-bakery/yogurt",
+  "https://www.tops.co.th/en/fresh-food-bakery/butter-cream",
+  "https://www.tops.co.th/en/fresh-food-bakery/egg",
+  "https://www.tops.co.th/en/fresh-food-bakery/ready-to-eat-meal",
+  "https://www.tops.co.th/en/fresh-food-bakery/ice"
+]
+mom_and_kids = [
+  "https://www.tops.co.th/en/mom-and-kids/baby-personal-care",
+  "https://www.tops.co.th/en/mom-and-kids/toddler-1-3year",
+  "https://www.tops.co.th/en/mom-and-kids/baby-diapers",
+  "https://www.tops.co.th/en/mom-and-kids/milk-powder",
+  "https://www.tops.co.th/en/mom-and-kids/baby-4-12month",
+  "https://www.tops.co.th/en/mom-and-kids/baby-accessory",
+  "https://www.tops.co.th/en/mom-and-kids/uht-milk",
+  "https://www.tops.co.th/en/mom-and-kids/baby-food",
+  "https://www.tops.co.th/en/mom-and-kids/infant-0-3-month",
+  "https://www.tops.co.th/en/mom-and-kids/baby-cleaning",
+  "https://www.tops.co.th/en/mom-and-kids/apparel-toys",
+  "https://www.tops.co.th/en/mom-and-kids/pregnancy"
+]
+snacks_and_desserts = [
+  "https://www.tops.co.th/en/snacks-and-desserts/biscuits-cookies-crackers",
+  "https://www.tops.co.th/en/snacks-and-desserts/chocolate",
+  "https://www.tops.co.th/en/snacks-and-desserts/chips",
+  "https://www.tops.co.th/en/snacks-and-desserts/candies-and-chewing-gum",
+  "https://www.tops.co.th/en/snacks-and-desserts/nuts-and-dried-fruit",
+  "https://www.tops.co.th/en/snacks-and-desserts/ice-cream",
+  "https://www.tops.co.th/en/snacks-and-desserts/meat-and-seafood-snacks",
+  "https://www.tops.co.th/en/snacks-and-desserts/corn-chips-popcorn",
+  "https://www.tops.co.th/en/snacks-and-desserts/local-snacks",
+  "https://www.tops.co.th/en/snacks-and-desserts/desserts"
+]
+meat_and_seafood = [
+  "https://www.tops.co.th/en/meat-and-seafood/deli-meat",
+  "https://www.tops.co.th/en/meat-and-seafood/fish-and-seafood",
+  "https://www.tops.co.th/en/meat-and-seafood/pork",
+  "https://www.tops.co.th/en/meat-and-seafood/poultry",
+  "https://www.tops.co.th/en/meat-and-seafood/frozen-meatseafood",
+  "https://www.tops.co.th/en/meat-and-seafood/beef",
+  "https://www.tops.co.th/en/meat-and-seafood/ready-to-eat-meals",
+  "https://www.tops.co.th/en/meat-and-seafood/marinated-meat",
+  "https://www.tops.co.th/en/meat-and-seafood/plant-based-meat",
+  "https://www.tops.co.th/en/meat-and-seafood/lamb",
+  "https://www.tops.co.th/en/meat-and-seafood/frozen-meat-seafood"
+]
+health_and_beauty_care = [
+  "https://www.tops.co.th/en/health-and-beauty-care/body-care",
+  "https://www.tops.co.th/en/health-and-beauty-care/makeup",
+  "https://www.tops.co.th/en/health-and-beauty-care/facial-care",
+  "https://www.tops.co.th/en/health-and-beauty-care/hair-care",
+  "https://www.tops.co.th/en/health-and-beauty-care/health-and-supplement",
+  "https://www.tops.co.th/en/health-and-beauty-care/oral-care",
+  "https://www.tops.co.th/en/health-and-beauty-care/feminine-care",
+  "https://www.tops.co.th/en/health-and-beauty-care/hand-and-foot-care",
+  "https://www.tops.co.th/en/health-and-beauty-care/incontinence",
+  "https://www.tops.co.th/en/health-and-beauty-care/atk-self-test"
+]
+household_and_pet = [
+  "https://www.tops.co.th/en/household-and-pet/kitchen-supplies",
+  "https://www.tops.co.th/en/household-and-pet/miscellaneous",
+  "https://www.tops.co.th/en/household-and-pet/laundry",
+  "https://www.tops.co.th/en/household-and-pet/batteries-and-appliances",
+  "https://www.tops.co.th/en/household-and-pet/seasonal",
+  "https://www.tops.co.th/en/household-and-pet/air-fresheners",
+  "https://www.tops.co.th/en/household-and-pet/tissue-paper",
+  "https://www.tops.co.th/en/household-and-pet/household-cleaners",
+  "https://www.tops.co.th/en/household-and-pet/cleaning-tool",
+  "https://www.tops.co.th/en/household-and-pet/pest-control",
+  "https://www.tops.co.th/en/household-and-pet/dish-cleaner",
+  "https://www.tops.co.th/en/household-and-pet/merit-set"
+]
+petnme = [
+  "https://www.tops.co.th/en/petnme/dog-food",
+  "https://www.tops.co.th/en/petnme/cat-food",
+  "https://www.tops.co.th/en/petnme/pet-accessories-toys",
+  "https://www.tops.co.th/en/petnme/pet-health-care",
+  "https://www.tops.co.th/en/petnme/pet-food"
+]
+beverages = [
+  "https://www.tops.co.th/en/beverages/coffee",
+  "https://www.tops.co.th/en/beverages/fruit-juice",
+  "https://www.tops.co.th/en/beverages/tea",
+  "https://www.tops.co.th/en/beverages/fresh-milk",
+  "https://www.tops.co.th/en/beverages/uht-milk",
+  "https://www.tops.co.th/en/beverages/soft-drink-and-mixers",
+  "https://www.tops.co.th/en/beverages/health-tonics",
+  "https://www.tops.co.th/en/beverages/bottled-water",
+  "https://www.tops.co.th/en/beverages/powder-health-tonic",
+  "https://www.tops.co.th/en/beverages/functional-drinks"
+]
+only_at_tops = [
+  "https://www.tops.co.th/en/campaign/only-at-tops/fruit-and-vegetables",
+  "https://www.tops.co.th/en/campaign/only-at-tops/meat-and-seafood",
+  "https://www.tops.co.th/en/campaign/only-at-tops/fresh-food-bakery",
+  "https://www.tops.co.th/en/campaign/only-at-tops/snacks-and-desserts",
+  "https://www.tops.co.th/en/campaign/only-at-tops/health-and-beauty-care",
+  "https://www.tops.co.th/en/campaign/only-at-tops/mom-and-kids",
+  "https://www.tops.co.th/en/campaign/only-at-tops/household-and-pet",
+  "https://www.tops.co.th/en/campaign/only-at-tops/pantry-and-ingredients",
+  "https://www.tops.co.th/en/campaign/only-at-tops/beverages",
+  "https://www.tops.co.th/en/campaign/only-at-tops/petnme",
+  "https://www.tops.co.th/en/campaign/only-at-tops/healthiful",
+  "https://www.tops.co.th/en/campaign/only-at-tops/houseware",
+  "https://www.tops.co.th/en/campaign/only-at-tops/promotion"
+]
