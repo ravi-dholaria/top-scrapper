@@ -59,48 +59,6 @@ def scrape(url):
 
 def scroll_to_bottom(driver):
     # Scroll to the bottom of the page and wait for script to finish
-    # script = '''
-    # const sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay));
-
-    # (async () => {
-    #     window.scrollFinished = false; // Initialize a flag
-    #     window.scrollTo(0, 0); // Scroll to the top of the page
-    #     const orderedList = document.querySelector('#container-09ecb47f85 > div.experiencefragment');
-    #     if (!orderedList) {
-    #         console.log('Ordered list element not found.');
-    #         window.scrollFinished = true; // Set flag to true even if element not found to avoid infinite loop
-    #         return;
-    #     }
-
-    #     let initialScrollHeight = document.body.scrollHeight.toString();
-    #     let currentScrollHeight = "0";
-    #     let count = 1;
-
-    #     function scrollIfHeightChanges() {
-    #         orderedList.scrollIntoView({
-    #             behavior: 'smooth',
-    #             block: 'end',
-    #             inline: 'nearest'
-    #         });
-    #         console.log('Scrolled into view:', initialScrollHeight);
-    #     }
-
-    #     while (true) {
-    #         scrollIfHeightChanges();
-    #         await sleep(1500);
-
-    #         currentScrollHeight = document.body.scrollHeight.toString();
-    #         if (count === 0 && currentScrollHeight === initialScrollHeight) {
-    #             console.log('Scroll loop finished:', initialScrollHeight);
-    #             break;
-    #         }
-    #         count = 0;
-    #         initialScrollHeight = currentScrollHeight;
-    #     }
-    #     window.scrollFinished = true; // Set flag to true when scrolling is complete
-    # })();
-    # '''
-    
     script = '''
     window.scrollFinished = false;
     let scrollInterval = setInterval(() => {
